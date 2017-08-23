@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Check whether a database handle object is valid or not</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for isPostgresqlIdCurrent {RPostgreSQL}"><tr><td>isPostgresqlIdCurrent {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Check whether a database handle object is valid or not
+</h2>
+
+<h3>Description</h3>
+
+<p>Support function that verifies that an object holding a reference
+to a foreign object is still valid for communicating with the RDBMS
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+isPostgresqlIdCurrent(obj)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>obj</code></td>
+<td>
+
+<p>any <code>dbObject</code> (e.g., <code>dbDriver</code>,
+<code>dbConnection</code>, <code>dbResult</code>).
+</p>
+</td></tr>
+</table>
+
+
+<h3>Details</h3>
+
+<p><code>dbObjects</code> are R/S-Plus remote references to foreign objects.
+This introduces differences to the object's semantics such as
+persistence (e.g., connections may be closed unexpectedly),
+thus this function provides a minimal verification to ensure 
+that the foreign object being referenced can be contacted.
+</p>
+
+
+<h3>Value</h3>
+
+<p>a logical scalar.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="../../DBI/html/dbDriver.html">dbDriver</a></code>
+<code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+cursor &lt;- dbSendQuery(con, sql.statement)
+isIdCurrent(cursor)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Set data mappings between PostgreSQL and R/S-Plus</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for dbSetDataMappings-methods {RPostgreSQL}"><tr><td>dbSetDataMappings-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Set data mappings between PostgreSQL and R/S-Plus
+</h2>
+
+<h3>Description</h3>
+
+<p>Not yet implemented
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>res</dt><dd>
+<p>a <code>PostgreSQLResult</code> object as returned by <code>dbSendQuery</code>.
+</p>
+</dd>
+<dt>flds</dt><dd>
+<p>a data.frame with field descriptions as returned by 
+<code><a href="../../DBI/html/dbColumnInfo.html">dbColumnInfo</a></code>.
+</p>
+</dd>
+<dt>... </dt><dd>
+<p>any additional arguments are passed to the implementing method.
+</p>
+</dd>
+</dl>
+
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>,
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>,
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>,
+<code><a href="../../DBI/html/dbColumnInfo.html">dbColumnInfo</a></code>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+makeImage &lt;- function(x) {
+  .C("make_Image", as.integer(x), length(x))
+}
+
+res &lt;- dbSendQuery(con, statement)
+flds &lt;- dbColumnInfo(res)
+flds[3, "Sclass"] &lt;- makeImage
+
+dbSetDataMappings(rs, flds)
+
+im &lt;- fetch(rs, n = -1)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

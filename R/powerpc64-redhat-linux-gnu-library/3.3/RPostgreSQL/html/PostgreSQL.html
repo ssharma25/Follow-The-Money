@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Instantiate a PostgreSQL client from the current R or S-Plus...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for PostgreSQL {RPostgreSQL}"><tr><td>PostgreSQL {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Instantiate a PostgreSQL client from the current R or S-Plus session
+</h2>
+
+<h3>Description</h3>
+
+<p>This function creates and initializes a PostgreSQL client.
+It returns an driver object that allows you to connect
+to one or several PostgreSQL servers.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+PostgreSQL(max.con = 16, fetch.default.rec = 500, force.reload = FALSE)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>max.con </code></td>
+<td>
+
+<p>Maximum number of connections that are intended to have open at one time.
+There's no intrinic limit, since strictly speaking this limit applies 
+to PostgreSQL <em>servers</em>, but clients can have (at least in theory)
+more than this.  Typically there are at most a handful of open connections,
+thus the internal <code>RPostgreSQL</code> code uses a very simple linear search
+algorithm to manage its connection table.
+</p>
+</td></tr>
+<tr valign="top"><td><code>fetch.default.rec</code></td>
+<td>
+
+<p>number of records to fetch at one time from the database.
+(The <code><a href="../../DBI/html/fetch.html">fetch</a></code> method uses this number as a default.)
+</p>
+</td></tr>
+<tr valign="top"><td><code>force.reload</code></td>
+<td>
+
+<p>should the client code be reloaded (reinitialize)?
+Setting this to <code>TRUE</code> allows you to change
+default settings.  Notice that all connections should be closed
+before re-loading.
+</p>
+</td></tr>
+</table>
+
+
+<h3>Details</h3>
+
+<p>This object is a singleton, that is, on subsequent invocations
+it returns the same initialized object. 
+</p>
+<p>This implementation allows you to connect
+to multiple host servers and run multiple connections on each server
+simultaneously.
+</p>
+
+
+<h3>Value</h3>
+
+<p>An object <code>PostgreSQLDriver</code> that extends
+<code>dbDriver</code> and 
+<code>dbObjectId</code>.
+This object is required to create connections
+to one or several PostgreSQL database engines.
+</p>
+
+
+<h3>Side Effects</h3>
+
+<p>The R/S-Plus client part of the database communication is initialized,
+but note that connecting to the database engine needs to be done through
+calls to <code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>.
+</p>
+
+
+<h3>User authentication</h3>
+
+<p>The passed string can be empty to use all default parameters, or it can
+contain one or more parameter settings separated by comma. Each
+parameter setting is in the form parameter = &quot;value&quot;. Spaces around the
+equal sign are optional. 
+</p>
+<p>The most important parameters are <code>user</code>, <code>password</code>,
+<code>host</code>, <code>dbname</code>, <code>port</code>, <code>tty</code> and <code>options</code>. 
+</p>
+
+
+<h3>References</h3>
+
+<p>See <a href="stat.bell-labs.com/RS-DBI">stat.bell-labs.com/RS-DBI</a> 
+for more details on the R/S-Plus database interface.
+</p>
+<p>See the documentation at the PostgreSQL Web site
+<a href="http://www.postgresql.org">http://www.postgresql.org</a> for details.
+</p>
+
+
+<h3>Author(s)</h3>
+
+<p>David A. James</p>
+
+
+<h3>See Also</h3>
+
+<p>On database managers:
+</p>
+<p><code><a href="../../DBI/html/dbDriver.html">dbDriver</a></code>
+<code><a href="../../DBI/html/dbUnloadDriver.html">dbUnloadDriver</a></code>
+</p>
+<p>On connections, SQL statements and resultSets:
+</p>
+<p><code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>
+<code><a href="../../DBI/html/dbDisconnect.html">dbDisconnect</a></code>
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>
+<code><a href="../../DBI/html/dbGetQuery.html">dbGetQuery</a></code>
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>
+<code><a href="../../DBI/html/dbClearResult.html">dbClearResult</a></code>
+</p>
+<p>On transaction management:
+</p>
+<p><code><a href="../../DBI/html/dbCommit.html">dbCommit</a></code>
+<code><a href="../../DBI/html/dbRollback.html">dbRollback</a></code>
+</p>
+<p>On meta-data:
+</p>
+<p><code><a href="../../base/html/summary.html">summary</a></code>
+<code><a href="../../DBI/html/dbGetInfo.html">dbGetInfo</a></code>
+<code><a href="../../DBI/html/dbGetDBIVersion.html">dbGetDBIVersion</a></code>
+<code><a href="../../DBI/html/dbListTables.html">dbListTables</a></code>
+<code><a href="../../DBI/html/dbListConnections.html">dbListConnections</a></code>
+<code><a href="../../DBI/html/dbListResults.html">dbListResults</a></code>
+<code><a href="../../DBI/html/dbColumnInfo.html">dbColumnInfo</a></code>
+<code><a href="../../DBI/html/dbGetException.html">dbGetException</a></code>
+<code><a href="../../DBI/html/dbGetStatement.html">dbGetStatement</a></code>
+<code><a href="../../DBI/html/dbHasCompleted.html">dbHasCompleted</a></code>
+<code><a href="../../DBI/html/dbGetRowCount.html">dbGetRowCount</a></code>
+<code><a href="../../DBI/html/dbGetRowsAffected.html">dbGetRowsAffected</a></code>
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+# create a PostgreSQL instance and create one connection.
+&gt; m &lt;- dbDriver("PostgreSQL")
+&lt;PostgreSQLDriver:(4378)&gt;
+
+&gt; con &lt;- dbConnect(m, user="username", password="passwd", dbname="database_name")
+&gt; rs &lt;- dbSendQuery(con, "select * sales where price &lt; 10")
+&gt; df &lt;- fetch(rs, n = 50)
+&gt; dbHasCompleted(rs)
+[1] FALSE
+&gt; df2 &lt;- fetch(rs, n = -1)
+&gt; dbHasCompleted(rs)
+[1] TRUE
+&gt; dbClearResult(rs)
+&gt; dbListTables(con)    
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

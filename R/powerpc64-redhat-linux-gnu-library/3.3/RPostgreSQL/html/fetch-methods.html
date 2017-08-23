@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Fetch records from a previously executed query</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for fetch-methods {RPostgreSQL}"><tr><td>fetch-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Fetch records from a previously executed query
+</h2>
+
+<h3>Description</h3>
+
+<p>This method is a straight-forward implementation of the corresponding
+generic function.
+</p>
+
+
+<h3>Details</h3>
+
+<p>The <code>RPostgreSQL</code> implementations retrieves only <code>n</code> records,
+and if <code>n</code> is missing it only returns up to <code>fetch.default.rec</code>
+as specified in the call to <code><a href="PostgreSQL.html">PostgreSQL</a></code> (500 by default).
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>res</dt><dd>
+<p>an <code>PostgreSQLResult</code> object.
+</p>
+</dd>
+<dt>n</dt><dd>
+<p>maximum number of records to retrieve per fetch.
+Use <code>n = -1</code> to retrieve all pending records;
+use a value of <code>n = 0</code> for fetching the default number 
+of rows <code>fetch.default.rec</code> defined in the 
+<code><a href="PostgreSQL.html">PostgreSQL</a></code> initialization invocation.
+</p>
+</dd>
+<dt>... </dt><dd><p>currently not used.</p>
+</dd>
+</dl>
+
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>,
+<code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>,
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>,
+<code><a href="../../DBI/html/dbGetQuery.html">dbGetQuery</a></code>,
+<code><a href="../../DBI/html/dbClearResult.html">dbClearResult</a></code>,
+<code><a href="../../DBI/html/dbCommit.html">dbCommit</a></code>,
+<code><a href="../../DBI/html/dbGetInfo.html">dbGetInfo</a></code>,
+<code><a href="../../DBI/html/dbReadTable.html">dbReadTable</a></code>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+drv &lt;- dbDriver("PostgreSQL")
+con &lt;- dbConnect(drv, user = "ruser",password = "123456",dbname = "status")
+res &lt;- dbSendQuery(con, statement = paste(
+                      "SELECT w.category, w.cost, p.type",
+                      "FROM items w, sales P",
+                      "WHERE w.category = p.type",
+                      "ORDER BY w.cost"))
+# we now fetch the first 100 records from the resultSet into a data.frame
+data1 &lt;- fetch(res, n = 100)   
+dim(data1)
+
+dbHasCompleted(res)
+
+# let's get all remaining records
+data2 &lt;- fetch(res, n = -1)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

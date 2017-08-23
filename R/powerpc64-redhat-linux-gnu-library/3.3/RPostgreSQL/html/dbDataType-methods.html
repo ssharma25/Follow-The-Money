@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Determine the SQL Data Type of an S object</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for dbDataType-methods {RPostgreSQL}"><tr><td>dbDataType-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Determine the SQL Data Type of an S object
+</h2>
+
+<h3>Description</h3>
+
+<p>This method is a straight-forward implementation of the corresponding
+generic function.
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>dbObj</dt><dd>
+<p>any <code>PostgreSQLObject</code> object, e.g., <code>PostgreSQLDriver</code>,
+<code>PostgreSQLConnection</code>, <code>PostgreSQLResult</code>.
+</p>
+</dd>
+<dt>obj</dt><dd>
+<p>R/S-Plus object whose SQL type we want to determine.
+</p>
+</dd>
+<dt>...</dt><dd>
+<p>any other parameters that individual methods may need.
+</p>
+</dd>
+</dl>
+
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="../../DBI/html/isSQLKeyword.html">isSQLKeyword</a></code>
+<code><a href="../../DBI/html/make.db.names.html">make.db.names</a></code>
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+data(quakes)
+drv &lt;- dbDriver("PostgreSQL")
+sql.type &lt;- dbDataType(drv, quakes)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

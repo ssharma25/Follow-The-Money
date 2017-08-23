@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Apply R/S-Plus functions to remote groups of DBMS rows...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for dbApply {RPostgreSQL}"><tr><td>dbApply {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Apply R/S-Plus functions to remote groups of DBMS rows (experimental)</h2>
+
+<h3>Description</h3>
+
+<p>Applies R/S-Plus functions to groups of remote DBMS rows without
+bringing an entire result set all at once.  The result set
+is expected to be sorted by the grouping field.
+</p>
+
+
+<h3>Details</h3>
+
+<p><code>dbApply</code> 
+This generic is meant to handle somewhat gracefully(?) large amounts 
+of data from the DBMS by bringing into R manageable chunks;
+the idea is that the data from individual groups can be handled by R, but
+not all the groups at the same time.  
+</p>
+<p>Currently, only the <code><a href="PostgreSQL.html">PostgreSQL</a></code> driver implements a method
+(see the helper function <code><a href="postgresqlDBApply.html">postgresqlDBApply</a></code>) for this
+generic function.
+</p>
+
+
+<h3>Value</h3>
+
+<p>A list with as many elements as there were groups in the
+result set.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>
+<code><a href="postgresqlDBApply.html">postgresqlDBApply</a></code>
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+## compute quantiles for each network agent
+con &lt;- dbConnect(PostgreSQL(), user= "user", password="passwd", dbname="sample")
+rs &lt;- dbSendQuery(con, 
+             "select Agent, ip_addr, DATA from pseudo_data order by Agent")
+out &lt;- dbApply(rs, INDEX = "Agent", 
+        FUN = function(x, grp) quantile(x$DATA, names=FALSE))
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

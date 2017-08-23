@@ -1,0 +1,3149 @@
+﻿
+                                1 of 1 DOCUMENT
+
+            Copyright (c) 2016 Duke Environmental Law & Policy Forum
+                     Duke Environmental Law & Policy Forum
+
+                                  Spring, 2016
+
+                     Duke Environmental Law & Policy Forum
+
+                        26 Duke Envtl. L. & Pol'y F. 299
+
+LENGTH: 17551 words
+
+NOTE: NORTH CAROLINA'S INVESTMENT TAX CREDIT IS GONE - NOW WHAT? POTENTIAL
+SOLUTIONS FOR CURRENT AND PROSPECTIVE SOLAR COMPANIES
+
+NAME: Dani Glazer +
+
+BIO: Copyright © 2016 Dani Glazer.
+
+ + Duke University School of Law, J.D. 2016; University of Michigan, B.S. 2010.
+
+TEXT:
+ [*299]
+
+   Introduction
+
+ Harnessing the sun's rays to produce energy has been possible since the late
+18th century, when the first solar motor was invented. n1 Einstein published
+papers on the photoelectric effect in the early 1900s, and NASA has used
+photovoltaic solar panels since the 1950s. n2 However, conventional fuel
+providers were firmly entrenched in the United States energy market, preventing
+solar energy from expanding to public sales. n3 This lasted until federal
+regulations to improve air and water quality opened the door for renewable
+energy, including solar. n4 The regulation created large expenses for oil and
+gas companies that had to undo decades of pollution. n5 This, combined with
+rising fuel prices, caused the petroleum industry to decline and consolidate. n6
+Around the same time, the price of photovoltaic cells began to decrease, making
+solar power much more financially viable. n7  [*300]  In the fifteen years
+since, the solar industry has faced its longest-lasting success yet. n8
+
+   Despite declining oil and gas prices, renewable energy across the United
+States continues to be financially successful. n9 This is largely because the
+price of photovoltaic cells continues to drop quickly due to improved technology
+and efficiency, n10 making low-cost production of solar power possible. n11 In
+addition, international concern about climate change has convinced governments
+across the world to maintain and improve renewable energy policies. n12 In the
+United States, to incentivize investment in solar power, the federal and state
+governments issue grants, loans, tax subsidies, and other financial incentives.
+n13
+
+   Recently, North Carolina's renewable energy policies n14 led to national
+recognition for the state's solar industry growth. n15 In 2007,  [*301]  North
+Carolina implemented a Renewable Energy and Energy Efficiency Portfolio Standard
+(REPS), n16 the first in the Southeastern U.S. n17 This supplemented one of the
+country's most generous tax subsidy bills, North Carolina's investment tax
+credit (the state ITC), which allowed a 35% tax credit to individual and
+corporate taxpayers that "constructed, purchased, or leased renewable energy
+property." n18 Of several renewable power sources included in "renewable energy
+property," the ITC had the strongest effect on the solar industry. n19 The state
+ITC exceeded most other states' solar tax subsidies, n20 and it supplemented a
+30% federal renewable energy tax credit (the federal ITC). n21 Local solar
+companies and advocacy groups lauded the state ITC for dramatically expanding
+solar investments in North Carolina. n22
+
+   North Carolina solar companies consist of utility-scale, commercial, and
+residential solar installations. n23 All three types of companies consider the
+state ITC one of the most important  [*302]  contributions to the solar
+industry. n24 Utility-scale solar projects are more common in North Carolina,
+since residential and commercial markets are severely hampered by the state's
+restriction against third-party sales. n25 Third-party sales, where a solar
+developer installs solar panels on a consumer-owned building and sells the
+consumer the power generated from those panels, are the most effective and
+popular method for selling residential solar power across the country. n26 They
+allow residential customers to install solar panels without paying installment
+and operation costs. n27 However, with the restriction in place, residential
+consumers have to purchase their solar energy systems outright rather than
+paying for only the energy generated. Residential and commercial installations
+are generally smaller solar arrays on business or residential property. n28 To
+sell residential or commercial solar installations, solar companies have to
+convince customers to make large investments. North Carolina companies do so
+primarily by touting savings from the state ITC, federal ITC, and reduced
+electricity consumption. n29
+
+    [*303]  In utility-scale projects, on the other hand, a developer usually
+constructs a large array of photovoltaic or concentrated solar power solar
+panels n30 and sells the generated power back to the local utility. Qualifying
+solar farms are guaranteed that the utility will buy their power, n31 but solar
+farms require substantial up-front capital investments. n32 The state ITC
+motivated national investors to elect North Carolina projects because the tax
+savings created a larger return on investment than other states' incentives. n33
+As John Morrison of Strata Solar put it, the state and federal ITCs "level[] the
+playing field," allowing solar companies to compete with utilities in a "highly
+regulated and highly subsidized industry." n34 Especially in North Carolina,
+where the utility company Duke Energy enjoys monopoly power, n35 incentives like
+the state ITC are necessary to attract investors from out of state and encourage
+in-state investment and consumption. n36
+
+   In recent years, these incentives have been successful. Between 2009 and
+2013, North Carolina brought in $ 2.1 billion in private solar investment,
+including $ 1.2 billion in 2013 alone. n37 But despite this influx in solar
+investment, political support for the ITC and other renewable energy programs
+has fluctuated. Across the country, utility companies and fossil fuel interests
+have pushed back against restrictions on conventional energy sources and
+incentives for alternative energy. n38 In North Carolina, after a shift in
+political climate n39 and aggressive lobbying by Duke Energy, n40 the state ITC
+was  [*304]  removed from the state budget for 2016. n41
+
+   This Note analyzes the impact of the state ITC's expiration and suggests
+potential solutions for solar companies left in the lurch. For an insider
+perspective, I interviewed founders of renewable energy companies to discover
+how federal, state, and private incentives have affected their business
+strategies. n42 To supplement these discussions, the author also consulted
+academics working in renewable energy policy and others with extensive
+experience in solar and renewable energy industries. n43 Their responses are
+included throughout this Note.
+
+   Part I of this Note discusses the utility of current government policies and
+incentives still in existence. Because these existing policies and incentives
+may not sufficiently compensate for the loss of the state ITC, Part II suggests
+topics and methods of policy advocacy that will help sustain the solar industry
+in North Carolina over the long term. Until this policy change occurs, Part III
+offers viable private resources for consumer and project financing, based on
+examples from the local community, out-of-state models, and advice from industry
+experts. Finally, the author concludes that inconsistent  [*305]  regulatory
+policy has put the state's solar industry on rocky terrain; companies must
+creatively piece together available government incentives and private solutions
+while advocating for better state policy that will eventually give the industry
+solid footing.
+
+   I. Government Incentives and Policies
+
+ Amid national growth in the solar industry, North Carolina has recently
+ascended national solar power rankings. n44 In 2014, North Carolina installed
+397 megawatts of solar capacity, reaching almost a gigawatt total and ranking
+second in the nation for the year. n45 Since its implementation of a Renewable
+Portfolio Standard in 2007, the state has generated billions of dollars in
+revenue through solar investment, creating thousands of jobs. n46 The state's
+solar energy policies, along with growth in the innovative Research Triangle
+have drawn large corporations such as Apple, Google, and Facebook to the state.
+n47 Now, these corporations contribute to the state's energy grid: one of
+Apple's two solar farms is among the largest in the state, and the company
+intends to install a third. n48
+
+   However, political leaders in the state have been trending away from
+supporting renewable energy. This is partly due to conservative lobbying by
+powerful organizations and individuals, n49 but it is also a reaction to the
+solar industry's success. Many state leaders, including Governor Pat McCrory,
+believe that the solar industry has been doing so well that it can stand on its
+own without tax credits or other state government incentives. n50 To this end,
+in September, the state House  [*306]  and Senate agreed to cut the state ITC
+from the 2016 budget, quelling hopes it would be extended. n51 This affects all
+renewable energy properties, but it affects the solar industry the most.
+According to those in the industry, solar companies have relied heavily on the
+state ITC to bring down costs. n52 The abrupt removal of the state ITC caused
+uncertainty about the future of North Carolina's solar industry and concern that
+other state policies may be next on the chopping block.
+
+   Historically, such uncertainty leads to unstable energy markets. For example,
+the federal Production Tax Credit (PTC) repeatedly expired and was renewed, each
+time creating a boom-bust cycle in the wind energy industry. n53 The resulting
+uncertainty slowed investment in wind energy and prevented the industry's
+growth. n54 The wind industry's struggle with the PTC exemplifies a common trend
+in renewable energy incentives: the haphazard, unpredictable nature of
+government support undermines the ultimate goal of creating a viable, stable
+solar energy industry.
+
+   Still, despite the regression and unpredictability of renewable energy policy
+in the state, some federal and state government resources are still available to
+solar companies in North Carolina. These include tax incentives, grants, loan
+guarantees, and other subsidized financing options. n55 This section notes the
+few that are  [*307]  most helpful to solar companies. n56
+
+   A. Federal Government Policies and Incentives
+
+ Generally, the federal government puts sunset provisions in its incentives and
+policies, n57 making their renewal subject to congressional votes. Also, in many
+cases, federal incentives only apply to certain geographic areas, certain types
+of consumers, or certain technologies. The short-term nature and narrow focus of
+many of these incentives do not sufficiently support a stable renewable energy
+market, instead providing only piecemeal support. However, on December 18, 2015,
+the 2016 federal budget extended several renewable energy policies, n58 creating
+stable renewable energy policy at the federal level. Among these, the PTC was
+extended for several years, phasing out gradually and providing the wind
+industry with a much-needed sense of predictability. n59 It seems Congress
+learned from its mistakes in the wind industry, and has laid the groundwork for
+steady renewable energy industry growth over the next several years.
+
+   1. Tax Incentives
+
+ Like the PTC for wind companies, solar companies depend heavily on the federal
+ITC. n60 If the state and federal ITC had both expired, it could have sent North
+Carolina's solar industry into a boom-and-bust cycle. n61 Fortunately, although
+the North Carolina ITC  [*308]  expired, the federal ITC has been renewed; the
+30% credit will remain in place until 2019 for solar producers, followed by a
+gradual reduction to 10% in 2022. n62 Like the state ITC, the federal ITC helps
+local utility-scale companies solicit private investors who can better take
+advantage of the tax savings, n63 and it lowers prices for residential
+consumers. n64 This buoys the local solar industry and will help cushion the
+blow felt by companies that had been relying on the state ITC. n65 The
+several-year extension of the credit came as a happy surprise to many people in
+the solar industry, and it will help provide stability in the North Carolina
+market despite the removal of the state ITC and unpredictability of other
+federal incentives. n66
+
+   Similarly, the Modified Accelerated Cost-Recovery System (MACRS) provides
+stability because, unlike other incentives, it does not expire. n67 MACRS allows
+solar companies and investors to generate tax savings by claiming higher than
+normal depreciation deductions for renewable energy property. n68 Normally,
+property depreciates based on its initial value and expected useful life. n69 As
+a  [*309]  practicality, the IRS calculates depreciation deductions based on
+property classifications rather than actual expected useful life. n70 Under
+MACRS, solar energy properties are classified as five-year properties, n71
+meaning they depreciate fully in five years, irrespective of their actual useful
+life. On top of this, the Economic Stimulus Act of 2008 created bonus
+depreciation, which allows solar properties - among others - a 50% deduction of
+the initial value in the first year before continuing as normal. n72 Like the
+ITC, MACRS is useful for utility-scale companies because its tax savings are
+valuable to large investors with a healthy "tax appetite." n73 Residential and
+commercial consumers also see tax savings using MACRS, meaning it is one of few
+federal policies to universally benefit solar companies.
+
+   2. Grant Programs
+
+ In contrast, federal grants generally only target small, rural projects
+designed to stimulate an otherwise stagnant economy. n74 These projects occur
+frequently in North Carolina, by converting abandoned tobacco farms and other
+unused land into solar farms that employ the local community. n75 Solar
+developers can apply for these grants to begin projects, but some are only
+available to potential consumers, such as local or tribal governments. n76 For
+instance, the  [*310]  U.S. Department of Agriculture's Rural Energy for America
+Program offers grants to agricultural producers and rural small businesses to
+make energy efficient improvements. n77 Similarly, the Rural Utilities Service
+offers High Energy Cost Grants designed to lower rural household energy costs.
+These are available only in rural areas with household energy costs of at least
+275% of the national average, n78 and to facilities that serve the local
+community. n79 In fact, projects for the primary benefit of a single household
+or business are ineligible. n80 Other grants are also available for similar
+solar projects in underserved or overburdened rural communities, n81 meaning
+federal grants are useful in narrowly defined markets for certain solar
+developers.
+
+   3. Loan Programs
+
+ While grants target certain communities, the federal loan guarantee program
+targets innovative technologies. n82 The Department of Energy (DOE) provides
+loan guarantees through the Loan Programs Office (LPO) for new or innovative
+renewable energy technology, designed to encourage companies that might
+otherwise struggle to secure financing. n83 An eligible project must "employ[]
+new or significantly improved technology" n84 and will generally be a large
+[*311]  project. n85 Application fees for the loan guarantee exceed $ 50,000,
+n86 and availability varies depending on the DOE's yearly solicitation
+requirements and case-by-case evaluations. n87 Although these loans can provide
+a huge head start to an innovative new company, they are hard to obtain, and
+therefore do not provide reliable support for solar companies.
+
+   Similarly, other federal loan programs target residential consumers. For
+example, energy efficient mortgages allow solar purchasers to add the full cost
+of solar installations to their home mortgages. n88 The mortgage program applies
+to purchases of energy efficient homes and energy efficiency upgrades. n89 Like
+the energy efficient mortgages, the PowerSaver loan program finances solar
+photovoltaic system installations and energy efficient home purchases. n90 PACE
+Financing, a similar program, allows homeowners to borrow from their local
+government to finance energy efficient home improvements such as solar panel
+installations. n91 However, this  [*312]  program is administered at the local
+level, and currently no North Carolina communities offer it. n92
+
+   Other than the federal ITC and MACRS program, the above federal incentives
+are only useful to certain solar companies, or in particular markets, or for a
+limited time. This hodgepodge of narrowly focused or short-term incentives
+creates niche markets rather than stimulating the industry as a whole. n93
+
+   B. State Government Policies and Incentives
+
+ Although North Carolina incentives apply to most or all in-state companies,
+they include sunset provisions creating the same uncertainty that plagues
+federal incentives. Still, the state's recent national recognition in the solar
+industry came from several years of policy decisions that stimulated the
+renewable energy industry. n94 North Carolina leaders saw the benefits of the
+solar industry in their state: Senator Richard Burr said at the Conservative
+Clean Energy Summit, "When I look at North Carolina's great pace of solar
+deployment right now, I look at 6,000+ jobs." n95 The following policies and
+incentives resulted from a legislature that, like Senator Burr, saw investment
+in solar energy policy as a "cost-effective formula." n96 Currently, the
+legislature does not uniformly believe this investment is worth continuing, n97
+but for now, the following options are available.
+
+[*313]
+
+   1. Renewable Energy Policies
+
+ North Carolina's Renewable Energy and Energy Efficiency Portfolio Standard
+(REPS), n98 the first of its kind in the Southeastern United States, spurred a
+dramatic expansion of North Carolina's solar industry. n99 The REPS requires
+utility companies in North Carolina to use renewable energy sources to generate
+a percent of their power. n100 This helps the solar industry, because utilities
+can meet their requirements by purchasing power, Solar Renewable Energy
+Certificates (SRECs), carbon offset credits, n101 or equipment from renewable
+energy facilities and developers. n102 In theory, North Carolina solar companies
+could sell SRECs to Duke Energy, n103 but the market is almost nonexistent. The
+REPS requirements are fairly low, n104 and utilities are not subject to fines
+for failing to meet them, so solar companies struggle to set low enough prices
+to successfully sell SRECs. n105
+
+   Despite this limitation, companies may be able to sell SRECs in niche
+markets. For example, there is a small voluntary market, where  [*314]
+companies purchase SRECs in order to say they are "going green." n106 In
+addition, NC GreenPower, a local nonprofit, will pay for SRECs based on a
+bidding process. n107 Companies can also sell SRECs in Pennsylvania by building
+solar farms outside Duke Energy territory (served by Dominion or the Tennessee
+Valley Authority). n108 While companies may not want to use SREC sales as a main
+source of income, these limited options may help a struggling company make ends
+meet. n109
+
+   More commonly, utility-scale companies sell solar power directly to Duke
+Energy, since the utility is required to purchase renewable energy under the
+Public Utility Regulatory Policies Act of 1978 (PURPA). n110 PURPA, a federal
+statute, is administered by the North Carolina Utilities Commission (NCUC) n111
+to benefit qualifying facilities (QFs). n112 A QF is a power production facility
+or a cogeneration facility, producing electricity and thermal energy. n113 "With
+limited exceptions, QFs generally have the option of selling to a utility either
+at the utility's avoided cost or at a negotiated rate." n114 Usually, larger
+solar facilities opt for negotiated rates, and QFs choose avoided cost. Avoided
+cost is "the incremental cost to an electric utility of electric energy or
+capacity or both which, but for the purchase from the [QF], such utility would
+generate itself or purchase from another source." n115
+
+    [*315]  Certain QFs can take advantage of a standard Power Purchase
+Agreement (PPA), using a toolkit written by Duke Energy. n116 As required by the
+NCUC, QFs must be 5 megawatts or smaller to be eligible for this standard PPA.
+n117 This helps QFs by avoiding legal fees and transaction costs, but it also
+prevents them from negotiating for more preferable terms. n118 Conversely,
+larger renewable energy facilities can bid and negotiate with Duke Energy for
+better rates, but they will likely incur legal and other transactional costs in
+doing so. n119 To avoid these extra costs, most of North Carolina's
+utility-scale facilities are currently less than 5 megawatts. n120 While PURPA
+is still in place, QFs will have a buyer for any solar energy produced, but this
+forced market is potentially unsustainable if Duke Energy succeeds in convincing
+the NCUC to lower the maximum size of a QF. n121 For now, however, this is the
+most common and effective method for utility-scale solar companies to operate in
+North Carolina.
+
+   2. Tax Incentives
+
+ Although North Carolina solar companies can no longer apply for the state ITC,
+n122 two state property tax incentives still apply to solar installments. First,
+property taxes for solar heating systems can only be levied to the extent that
+would apply to conventional  [*316]  systems. n123 This does not necessarily
+save money, but it ensures the switch will not incur extra property taxes.
+Second, solar energy systems are excludable from property taxes. n124
+Residential systems for personal use only are 100% excludable, n125 and systems
+designed to generate income are 80% excludable. n126 Combined with federal tax
+incentives, these property tax exclusions can present substantial savings to
+solar power consumers, which helps residential solar companies convince
+consumers to invest in solar energy systems. Still, they do not save nearly as
+much money as the state ITC n127 and are thus not an effective replacement.
+Also, they only apply to a small subset of consumers; since most solar companies
+in North Carolina operate at the utility scale, this is unhelpful to a majority
+of the state's solar industry.
+
+   C. Local Government Policies and Incentives
+
+ While city and county governments have fewer resources - their budgets are
+allocated by the state - they are eligible for federal and state loans and
+grants, which they distribute to local residents and companies. n128 North
+Carolina loan programs are mostly sponsored by utility cooperatives or
+membership corporations taking advantage of federal grants or loan guarantees,
+n129 but the state also authorizes city governments to issue loans to solar
+companies or individuals to install  [*317]  solar energy systems. n130 As a
+small company, it may be worth investigating which cities take part in these
+loans before establishing a main office. n131 As an established company, it may
+be feasible to work with local governments to ensure access to the loans. Local
+governments and small companies both want to provide financial assistance to
+residential consumers, and local officials are often easily accessible and
+willing to help. This may be useful particularly in the Research Triangle, which
+has seen huge growth in new technology companies in the last decade, accompanied
+by an influx of more affluent residents, who are more likely to purchaser solar
+energy systems. n132
+
+   Solar companies should also communicate with local zoning boards. A
+particular district may allow, partially restrict, or completely prohibit solar
+installations due to aesthetic, noise, storm water, glare, safety, and property
+value concerns. n133 Restrictions may differ between utility-scale solar farms
+and residential solar panel installations n134 and between roof-mounted and
+ground-mounted systems. n135 In a district with restrictions already in place,
+zoning officials may be willing to make exceptions based on these distinctions,
+because certain systems might not impact the community in the same way as
+others, especially if companies demonstrate that they will improve the local
+community. n136
+
+   In most North Carolina districts, no restrictions exist, but it is still
+[*318]  a good idea to work with local zoning officials to establish balanced
+zoning ordinances and prevent the community from creating restrictions. n137 To
+this end, the North Carolina Sustainable Energy Association (NC SEA) created a
+template ordinance for local governments in the state. n138 While it was created
+in 2013, its regulations are still applicable; NC SEA intended to help balance
+industry burdens with land use management over the long term. n139 The template
+provides suggested permit requirements, aesthetic and development restrictions,
+and guidance for implementation. n140
+
+   On a smaller scale, homeowners associations can also greatly impact solar
+installation companies' success. They set the standard for acceptable household
+improvements in a community, n141 so solar companies should work with them to
+encourage policies that promote solar installations. Like zoning boards,
+homeowners associations will have specific concerns about aesthetics, property
+value, and other community needs. n142 Accordingly, the Solar Foundation created
+model solar guidelines for homeowners associations, n143 allowing solar
+companies to encourage solar installation in a majority of homes in a  [*319]
+community. This strategy will help establish a particular company as a
+neighborhood's main resource, and it can be repeated in several neighborhoods to
+form a collective sales strategy. n144
+
+   II. Policy Advocacy
+
+ As President Obama warned, fast change in the energy industry "is invariably
+going to create resistance from some fossil fuel interests who want to protect
+the old, outdated status quo." n145 He gave examples such as "massive lobbying
+efforts backed by fossil fuel interests, ... conservative think tanks, [and] the
+Koch brothers pushing for new laws to roll back renewable energy standards or
+prevent new clean energy businesses from succeeding." n146 This resistance is
+well established in North Carolina.
+
+   Several state and national organizations have financial incentives to prevent
+growth in the renewable energy industry. n147 Groups like the American
+Legislative Exchange Council (ALEC) n148 have been very active in North
+Carolina, n149 where Duke Energy enjoys a highly regulated monopoly. n150 North
+Carolina's renewable energy regulations  [*320]  encourage competition, which
+inherently threatens this monopoly power. Duke Energy alone harnesses
+significant lobbying power in North Carolina, but it is also supported by these
+national organizations. n151
+
+   These lobbying organizations come armed with research generated by
+institutions that appear credible but are funded by organizations with
+significant financial stakes in oil and gas companies, such as Strata Policy of
+Utah State University. n152 Strata Policy produces reports exclusively opposing
+renewable energy policies. n153 They also sponsor programs such as the "Koch
+Scholars," in which students are given $ 1,000 and "exposed to liberty-based
+principles." n154 These principles often include pushing for fewer solar  [*321]
+and other renewable energy policies, n155 and they have recently succeeded in
+North Carolina. n156
+
+   Accordingly, North Carolina solar companies must engage in the political
+process to prevent Duke Energy and organizations like ALEC and Strata Policy
+from convincing state regulators to continue to strip away regulations. To
+compete with such powerful opposition, solar companies seeking political
+involvement need guidance from the many companies currently involved. n157 To
+gain access to other players in the solar industry with lobbying experience and
+connections, n158 new solar companies should join industry associations such as
+the NC Sustainable Energy Association, n159 the NC Clean Energy Business
+Alliance, n160 the NC Clean Energy Technology Center, n161 and NC GreenPower.
+n162 These associations help solar companies advocate for additional state
+incentives to replace the ITC and improved state regulatory policy to chip away
+at Duke Energy's monopoly power.
+
+   While incentives are important for all solar companies, residential and
+commercial companies face an additional regulatory obstacle: North Carolina's
+restriction on third-party sales. n163 The  [*322]  restriction comes from the
+North Carolina Public Utilities Act (PUA), which prevents public utilities from
+serving overlapping territories. n164 Since Duke Energy serves the majority of
+North Carolina, n165 renewable energy producers, which are considered public
+utilities under the PUA, would infringe on this territory. n166 While
+restrictions on public utilities are common, most states have removed the
+obstacle by narrowing the definition of a public utility, either limiting it to
+retail electricity sellers or excluding some or all renewable energy producers.
+n167 Only five states have not excluded renewable energy producers from the
+restriction in some way. n168 North Carolina needs to join the rest of the
+country in allowing third-party sales, which have tremendously increased
+residential and commercial sales in other states, and would do the same here.
+n169
+
+   Several organizations have attempted to change or remove the PUA. Most
+recently, NC WARN provided a rooftop solar array to Faith Community Church,
+knowing Duke Energy would retaliate, triggering litigation. n170 Currently, NC
+WARN is requesting a declaratory ruling by the NCUC that it is not a public
+utility and therefore not restricted from third-party sales. n171 NC WARN argues
+[*323]  that it is not providing electricity to the public, but only to
+"self-selected nonprofit organizations." n172 The NCUC will decide whether to
+allow third-party sales, perhaps only to nonprofits, in 2016. n173 The
+litigation team then plans to appeal the decision, seeking a court ruling that
+will force the NCUC to amend the PUA and allow third-party sales. n174
+
+   A legislative solution, the Energy Freedom Act, was proposed in March of
+2015. n175 It would allow third party sales by renewable energy producers that
+meet certain requirements. n176 Specifically, it clarifies the definition of a
+public utility in the North Carolina Public Utilities Act to read:
+
+
+
+   A person who constructs or operates an electric generating facility on a
+customer's property for the primary purpose of producing electricity, heat, or
+steam for sale to or for the use by the customer is not a public utility and is
+not subject to regulation by the utilities commission so long as the facility is
+sized to supply no more than one hundred twenty-five percent of the average
+annual energy consumption of the customer at that site. n177
+
+ However, although several large companies supported the proposal, it did not
+leave committee discussions to reach a vote, and  [*324]  the bill will be
+reintroduced in 2016. n178
+
+   In the meantime, companies may circumvent the restriction using solar leases,
+although they could face backlash from utilities. n179 This would be
+accomplished using a sale-leaseback agreement for residential and commercial
+solar installations. n180 In a standard sale-leaseback agreement, the solar
+developer sells a system to the customer, simultaneously signing a lease for the
+same system. n181 To avoid violating the PUA, companies could tie monthly lease
+payments to the energy generated by the solar array, thus indirectly
+compensating the purchaser for the generation of power without actually selling
+the power to a third party. n182 However, even those suggesting this structure
+warn that while it is procedurally not a third-party sale, substantively it may
+be considered production of electricity and "distribution to or for the public
+for compensation" under the PUA. n183 Still, the statute is not clear or
+absolute, and until the restriction is lifted, it will continue to severely
+limit the residential solar market, so a creative sale-leaseback agreement may
+be worth the effort and risk.
+
+   The uncertainty that the outdated PUA creates, combined with short-term state
+policies and narrow federal policies, immensely weakens North Carolina's solar
+industry. Although solar energy policies brought in billions of dollars in
+revenue from investment and tax revenues, state legislators decided to abruptly
+extinguish the state ITC. Clearly, advocacy is necessary to prevent more drastic
+cuts and keep some level of consistency in North Carolina's solar policies.
+
+   III. Private Solutions
+
+ The upside to the inconsistent,limited resources provided by state and federal
+governments is that it inspires solutions by private investors, nonprofits, and
+grassroots community organizations. This section details existing private
+solutions in North Carolina, models  [*325]  from out of state that can be
+implemented here, and advice and expertise from several individuals in the solar
+industry and renewable energy policy sphere. More than one industry expert
+advised that in a difficult market, it is particularly important that companies
+be creative and savvy, and find something unique to offer. n184 However, even
+with innovative ideas, a solar company needs reliable funding.
+
+   A. Private Investment
+
+ Private investment varies based on a company's purpose and model. A
+utility-scale company, for instance, needs funding for large up-front capital
+costs. Most solar farms in North Carolina need about $ 5 million to cover
+construction costs alone. n185 This need is often met using "project finance,"
+which in the solar industry is a method of borrowing from a large investor with
+a "tax appetite." n186 Project finance can be structured in several different
+ways, but developers most commonly use the Partnership Flip structure. n187 In a
+Partnership Flip, a project investor contributes either equity or debt financing
+in exchange for majority ownership of the project, which allows the solar
+project to benefit from the federal ITC and other incentives when the developer
+otherwise might not qualify for them. n188 Once the investor's target return on
+investment is reached, the ownership ratio  [*326]  flips, giving the developer
+control and, usually, an option to buy out the investor. n189 Although the
+removal of the state ITC would probably decrease in-state investors' willingness
+to use the Partnership Flip structure, n190 most large investors are national
+companies who could still take advantage of the federal ITC. n191
+
+   However, North Carolina developers already compete for investment with other
+developers across the country. The state ITC made North Carolina projects more
+reliable investments by almost doubling investors' tax savings and demonstrating
+the state government's support of the solar industry, which suggested stability
+and therefore lower risk. n192 Now, utility-scale companies will have to rely on
+their reputations and accumulated project portfolios to secure private
+investment. n193 Thus, the state ITC's expiration eliminates the competitive
+edge North Carolina's utility-scale solar companies used to have. n194
+
+   For residential solar companies, private investment provides indirect
+benefits by saving consumers money on solar installations, most often via solar
+loan products. n195 For example, Dividend Solar, a  [*327]  national solar
+investment firm, offers loans through its EmpowerLoan program. n196 In 2015,
+these were offered through partnerships with North Carolina companies for $ 0
+down, securitized by the solar installation the loan was used to pay for. n197
+Many other banks provide similar loans for renewable energy projects, including
+solar loans. n198 However, most solar loans are conditioned on tax incentives,
+often specifically on the state ITC, n199 so application processes and
+eligibility requirements will likely change in 2016. n200
+
+   Because private investment depends on actual and perceived ROI, they depend
+heavily on state and federal policies and incentives. Thus, for both
+utility-scale and residential solar companies, private investment is not a
+substitute for government policy, but a supplement. Without the state ITC,
+private investment will still be a viable option for solar companies in North
+Carolina, but investors will be more reluctant, investing fewer dollars and
+demanding higher interest rates. n201
+
+   B. Community Organizations and Solarize Programs
+
+   1. Solarize Programs
+
+ Since solar loan rates will likely increase, residential solar companies will
+need to turn to alternative methods of lowering costs for consumers, such as
+Solarize programs. The first Solarize program began as a grassroots movement in
+Oregon and quickly expanded across the country. It helps reduce three barriers
+that prevent individuals from entering the residential solar market: high
+upfront costs, dauntingly complex transactions, and low customer inertia. n202
+[*328]  Although Solarize programs vary greatly, they generally share three
+characteristics. n203 First, Solarize campaigns pre-select solar contractors in
+a competitive process to ensure quality and prevent customers from having to
+independently research solar developers. n204 Second, the campaign uses
+community outreach to solicit participation, sparking higher customer inertia.
+n205 Third, the selected solar developer offers a discount for a limited time to
+lower the costs for consumers in exchange for a guaranteed bulk sale. n206 If a
+solar developer can establish itself as a reputable contractor to Solarize
+programs, it can generate a reliable source of income. n207
+
+   For example, Yes! Solar Solutions and Southern Energy Management worked with
+Duke University's Solarize program, which helped local residents purchase solar
+panels for a negotiated discount. n208 The Solarize program lowered the retail
+price of the installation by about 10%, and when combined with the 30% federal
+ITC and 35% state ITC, customers saved 75% on their solar installations. n209
+The university incorporated this program into the Duke Employee Solar Discount
+Pilot Program, in which Duke employees received a 10-20% discount on home solar
+installations, saving up to 85%. n210 Because the state ITC expired, these
+programs may not be offered in 2016. n211 Solarize programs depend on large-
+[*329]  scale involvement, n212 and without the dramatic savings from the
+combined state and federal ITCs, consumers are less likely to opt in to the
+program. n213
+
+   However, solar companies continue to partner with nonprofits to implement
+Solarize programs throughout the state. For instance, Yes! Solar Solutions has
+participated in several Solarize programs around North Carolina, and plans to
+continue to do so. n214 The state ITC's expiration will decrease the
+effectiveness of Solarize programs, but concentrated purchasing power, combined
+with the federal ITC, will still drive down prices and spark consumer
+investment.
+
+   2. Established Community Organizations and Methods
+
+ Communities also come together to support solar energy projects without
+established Solarize programs. n215 In a Solar Purchasing Cooperative, for
+example, a community agrees to install solar panels on their homes at the same
+time, providing both negotiating power and an incentive for the developer to
+offer a lower price for the bulk sale. n216 For instance, Interfaith Power &
+Light began as a collection of Episcopal churches coming together to purchase
+renewable energy. n217 Because this initial effort was so successful, it has
+grown into a national non-profit, with a very active North Carolina affiliate.
+n218 Most recently, it helped install a solar photovoltaic array on the United
+Church of Chapel Hill. n219 The project asked congregants for donations to fund
+the project, and then they could take advantage of the federal and state ITC on
+their investments. n220 Like Solarize programs,  [*330]  established Solar
+Purchasing Cooperatives provide a small-scale opportunity for solar developers
+to market their products more directly and effectively to residential consumers.
+
+   While Solar Purchasing Cooperatives focus mainly on residential solar
+purchases, many community organizations have recently used their collective
+bargaining power to create Community Benefits Agreements (CBAs) between
+community members, local governments, and utility-scale solar developers. n221
+CBAs ensure that solar developments do not infringe upon the local community or
+run afoul of local regulations, while still generating a profit for the solar
+developer. Although CBAs are generally initiated by community members,
+prospective developers could approach community organizations to create them.
+
+   By approaching community members before issues arise, companies can avoid
+unnecessary costs and decrease downside risk, which may encourage private
+investment. Recently, in the Town of Woodland, community members signed a
+petition successfully preventing the installation of a fourth solar farm outside
+of the town. n222 The community was not opposed to the solar farms, since it had
+permitted three others; they simply did not like the location of the proposed
+fourth. n223 The solar farm developer could have negotiated with the community
+members to select a different site, and the town may have signed a CBA allowing
+the solar farm's development rather than signing a petition to prevent it. n224
+
+   Working with local communities offers a small-scale solution for both
+residential and utility-scale solar developers. This strategy will help motivate
+consumers to purchase solar energy systems without the state ITC's tax savings,
+and it may prevent extra costs by avoiding zoning and other local regulatory
+complications. While this strategy  [*331]  will not compensate for the lack of
+the state ITC, it may still help encourage investment in North Carolina solar
+projects.
+
+   3. Grassroots Organizations and Creative Solutions
+
+ Even without established organizations, communities can come together to
+complete community solar projects. For example, in West Virginia, a group of
+almost 100 families and businesses in Jefferson County crowdfunded a large solar
+array on the Shepherdstown Presbyterian church without using tax incentives or
+other government-backed funds. n225 Instead, they installed demand response
+controllers on electric water heaters, which Mosaic Power pays homeowners $ 100
+to install, and donated Mosaic's payments to the church project. n226 Future
+income will, however, rely on state incentives; the church's array will sell
+SRECs to Pennsylvania utilities. n227 Similarly, in Highland Park, Michigan, a
+community group crowdfunded solar-powered street lights to replace the
+traditional lights the local government removed to cut costs. n228 The
+fundraising goal was met in one month. n229 While these communities started
+their projects independently, solar developers would benefit from soliciting
+communities to initiate similar projects.
+
+   In addition, companies should develop unique ways to serve the solar market.
+For instance, Mr. Morris and Mr. Grimes suggest specializing in operations and
+maintenance (O&M) of solar sites and equipment. n230 North Carolina has 954
+megawatts of solar capacity across the state, n231 and over 3,000 megawatts in
+development, produced by over 600 solar farm sites. n232 These sites need
+continued  [*332]  maintenance to ensure quality performance; solar farms face
+damage from shorted cells, browning or discoloring, transformer leaks, and more.
+n233 Firms that provide O&M services would be valuable in North Carolina. n234
+By turning to O&M, a company retains usefulness even in otherwise slow years for
+the industry. Because few established resources exist, solar companies need to
+think creatively to thrive in the next few years.
+
+   Conclusion
+
+ The state ITC was very beneficial to North Carolina's solar industry, and the
+market will suffer for its expiration. Opponents of solar energy regulation
+often argue that state incentives bear unpredictable costs, but this is because
+cost predictions use myriad methods, creating myriad results. n235 Rather than
+looking at predictions, legislators should base their decisions on past results.
+North Carolina has seen economic growth, especially in rural areas, as a direct
+result of its solar policies. For every dollar spent on the state ITC, North
+Carolina saw $ 1.54 in local and state tax revenue. n236 Furthermore, by
+developing solar farms on abandoned tobacco fields or other open spaces without
+other economic uses, utility-scale solar companies create markets for rural
+land. This market creation, combined with out-of-state investment in the
+projects, has resulted in billions of dollars in state revenue and thousands of
+new jobs. n237  [*333]  Moreover, these benefits tend to help low-income areas,
+and they directly benefit consumers, unlike other tax credits that go to
+businesses alone. n238
+
+   The expiration of the state ITC reflects a national tendency for inconsistent
+policy, which will likely continue to plague the solar industry at both the
+federal and state level. n239 This inconsistency lies in both the nature of
+policies and incentives offered and the length of time they remain available.
+When companies can only take advantage of a small loan program in certain rural
+areas, or a grant program that changes its requirements each year, incentives
+are not doing their job. The goal of government incentives is to stimulate the
+solar energy industry as a whole, setting the foundation for a robust, long-term
+solar market. Instead, narrow, short-term incentives create weak, temporary
+markets for a handful of small projects.
+
+   Unfortunately, n240 this is unlikely to change. Government policy regarding
+renewable energy has gradually improved since the 1990s, but consistency is not
+on the horizon. So, while planning for long-term success by advocating for
+improvement and stability in government policy, companies must devise creative
+short-term business strategies. Most promisingly, the federal ITC and MACRS
+program are unique in that they will be available and predictable for several
+years. For now, North Carolina companies should rely more heavily on these
+incentives to solicit private investment, supplementing this by working with
+local governments and community organizations to ensure favorable local zoning
+and other policies.
+
+   By taking advantage of every available resource, finding a niche market,
+employing creative business strategies, and advocating for more beneficial solar
+policy, North Carolina solar companies can weather the storm. Eventually, those
+who realize renewable energy is  [*334]  worth short-term costs for long-term
+gain n241 will convince legislators to give the solar industry a large enough
+umbrella and leave it in place long enough to actually provide market
+protection.
+
+[*335]
+
+   Appendix A: Federal Grant Programs n242
+
+
+Target Market       Grant Source      Grant Terms       Description
+Commercial, Local   US Dept. of       25% of project    Rural Energy for
+Government,         Agriculture       cost, between     America Program
+Agricultural (Non-                    $ 1,500 and       (REAP). Grants to
+Residential)                          $ 500,000.        install renewable
+                                                        energy systems,
+                                                        make energy
+                                                        efficiency
+                                                        improvements,
+                                                        reduce
+                                                        consumption.
+                                                        http://
+                                                        www.rurdev.usda.gov
+                                                        /
+                                                        BCP_ReapResEei.html
+Agricultural,       US Dept. of       Variable, capped  Rural Energy for
+Rural Small         Agriculture       at $ 100,000 in   America Program
+Businesses                            2015.             (REAP). Energy
+                                                        Audit and
+                                                        Renewable Energy
+                                                        Development
+                                                        Assistance Program
+                                                        (REDA). http://
+                                                        www.rd.usda.gov/
+                                                        programs-services/
+                                                        rural-energy-
+                                                        america-program-
+                                                        energy-audit-
+                                                        renewable-energy-
+                                                        development-
+                                                        assistance
+Tribal Government   US Dept. of       Variable          Tribal Energy
+                    Energy                              Program. 25 U.S.C.
+                                                         § 3501 et seq.
+                                                        http://
+                                                        apps1.eere.energy.g
+                                                        ov/
+                                                        tribalenergy/
+Commercial, Local   US Dept. of       $ 50,000-         Grant program for
+Government,         Agriculture -     $ 3,000,000       rural communities
+Nonprofit,          Rural Utilities                     with high home
+Residential,        Service                             energy costs; must
+Tribal Government                                       be related to a
+                                                        project to benefit
+                                                        the community.
+                                                        http://
+                                                        www.rd.usda.gov/
+                                                        programs-services/
+                                                        high-energy-cost-
+                                                        grants
+
+  [*336]
+
+   Appendix B: Federal Loan Programs n243
+
+
+Target market       Loan Terms          Loan Source    Implementation/
+                                                       Description
+Multifamily                             Fannie Mae     Green Initiative.
+Residential                                            Multifamily may be
+                                                       rental or
+                                                       cooperative, with
+                                                       at least 5 units.
+                                                       Extra incentives
+                                                       for Multifamily
+                                                       Affordable
+                                                       Housing. https://
+                                                       www.fanniemae.com/
+                                                       multifamily/green-
+                                                       initiative
+Commercial, Farm    Up to 30 years,     US Dept. of    Loan Guarantee and
+                    $ 25,000,000        Agriculture    Grant Funding
+                                        Rural          program. http://
+                                        Development    www.rd.usda.gov/
+                                                       programs-services/
+                                                       rural-energy-
+                                                       america-program-
+                                                       renewable-energy-
+                                                       systems-energy-
+                                                       efficiency
+Local Government,   Tax credits in      US Internal    Clean Renewable
+Electric Coops,     lieu of bond        Revenue        Energy Bonds, 26
+Utilities, State    interest to lower   Service        USC§§54A, 54C.
+Government          interest rate                      http://www.irs.gov/
+                                                       Tax-Exempt-Bonds
+Local Government,   Tax credits in      US Internal    Qualified Energy
+Electric Coops,     lieu of bond        Revenue        Conservation
+Utilities, State    interest to lower   Service        Bonds. http://
+Government          interest rate                      energy.gov/eere/
+                                                       slsc/qualified-
+                                                       energy-
+                                                       conservation-bonds
+
+  [*337]
+
+   Appendix B: Federal Loan Programs (Continued)
+
+
+Target Market      Loan Terms         Loan Source        Implementation/
+                                                         Description
+Renewable Energy    § 1703 of Title   US Department of   Loan guarantee
+Company            XVII of Energy     Energy             program through
+                   Policy Act (2005                      Dept. of Energy
+                   EPAct)                                for high
+                                                         technology risks,
+                                                         to encourage new/
+                                                         improved
+                                                         technologies in
+                                                         energy projects.
+Residential        Up to $ 8,000      Federal Housing    Energy Efficient
+                                      Administration,    Mortgage. http://
+                                      Veterans Affairs   www.resnet.us/
+                                                         ratings/mortgages
+Residential        Up to $ 7,500,     Federal Housing    PowerSaver loan
+                   $ 25,000, or       Administration     program. http://
+                   $ 625,000          and US Department  energy.gov/eere/
+                                      of Housing and     buildings/
+                                      Urban Development  powersaver-loans
+Residential,       20 years, up to    US Department of   Biorefinery,
+Commercial, Farm,  the lesser of      Agriculture Rural  Renewable
+Local Government,  $ 250,000,000 or   Development        Chemical, and
+Nonprofits,        80% of project                        Biobased Product
+Coops, Utilities   costs                                 Manufacturing
+                                                         Assistance
+                                                         Program. http://
+                                                         www.rd.usda.gov/
+                                                         programs-services/
+                                                         biorefinery-
+                                                         assistance-program
+
+  [*338]
+
+   Appendix C: North Carolina Loan Programs n244
+
+
+Target market Loan Terms     Loan Source           Implementation/
+                                                   Description
+Small         3%, 10 yrs     Town of Carrboro      Small business/nonprofit
+Businesses,                  General Revenue       must have <50
+Nonprofits                                         employees. http://
+                                                   townofcarrboro.org/166/
+                                                   1563/WISE-Energy-
+                                                   Efficiency-Loan-Fund.
+                                                   (City of Carrboro only.)
+Local         Up to 8%, 20   North Carolina        Local Governments can
+Government    years                                use federal and state
+                                                   grants and loans to give
+                                                   these loans to local
+                                                   residents. NCGS § 160A-
+                                                   459.1. Local governments
+                                                   can also establish loan
+                                                   loss reserve funds. NCGS
+                                                   §§153A-455. Loans to
+                                                   residents may also be
+                                                   paid for by levying
+                                                   property taxes. NCGS
+                                                    § 160A209(c)(12a).
+Residential   6%, 60         Lumbee River          http://
+              months, max    Electric Membership   www.lumbeeriver.com/
+              $ 7,000        Corporation           content/weatherization-
+                                                   loans.
+Residential   6%, 12-120     Lumbee River          http://
+              months, $ 500- Electric Membership   www.lumbeeriver.com/
+              $ 17,000       Corporation           content/weatherization-
+                                                   loans.
+Residential   5%, 7 years,   Piedmont Electric     http://www.pemc.coop/
+              max $ 10,000   Membership            energySavings/
+                             Corporation           energyEfficiencyLoanProgr
+                                                   am.aspx
+Residential   4-6%, 60       Four County Electric  Comfort Loan Program.
+              months, up to  Membership            http://www.fourcty.org/
+              $ 6,500        Corporation           index.php?p=4&s=29
+
+  [*339]
+
+   Appendix C: North Carolina Loan Programs (Continued)
+
+
+Target Market Loan Terms            Loan Source       Implementation/
+                                                      Description
+Residential   5%, 60 months         Haywood Electric  http://
+                                    Membership        www.haywoodemc.com/
+                                    Corporation       content/heat-
+                                                      pumpweatherization-
+                                                      loan
+Residential   9%, 60 months, $      Union Electric    Administered through
+              7,500
+                                    Membership        Union Power
+                                    Corporation       Cooperative. http://
+                                                      www.union-power.com/
+                                                      mainNav/myHome/
+                                                      heatPumpFinancing.aspx
+Residential,  5%, tiered repayment  Tideland          Weatherization Loan
+Farm,         terms based on        Electric          Program. http://
+Commercial    amount of loan.       Membership        www.tidelandemc.com/
+                                    Corporation       my-residence/products-
+                                                      services/
+                                                      weatherization-loans
+Residential,  6-8%, up to 10 years  Tennessee Valley  Implemented by local,
+Small                               Authority         TVA-served utility
+Businesses                                            companies.
+
+Legal Topics:
+
+For related research and practice materials, see the following legal topics:
+Energy & Utilities LawConservationGeneral OverviewEnergy & Utilities LawSolar &
+Biomass IndustriesTax LawFederal Income Tax ComputationDeductions for
+Amortization, Depletion & DepreciationInvestment Tax Credit (IRC secs. 38, 39,
+46-50)
+
+FOOTNOTES:
+
+
+
+
+n1.  Energy Efficiency & Renewable Energy, Dep't of Energy, The History of Solar
+2, https://www1.eere.energy.gov/solar/pdfs/solar_timeline.pdf.
+
+
+
+
+
+n2.  Id. at 3. NASA put solar panels on satellites orbiting the Earth beginning
+in 1956, and solar power is the main source of energy for NASA's missions in
+2015. Jeffrey Smith, Nat'l Aeronautics & Space Admin., Greenspace: Leveraging
+NASA for a Greener Earth (Deborah Bazar, ed., Sept. 23, 2010),
+http://www.nasa.gov/centers/ames/greenspace/clean-energy.html.
+
+
+
+
+
+n3.  See, e.g., U.S. Energy Info. Admin., Petroleum Chronology of Events
+1970-2000 (May 2002), http://www.eia.gov/pub/oil_gas/petroleum/analysis_
+publications/chronology/petroleumch ronology2000.htm (observing that the U.S.
+had "decades of ample supplies and growing consumption").
+
+
+
+
+
+n4.  See id. ("The impact of environmental compliance costs on U.S. refining,
+increased capital expenditures in response to the requirements of the Clean Air
+Act Amendments of 1990, modest growth in product demand and volatile crude oil
+prices caused a wave of joint ventures, mergers, and restructuring of the U.S.
+petroleum industry during the latter part of the 1990's.").
+
+
+
+
+
+n5.  Id.
+
+
+
+
+
+n6.  Id.
+
+
+
+
+
+n7.  Nadia Osman, Solar Continues Massive Drop, in Solar Basics, Solar
+Technology, UnderstandSolar.com (July 20, 2015),
+http://understandsolar.com/cost-of-solar/.
+
+
+
+
+
+n8.  Scott Nyquist, Lower Oil Prices but More Renewables: What's Going On? (June
+2015), http://www.mckinsey.com/insights/energy_resources_
+materials/lower_oil_prices_but_more_ renewables_whats_going_on.
+
+
+
+
+
+n9.  Nyquist, supra note 8.
+
+
+
+
+
+n10.  Env't America Res. & Pol'y' Ctr., Star Power: The Growing Role of Solar
+Power in America 4 (Nov. 2014),
+http://www.environmentamerica.org/sites/environment/files/
+reports/EA_Star_Power.pdf.
+
+
+
+
+
+n11.  Phone interview with Jen Williams, Senior Associate, Investments, Sol
+Systems (Nov. 24, 2015); Edgar Meza, IRENA: PV Prices Have Declined 80% Since
+2008, PV Mag. (Sept. 11, 2014),
+http://www.pv-magazine.com/news/details/beitrag/irena -
+pv-prices-have-declined-80-sinc e-2008_100016383/#axzz3uOyv4GgJ.
+
+
+
+
+
+n12.  For instance, 195 countries signed the Paris Agreement in 2015. U. N.
+Framework Convention on Climate Change, Adoption of the Paris Agreement:
+Proposal by the President, 2, U.N. Doc. FCCC/CP/2015/L.9/Rev. 1 (Dec. 12, 2015),
+http://unfccc.int/resource/doc s/2015/cop21/eng/l09r01.pdf ("acknowledging the
+need to promote universal access to sustainable energy in developing countries,
+in particular in Africa, through the enhanced deployment of renewable energy");
+Robert J. Brulle, Jason Carmichael & J. Craig Jenkins, Shifting Public Opinion
+on Climate Change: An Empirical Assessment of Factors Influencing Concern over
+Climate Change in the U.S., 2002-2010 8 (Feb. 3, 2012),
+http://www.pages.drexel.edu/[#x223c]brullerj/02-12ClimateChange
+Opinion.Fulltext.pdf (noting that public opinion is important in encouraging
+market success).
+
+
+
+
+
+n13.  N.C. Clean Energy Technology Center, N.C. State Univ., Database of State
+Incentives for Renewables and Efficiency, DSIRE (2015),
+http://programs.dsireusa.org/system/program (providing a list of federal and
+state incentives, searchable by state or category).
+
+
+
+
+
+n14.  Capital Tonight: Renewable Energy in NC (Time Warner Cable News broadcast
+Mar. 30, 2015, 9:39PM), http://www.twcnews.com/nc/north-carolina/
+politics/2015/03/30/capital-tonight -march-30 - renewable-energy-in-nc.html
+(Community Roundtable interview with Tom Swanson, Pew Charitable Trusts, John
+Morrison, Strata Solar, and Betsy McCorkle, N.C. Sustainable Energy Assoc.)
+[hereinafter Time Warner Cable News Interview].
+
+
+
+
+
+n15.  Lucas Brun, The Solar Economy: Widespread Benefits for North Carolina
+(Feb. 15, 2015), http://www.cggc.duke.edu/pdfs/02152015Duke_CGGC_
+NCSolarEnergyReport.pdf.
+
+
+
+
+
+n16.  See N.C.G.S. § 62-133.8.
+
+
+
+
+
+n17.  N.C. Utilities Comm'n, North Carolina Utilities Commission Adopts Final
+Rules Implementing Session Law 2007-397 (Feb. 29, 2008),
+http://starw1.ncuc.net/NCUC/ViewFile.as
+px?Id=c1d0eb36-9979-4627-9a7a-566aa9385dba (press release by the N.C. Utilities
+Commission).
+
+
+
+
+
+n18.  N.C.G.S. § 105-129.16A(a). See generally Am. Council On Renewable Energy
+(ACORE), Renewable Energy in the 50 States (Sept. 2012), http://acore.org/files/
+pdfs/states/2012-50statereport-lowres.pdf [hereinafter ACORE Report] (evaluating
+each state's renewable energy tax credits and other incentives).
+
+
+
+
+
+n19.  §§105-129.15(7)(e); Time Warner News Interview, supra note 14.
+
+
+
+
+
+n20.  See generally ACORE Report, supra note18; see also id. at 32 (a couple of
+states had tax credits exceeding North Carolina's, including Florida, which
+offers a corporate-only 75% tax credit). Of twenty-two states offering ITCs,
+five only offer a corporate tax credit, and two offer only a personal tax
+credit. Id. at 14, 32, 54, 82, 86, 92, 110 (AL, FL, ND, OK, and RI offer the
+corporate tax credit; MA and WV offer the personal tax credit). Several other
+states have tax incentives such has property or sales tax exemptions, some have
+tax credits for renewable energy other than solar, and some have similarly
+structured tax deductions. Id. at 42, 70, 74 (NV exempts corporate renewable
+energy systems from property and sales and use taxes; NJ offers a tax credit for
+wind energy investment; IN has a solar tax deduction). In North Carolina's tax
+subsidy bill, the list of applicable renewable energy properties was also broad,
+including biomass, geothermal, hydroelectric, solar energy, and wind equipment.
+N.C.G.S. § 105-129.15(7).
+
+
+
+
+
+n21.  26 U.S.C. § 25D (individual tax credit); 26 U.S.C. § 48 (commercial tax
+credit).
+
+
+
+
+
+n22.  Time Warner Cable News Interview, supra note 14 (Swanson also attributes
+the success of North Carolina's solar industry to its infrastructure, research
+institutions, and "ability to attract innovative startup companies").
+
+
+
+
+
+n23.  REC Solar, Market Segments,
+http://www.recgroup.com/en/aboutsolar/solar-markets/ (last visited Mar. 11,
+2016). Commercial installations can include large-scale industrial facilities.
+Id.
+
+
+
+
+
+n24.  Josh Birch, No Solar Farm Tax Credits in New State Budget Hurt Business,
+Towns, WNCT News (Oct. 12, 2015),
+http://wnct.com/2015/10/12/no-solar-farm-tax-credits-in-new-state-budget-hurt-bu
+siness-towns/ [hereinafter WNCT News Interview].
+
+
+
+
+
+n25.  Lauren Shwisberg, Energy Collective, Utility Scale Solar Energy: North
+Carolina's Emergent Success (Feb. 27, 2014),
+http://www.theenergycollective.com/cleanenergyleadership
+institute/346491/utility-scale-solar-energy-north-carolinas-emergent-success.
+The projects are small (under 5 megawatts) because of the North Carolina
+Utilities Commission (NCUC) restrictions for standard PPAs. Id. Discussed
+further infra section II.B.1.
+
+
+
+
+
+n26.  Solar Energy Industries Assoc., Third-Party Solar Financing,
+http://www.seia.org/pol icy/finance-tax/third-party-financing (last visited Mar.
+11, 2016).
+
+
+
+
+
+n27.  Katharine Kollins, Bethany Speer & Karlynn Cory, Duke Univ. & Nat'l
+Renewable Energy Laboratory, Solar PV Project Financing: Regulatory and
+Legislative Challenges for Third-Party PPA System Owners(Feb. 2010),
+http://www.nrel.gov/docs/fy10osti/46723.pdf.
+
+
+
+
+
+n28.  U.S. Energy Information Admin., Solar Explained: Photovoltaics and
+Electricity (Oct. 26, 2015),
+http://www.eia.gov/Energyexplained/index.cfm?page=solar_ photovoltaics; U.S.
+Energy Information Admin., Solar Explained: Solar Thermal Collectors (Oct. 26,
+2015), http://www.eia.gov/Energyexplained/index.cfm?page=solar_thermal
+_collectors. These installations are almost always photovoltaic, although some
+are solar thermal. Both photovoltaic and solar thermal systems can be installed
+on a residence, but photovoltaic can generate power to be distributed back to
+the grid, while solar thermal only generates heating and cooling for the
+residence. Id.
+
+
+
+
+
+n29.  See, e.g., Yes! Solar Solutions, Solar Instant Cash Rebate,
+http://www.yessolarsol utionsnc.com/nc-home-solar/tax-credits/ (last visited
+Mar. 11, 2016) (noting that the state income tax credit expires December 31, and
+offering a rebate to encourage installations in early 2016); see also Southern
+Energy Management, Residential Solar FAQ, http://southern-en
+ergy.com/home-solar/community-solar-programs/ residential-solar-faq/ (last
+visited Mar. 11, 2016") (noting the savings from the federal ITC in response to
+the question "How much does it cost?", having deleted additional information
+about the North Carolina tax credit).
+
+
+
+
+
+n30.  Stone & Assoc., BlueGreen Alliance Foundation, Overview of the Solar
+Energy Industry and Supply Chain 9 (Jan. 2011),
+http://www.thecemc.org/body/Solar-Overview-for-BGA-Final-Jan-2011.pdf.
+
+
+
+
+
+n31.  This guarantee comes from the federal Public Utility Regulatory Policies
+Act (PURPA), 16 U.S.C.§§2601-2645, discussed infra Section I.B.
+
+
+
+
+
+n32.  Id.
+
+
+
+
+
+n33.  Time Warner Cable News Interview, supra note 14, discussed further, infra
+Section III.
+
+
+
+
+
+n34.  Id.Id. (around 12:45).
+
+
+
+
+
+n35.  See N.C. Utilities Comm'n, North Carolina's Public Utility Infrastructure
+& Regulatory Climate 18 (Jul. 2015),
+http://www.ncuc.commerce.state.nc.us/overview/Over view.pdf (demonstrating that
+Duke Energy is the only energy provider in its service areas).
+
+
+
+
+
+n36.  Time Warner Cable News Interview, supra note 14.
+
+
+
+
+
+n37.  PEW Charitable Trusts, Clean Economy Rising: Solar Shines in North
+Carolina 3, 5 (Oct. 2014),
+http://www.pewtrusts.org/[#x223c]/media/assets/2014/10/clean-energy-north-caroli
+na-policy-brief-for-web.pdf?la=en.
+
+
+
+
+
+n38.  See, e.g., Americans for Prosperity, State Budget Sunsets "Renewable
+Energy Tax Credit' (Sept. 15, 2015),
+http://site.americansforprosperity.org/nc-jobs-agenda/2015/09/15/
+state-budget-sunsets-renewable-energy-tax-credit/. Americans for Prosperity is a
+conservative political advocacy group, discussed in Section III, infra.
+
+
+
+
+
+n39.  The Republican party had not been in control of North Carolina for
+decades, until in 2012 when they took control of the Governor's seat, House, and
+Senate. Kim Severson, G.O.P.'s Full Control in Long-Moderate North Carolina May
+Leave Lasting Stamp, NYTimes.com (Dec. 11, 2012),
+http://www.nytimes.com/2012/12/12/us/politics/gop-to-take-cont
+rol-in-long-moderate-north-carolina.html. They quickly began changing state
+policy, abandoning progressive regulations and implementing conservative ones.
+Id.
+
+
+
+
+
+n40.  Env't N.C., Blocking the Sun 18 (Oct. 2015),
+http://environmentnorthcarolina.org/sites/environment/files/reports/
+NC_BlockingtheSun_scrn.pdf.
+
+
+
+
+
+n41.  John Downey, N.C. Killing Tax Credits, but Renewable Power Mandates
+Remain, Charlotte Bus. J. (Sept. 15, 2015),
+http://www.bizjournals.com/charlotte/blog/energy/2015/09/n-c-kills-tax-credits-b
+ut-mandates-for-renewable.html.
+
+
+
+
+
+n42.  See, e.g., interview with Rachel Burton, Co-Founder, Piedmont Biofuels
+(Nov. 11, 2015). Ms. Burton highlighted the differences between solar companies
+and other renewable energy, clarifying that the state ITC affects the solar
+industry much more than biofuels. The local and national biofuel industry is
+impacted more by EPA regulations, which have recently been inconsistent and
+harmful for biofuel companies. Id. I also interviewed Cullen Morris and Latham
+Grimes, who co-founded Cooperative Solar, an independent contractor that helps
+developers find viable sites for solar farms. They both previously worked at
+Strata Solar, a utility-scale solar farm developer that began in 2010 and
+quickly grew into an internationally recognized leader in solar energy.
+Interview with Cullen Morris, President, Cooperative Solar, and Latham Grimes,
+Co-owner, Cooperative Solar, Development and Strategic Advisor, Strata Solar
+(Dec. 8, 2015). Kathy Miller, co-founder of Yes! Solar Solutions, installs
+residential solar systems and lobbies for solar policy. Interview with Kathy
+Miller, Vice President, Yes! Solar Solutions (Dec. 17, 2015).
+
+
+
+
+
+n43.  See interview with Charles Adair, Program Manager, Duke Carbon Offsets
+Initiative (Nov. 30, 2015); phone interview with Williams, supra note 11;
+interview with Ryke Longest, Clinical Professor of Law and Director,
+Environmental Law and Policy Clinic, Duke University School of Law (Dec. 3,
+2015).
+
+
+
+
+
+n44.  See, e.g., Solar Energy Industries Assoc., 2014 Top 10 Solar States
+(2015),
+http://www.seia.org/sites/default/files/resources/Top%2010%20Solar%20States%
+202014%201pager.pdf.
+
+
+
+
+
+n45.  Solar Energy Industries Assoc., North Carolina Leads South, 2nd in Nation
+in Newe Solar Installations (Mar. 12, 2015),
+http://www.seia.org/news/north-carolina-leads-south-2nd-nation-new-solar-install
+ations.
+
+
+
+
+
+n46.  Clean Economy Rising, supra note 37, at 5, 7.
+
+
+
+
+
+n47.  Letter from Apple, Inc., Google, Inc., and Facebook, Inc., to Phil Berger,
+President Pro Tempore, N.C. Senate, and Tim Moore, Speaker, N.C. House of
+Representatives (May 27, 2015),
+http://c.ymcdn.com/sites/energync.site-ym.com/resource/resmgr/legislative/
+TechNet_NC_H322_Letter.pdf (noting that all three companies "have chosen to
+locate in North Carolina in part because [of] the state's existing energy
+policies").
+
+
+
+
+
+n48.  Duke Ctr. on Globalization, Governance & Competitiveness, The Solar
+Economy: Widespread Benefits for North Carolina 31 (Feb. 2015),
+http://www.cggc.duke.edu/pdfs/02152015duke_cggc_ ncsolarenergyreport.pdf.
+
+
+
+
+
+n49.  John Aloysius Farrell, Koch's Web of Influence, Ctr. for Pub. Integrity
+(Apr. 6, 2011, 6:00AM),
+http://www.publicintegrity.org/2011/04/06/3936/kochs-web-influence; Blocking the
+Sun, supra note 40, at 13-14.
+
+
+
+
+
+n50.  North Carolina Tax Credit Expanded for One Year, ABC News (Apr. 30, 2015),
+http://abc11.com/politics/north-carolina-solar-tax-credit-expanded-for-1-year/68
+9093/. Governor Pat McCrory extended North Carolina's 35% tax subsidy only
+through 2016 by signing Senate Bill 372, declining to extend the subsidy further
+because the solar industry in North Carolina is "on its way to becoming
+independent." Id.
+
+
+
+
+
+n51.  See generally North Carolina General Assembly, An Act to Make Base Budget
+Appropriations for Current Operations of State Departments, Institutions, and
+Agencies, and for Other Purposes (2015 Appropriations Act), House Bill 97 (Feb.
+24, 2015),
+http://www.ncleg.net/Sessions/2015/budget/2015/H97-PCCS30420-LRxfr-6.pdf%20his%2
+0reasoning.html.
+
+
+
+
+
+n52.  See, e.g., phone interview with Williams, supra note 11 (stressing the
+impact of the subsidy on state-level and national investors in solar project
+financing); phone interview with Burton (clarifying that state subsidies affect
+biodiesel and other renewable energy industries less than the solar industry;
+biodiesel industry success has lately been frustrated by inconsistent EPA
+regulations).
+
+
+
+
+
+n53.  Ryan Wiser, Mark Bolinger, & Galen Barbose, Lawrence Berkeley Nat'l Lab.,
+Using the Federal Production Tax Credit to Build a Durable Market for Wind Power
+in the United States 5 (Nov. 2007),
+https://emp.lbl.gov/sites/all/files/report-lbnl-63583.pdf.
+
+
+
+
+
+n54.  Id.
+
+
+
+
+
+n55.  N.C. Clean Energy Tech. Ctr., N.C. State Univ., Database of State
+Incentives for Renewables and Efficiency: US (Federal), DSIRE (Dec. 2015),
+http://programs.dsireusa.org/ system/program?state=US& (listing twenty-eight
+federal incentive programs for renewable energy, although not all are applicable
+to solar companies).
+
+
+
+
+
+n56.  Note that many federal incentives are targeted at certain subsets of solar
+companies, markets, or technology, e.g. residential installations, rural
+communities, or innovative and untested technologies.
+
+
+
+
+
+n57.  Chris Mooney, A Short History of Sunsets, Legal Aff. (Jan./Feb. 2004),
+http://www. legalaffairs.org/issues/January-February-2004/story_
+mooney_janfeb04.msp.
+
+
+
+
+
+n58.  Stephen Lacey, Congress Passes Tax Credits for Solar and Wind:
+"Sausage-Making at Its Most Intense' (Dec. 18, 2015),
+http://www.greentechmedia.com/articles/read/breaking-house-passes-1.1-trillion-s
+pending-bill-with-renewable-energy-tax.
+
+
+
+
+
+n59.  Am. Wind Energy Assoc., Wind Energy Gains Predictability from Tax Credits'
+Multi-Year Extension (Dec. 16, 2015),
+http://www.awea.org/MediaCenter/pressrelease.aspx?ItemNumber=8250.
+
+
+
+
+
+n60.  Interview with Miller, supra note 42.
+
+
+
+
+
+n61.  Kirin D. Walsh, An Industry on the Precipice of Change: Maintaining Solar
+Energy's Competitive Advantage in North Carolina After the Expiration of the
+Investment Tax Credits, 93 N.C. L. Rev. 1935 (2015), available at
+http://nclawreview.org/documents/93/6/Walsh.pdf (citing Camilo Patrignani, A
+Solar CEO Wants to End the Investment Tax Credit. Why?, Clean Technica (Jan. 13,
+2015),
+http://cleantechnica.com/2015/01/13/a-solar-ceo-wants-to-end-the-investment-tax-
+credit-why/); Jason P. Brown, Federal Reserve Bank of Kansas City, The Cycles of
+Wind Power Development, 3 Main Street Economist 1 (2013),
+https://www.kansascityfed.org/publicat/mse/MSE_0313.pdf.
+
+
+
+
+
+n62.  N.C. Clean Energy Tech. Ctr., N.C. State Univ., Business Energy Investment
+Tax Credit, DSIRE (Dec. 21, 2015),
+http://programs.dsireusa.org/system/program/detail/658.. See also N.C. Clean
+Energy Tech. Ctr., N.C. State Univ., Residential Renewable Energy Tax Credit,
+DSIRE (Dec. 21, 2015), http://programs.dsireusa.org/system/program/detail/1235
+(the database splits incentives based on applicable recipients, thus separating
+the ITC into its corporate and personal tax credit components). This extension
+applies to both 26 U.S.C. § 25D (individual tax credit) and 26 U.S.C. § 48
+(commercial tax credit).
+
+
+
+
+
+n63.  Discussed in more detail infra, Section IV.A.
+
+
+
+
+
+n64.  Interview with Miller, supra note 42.
+
+
+
+
+
+n65.  Id. For instance, a project relying on the state and federal ITCs would
+have been expecting a 65% tax credit to reduce the project's costs (30% federal
++ 35% state). If the federal ITC had been phased out rather than extended, this
+credit would have dropped to 10%, less than a sixth of the original savings.
+Now, with a 30% tax credit, the project saves just under half of what it would
+have saved with the federal and state ITCs combined.
+
+
+
+
+
+n66.  See, e.g., interview with Miller, supra note 42 (noting her surprise on
+Dec. 17 that the ITC would likely be extended the following day); Sara Rafalson,
+2016: Get it Done, SOURCE: Sol Project Fin J. (Nov. 17, 2015),
+http://www.solsystems.com/blog/2015/11/17/2016-get-it-done/ (expecting the ITC
+to drop to 10% in 2017 as scheduled). The several-year extension relieves
+uncertainty and will help keep the industry consistent, both nationally and in
+North Carolina, over the next few years. See discussion of boom-bust cycles,
+suprasupra, note 53 and accompanying text.
+
+
+
+
+
+n67.  26 U.S.C § 168(e)(3)(B)(vi)(I) (referencing § 48(a)(3)). The statute can
+of course be edited, but an expiration date is not expressly included. Id.
+Compare id. with § 168(k) (bonus depreciation expires in 2020, first tapering
+down to 40% in 2018 and 30% in 2019).
+
+
+
+
+
+n68.  Id.; N.C. Clean Energy Tech. Ctr., N.C. State Univ., Modified Accelerated
+Cost-Recovery System, DSIRE (Dec. 21, 2015),
+http://programs.dsireusa.org/system/program/detail/676.
+
+
+
+
+
+n69.  Straight-line depreciation, for example, calculates yearly depreciation
+based on the equation . So, a $ 5 million property with an expected useful life
+of 5 years would depreciate at $ 1 million per year.
+
+
+
+
+
+n70.  See generally § 168.
+
+
+
+
+
+n71.  § 168(e)(3)(B)(vi). This simply means the property depreciates over an
+expected life of five years.
+
+
+
+
+
+n72.  § 168(k); N.C. Clean Energy Tech. Ctr., N.C. State Univ., Modified
+Accelerated Cost-Recovery System, DSIRE (Dec. 21, 2015),
+http://programs.dsireusa.org/system/program/detail/676.
+
+
+
+
+
+n73.  A tax appetite is an ability to save a significant amount of money through
+tax incentives like the ITC or MACRS. Discussed in more detail infra, Section
+IV.A.
+
+
+
+
+
+n74.  See Appendix A for a list of federal grants available to North Carolina
+solar companies, most of which target rural, agricultural, and tribal markets.
+
+
+
+
+
+n75.  Sammy Fretwell, Some Farmers Growing Profit with New Row Crop: Solar
+Panels, Raleigh News & Observer (Nov. 11, 2012) (reproduced by N.C. Clean Energy
+Tech. Ctr., N.C. State Univ., Some Farmers Growing Profit with New Row Crop:
+Solar Panels, https://nc
+cleantech.ncsu.edu/some-farmers-growing-profit-with-new-row-crop-solar-panels/).
+
+
+
+
+
+n76.  Applicants may receive grants for at most 25% of the project's costs,
+combined with a loan guarantee for another 50%. U.S. Dep't of Agriculture, Rural
+Energy for America Program - Renewable Energy and Energy Efficiency 1 (Mar.
+2015), http://www.rd.usda.gov/files/RD _FactSheet_RBS_REAP_RE_EE.pdf
+[hereinafter REAP Fact Sheet]. If the applicant only applies for a loan
+guarantee, and not a grant, it can cover up to 75% of the costs. Id. at 2. The
+grants and loan guarantees are targeted at small projects, under $ 20,000, but
+are available up to $ 25 million. N.C. Clean Energy Tech. Ctr., N.C. State
+Univ., USDA - Rural Energy for America Program (REAP) Grants, DSIRE (Aug. 25,
+2015), http://programs.dsireusa.org/system/pro gram/detail/917.
+
+
+
+
+
+n77.  N.C. Clean Energy Tech. Ctr., N.C. State Univ., USDA - Rural Energy for
+America Program (REAP) Grants, DSIRE (Aug. 25, 2015),
+http://programs.dsireusa.org/system/ program/detail/917. For agricultural
+producers, at least 50% of the business' gross income must come from
+agricultural operation. REAP Fact Sheet, supra note 76, at 1.
+
+
+
+
+
+n78.  Rural Development, U.S. Dep't of Agriculture, High Energy Cost Grants
+(2015), http://www.rd.usda.gov/programs-services/high-energy-cost-grants (last
+visited Mar.Mar. 11, 2016). Either the energy provider (i.e. the solar company)
+or the community it plans to serve can apply for the grant. Id.
+
+
+
+
+
+n79.  Id.
+
+
+
+
+
+n80.  U.S. Dep't of Agriculture, Application Guide: High Energy Cost Grant
+Program: 2015 Notice of Solicitation of Applications 19 (2015),
+http://www.rd.usda.gov/files/UEP_HECG_AppGuide_ 2015.pdf. These grants range
+from $ 50,000 to $ 3 million. See id. at 4. Grant proposals are evaluated on a
+case-by-case basis by a panel. Id. at 21.
+
+
+
+
+
+n81.  See generally N.C. Clean Energy Tech. Ctr., N.C. State Univ., Programs:
+North Carolina (2015), http://programs.dsireusa.org/system/program?state=NC
+(select ProgramType: Grant Programs).
+
+
+
+
+
+n82.  Appendix B contains a full list of federal loan programs available to
+North Carolina solar companies.
+
+
+
+
+
+n83.  42 USC § 16511 et seq.; N.C. Clean Energy Technology Center, N.C. State
+Univ., U.S. Department of Energy - Loan Guarantee Program, DSIRE (Nov. 12,
+2015), http://programs. dsireusa.org/system/program/detail/3071.
+
+
+
+
+
+n84.  Solicitation by Loan Programs Office, Dep't of Energy, Loan Guarantee
+Solicitation Announcement, Sol. No. DE-SOL-0007514, OMB Control No. 1910-4135,
+at 2 (Jul. 3, 2014),
+http://energy.gov/sites/prod/files/2015/12/f27/DOE-LPO_REEE_
+Solicitation_03-Jun-2014.pdf; Energy Policy Act of 2005, P.L. No. 109-58 § 1703,
+119 Stat. 594, 1121-22 (Aug. 2005) (codified at 42 U.S.C. § 16513), available at
+https://www.gpo.gov/fdsys/pkg/PLAW-109publ58/pdf/PLAW-109publ58.pdf.
+
+
+
+
+
+n85.  Loan Programs Office, Dep't of Energy, Powering New Markets: Utility-Scale
+Photovoltaic Solar 6 (Feb. 2015),
+http://www.energy.gov/sites/prod/files/2015/02/
+f19/DOE_LPO_Utility-Scale_PV_Solar_ Markets_February2015 .pdf (discussing the §
+1703 loans' predecessor, § 1705 loans); Loan Programs Office, Dep't of Energy,
+LPO Financial Performance 3 (Nov. 2014),
+http://www.energy.gov/sites/prod/files/2014/11
+/f19/DOE-LPO-Financial%20Performance%20November%202014.pdf (touting the
+projects' innovation and size).
+
+
+
+
+
+n86.  Loan Programs Office, LPO Financial Performance, supra note 84 at 7-8.
+
+
+
+
+
+n87.  Dep't of Energy, Guide to Federal Financing for Energy Efficiency and
+Clean Energy Deployment 8-9 (Sept. 2014),
+http://energy.gov/sites/prod/files/2014/10/f18/Federal%20
+Financing%20Guide%2009%2026%2014.pdf (identifying five "catalytic technology
+areas" in 2014, none of which specifically included innovations in solar
+technology). The loan guarantee rates also vary based on the project's credit
+rating. Dep't of Energy, Credit-Based Interest Rate Spread for Title XVII,
+http://energy.gov/sites/prod/files/2015/04/f21/Credit-Based_Interes
+t_Rate_Spread_7.9.14.pdf (last visited Dec. 25, 2015); N.C. Clean Energy
+Technology Center, N.C. State Univ., U.S. Department of Energy - Loan Guarantee
+Program, DSIRE (Nov. 12, 2015),
+http://programs.dsireusa.org/system/program/detail/3071.
+
+
+
+
+
+n88.  N.C. Clean Energy Technology Ceneter, N.C. State Univ., Energy-Efficient
+Mortgages, DSIRE (Jun. 24, 2015),
+http://programs.dsireusa.org/system/program/detail/742; Residential Energy
+Servs. Network, Frequently Asked Questions; About Energy Efficient Mortgages
+(2015), http://www.resnet.us/professional/ratings/faq_mortgage.
+
+
+
+
+
+n89.  Id.
+
+
+
+
+
+n90.  Nat'l Renewable Energy Laboratory, Dep't of Energy, Financing Home Energy
+and Renewable Energy Improvements with FHA PowerSaver Loans,
+http://www.nrel.gov/docs /fy14osti/61936.pdf (last visited Dec. 26, 2015).
+
+
+
+
+
+n91.  Nat'l Renewable Energy Laboratory, Dep't of Energy, Property Assessed
+Clean Energy Financing of Renewables and Efficiency (Jul. 2010),
+http://www.nrel.gov/docs/fy10osti/470 97.pdf. The PACE program was updated in
+2015 to be more enticing for mortgage lenders. Ed Golding, Fed. Housing Admin.,
+Guidance for Use of FHA Financing on Homes with Existing PACE Liens and Flexible
+Underwriting through Energy Department's Home Energy Score (Aug. 24, 2015),
+http://portal.hud.gov/hudportal/documents/huddoc?id=FTDO.pdf.
+
+
+
+
+
+n92.  Nat'l Renewable Energy Laboratory, Dep't of Energy, Local Option -
+Property Assessed Clean Energy (PACE) Financing (Sept. 18, 2015),
+http://programs.dsireusa.org/system/program/detail/3647.
+
+
+
+
+
+n93.  For example, the U.S. Department of Energy offers a grant specifically to
+tribal governments. N.C. Clean Energy Technology Center, N.C. State Univ.,
+Tribal Energy Program Grant, DSIRE (July 31, 2015),
+http://programs.dsireusa.org/system/program/detail/918. Also, Qualified Energy
+Conservation Bonds are available to local governments to fund local renewable
+energy projects. Dep't of Energy, Qualified Energy Conservation Bonds,
+http://energy.gov/eere/slsc/qualified-energy-conservation-bonds (last visited
+Dec. 26, 2015). New Clean Renewable Energy Bonds are available to government
+entities, electric cooperatives, and public utilities. Dep't of Energy, Clean
+Renewable Energy Bonds (CREBs) (2015),
+http://energy.gov/savings/clean-renewable-energy-bonds-crebs (last visited Dec.
+26, 2015).
+
+
+
+
+
+n94.  Time Warner News Interview, supra note 13.
+
+
+
+
+
+n95.  Scaling Green, Conservative Speakers at Clean Energy Summit Tout Virtues
+of Clean Energy (Nov. 13, 2015),
+http://scalinggreen.tigercomm.us/2015/11/speakers-conservative-clean-energy-summ
+it-tout-virtues-clean-energy/.
+
+
+
+
+
+n96.  Id.
+
+
+
+
+
+n97.  Kim Severson, G.O.P.'s Full Control in Long-Moderate North Carolina May
+Leave Lasting Stamp, NYTimes.com (Dec. 11, 2012),
+http://www.nytimes.com/2012/12/12/us/politics
+/gop-to-take-control-in-long-moderate-north-carolina.html.
+
+
+
+
+
+n98.  Renewable Energy and Energy Efficiency Portfolio Standard (REPS), N.C.G.S.
+§ 62-133.8.
+
+
+
+
+
+n99.  N.C. Utilities Comm'n, Renewable Energy and Energy Efficiency Portfolio
+Standard (REPS) (2015) http://www.ncuc.commerce.state.nc.us/reps/reps.htm (last
+visited Dec. 21, 2015).
+
+
+
+
+
+n100.  Id. The REPS and the market for RECs are buoyed by the federal PURPA,
+mandating that utilities purchase power from renewable energy companies. See
+infra notes 96-98 and accompanying text.
+
+
+
+
+
+n101.  Carbon offsets are similar to RECs but represent a reduction in emissions
+rather than generation of renewable energy. Nat'l Resources Defense Council,
+Buying Carbon Offsets: What You Need to Know (Jan. 15, 2014),
+http://www.nrdc.org/globalwarming/offsets.asp (explaining that GHG-producing
+companies can buy carbon offset credits from "projects that avoid or capture GHG
+emissions").
+
+
+
+
+
+n102.  N.C. Utilities Comm'n, supra note 87. Utilities purchase equipment to
+create their own facilities to generate renewable energy.
+
+
+
+
+
+n103.  North Carolina's SREC market is oversaturated, but some solar producers
+can sell SRECs by registering in the Pennsylvania market. SRECTrade, North
+Carolina (2015), http://www.srectrade.com/srec_markets/north_carolina.
+
+
+
+
+
+n104.  The REPS in North Carolina requires a gradual increase of renewable power
+generation, capping at 12.5% in 2021, where other states require much more:
+California mandates 50% renewable by 2030 and Hawaii's goal is 100% by 2045.
+N.C. Clean Energy Technology Center & U.S. Dep't of Energy, Renewable Portfolio
+Standard Policies (Oct. 2015), http://ncsolarcen-prod.s3.amazonaws.com/
+wp-content/uploads/2015/11/Renewable-Portfolio-Sta ndards.pdf.
+
+
+
+
+
+n105.  Only a few solar companies have successfully sold SRECs to local
+utilities, and those transactions were behind closed doors. SRECTrade, Where is
+the NC SREC Market? (Aug. 31, 2010),
+https://www.srectrade.com/blog/srec-markets/north-carolina/exploring-nc-srecs.
+This is why the PURPA-enforced sale of energy by solar farms is such a common
+method of solar energy production and sale. See infra, note 99 and accompanying
+text.
+
+
+
+
+
+n106.  See Platts, Platts Special Report: Renewable Energy Certificates 5 (Apr.
+2012), http://www.platts.com/im.platts.content/insightanalysis/
+industrysolutionpapers/ recspecial report1112.pdf.
+
+
+
+
+
+n107.  N.C. GreenPower, Become a Generator (2015), https://www.ncgreenpower.org/
+become-a-generator/. Dep't of Energy, Energy Incentive Programs: North Carolina
+(Jul. 2015),
+http://energy.gov/eere/femp/energy-incentive-programs-north-carolina; N.C.
+GreenPower, Request for Proposals: Verifiable Carbon Offsets Generated in North
+Carolina, South Carolina or Virginia,
+https://www.ncgreenpower.org/documents/NCGP_CarbonRollingRFP_ 09.pdf (last
+visited Dec. 25, 2015).
+
+
+
+
+
+n108.  SRECTrade, North Carolina (2015),
+http://www.srectrade.com/srec_markets/north_carolina.
+
+
+
+
+
+n109.  Interview with Longest.
+
+
+
+
+
+n110.  16 U.S.C.§§2601-2645.
+
+
+
+
+
+n111.  16 U.S.C. § 2621(a); N.C. Utilities Comm'n, Welcome to the North Carolina
+Utilities Commission, http://www.ncuc.commerce.state.nc.us/ (last visited Dec.
+27, 2015).
+
+
+
+
+
+n112.  18 C.F.R. § 304. However, utilities can be relieved from purchasing
+obligations. 18 C.F.R. § 309-311.
+
+
+
+
+
+n113.  Fed. Energy Regulatory Comm'n, What is a Qualifying Facility? (Feb. 3,
+2012), http://www.ferc.gov/industries/electric/gen-info/qual-fac/ what-is.asp.
+
+
+
+
+
+n114.  Fed. Energy Regulatory Comm'n, What are the Benefits of QF Status? (Feb.
+3, 2012), http://www.ferc.gov/industries/electric/gen-info/qual-fac/
+benefits.asp.
+
+
+
+
+
+n115.  18 C.F.R. § 292.101(b)(6).
+
+
+
+
+
+n116.  Duke Energy Progress, NC Standard Option Toolkit (2015),
+https://www.progress-energy.com/carolinas/business/renewable-energy/sell/
+nc-sell-all-toolkit.page?; Duke Energy Progress, LLC, Terms and Conditions for
+the Purchase of Electric Power (Aug. 1, 2015),
+http://www.duke-energy.com/pdfs/C2-NC-Terms-and-Conditions-dep.pdf.
+
+
+
+
+
+n117.  Duke Energy Progress, LLC, Purchased Power Schedule PP-1 (Mar. 1, 2016),
+https://www.duke-energy.com/pdfs/C1-NC-Schedule-CSP-dep.pdf.
+
+
+
+
+
+n118.  http://www.duke-energy.com/pdfs/C2-NC-Terms-and-Conditions-dep.pdf.
+
+
+
+
+
+n119.  Duke Energy Progress, LLC, Cogeneration and Small Power Producer Schedule
+CSP-29B 2 (Aug. 1, 2015),
+http://www.duke-energy.com/pdfs/C1-NC-Schedule-CSP-dep.pdf (listing alternative
+options for "Non-Eligible Qualifying Facilities").
+
+
+
+
+
+n120.  Supra note 24.
+
+
+
+
+
+n121.  Herman K. Trabish, Duke Buying $ 500M of North Carolina Solar to Mixed
+Reviews (Sept. 18, 2014),
+http://www.greentechmedia.com/articles/read/Duke-Buying-500M-of-North-Carolina-S
+olar-to-Mixed-Reviews. Duke Energy asked the NCUC to decrease the maximum size
+of a QF from 5 megawatts to 100 kilowatts, although the current maximum is
+already significantly below the PURPA maximum of 80 megawatts. 16 U.S.C § 796
+(17)(A)(ii). This request was rejected in 2015, but Duke Energy will likely
+continue to push for modifications. See N.C. Utilities Comm'n, Petition for
+Approval of Revisions to Generator Interconnection Standards, Docket No. E-100,
+SUB-101, at 4 (May 15, 2015), https://www.progress-energy.com/
+assets/www/docs/company/NC-Interconnection-Standard.pdf.
+
+
+
+
+
+n122.  Eligible projects must have already filed an application for the delayed
+sunset. N.C. Dep't of Revenue, NC-478EX: Application for Delayed Sunset of the
+Tax Credit for Renewable Energy Property (2015),
+http://www.dor.state.nc.us/downloads/nc478ex.pdf.
+
+
+
+
+
+n123.  N.C.G.S. § 105-277.
+
+
+
+
+
+n124.  Property Classified and Excluded from the Tax Base, N.C.G.S. §
+105-275(45).
+
+
+
+
+
+n125.  Memorandum to Cnty Assessors from David B. Baker, Director, Local
+Government Division, N.C. Dep't of Revenue (Feb. 15, 2011),
+http://www.dornc.com/taxes/property /memos/solar_energy.pdf (clarifying that
+residential PV systems not used to generate income are entirely exempt from
+property taxes).
+
+
+
+
+
+n126.  § 105-275(45). This encompasses any sales back to Duke Energy, and
+therefore applies to most residential installations.
+
+
+
+
+
+n127.  The taxes on an installed solar array, for example, will only be about 1%
+of the total cost of installing the project. See Justin Barnes et al., N.C.
+Solar Ctr., Meister Consultants Grp., Inc., Property Taxes and Solar PV Systems:
+Policies, Practices, and Issues 27, tbl. 3 (Jul. 2013), available at
+https://nccleantech.ncsu.edu/wp-content
+/uploads/Property-Taxes-and-Solar-PV-Systems-2013.pdf (property taxes in 2013
+ranged from 0.49-1.54% of the cost of installing a PV system).
+
+
+
+
+
+n128.  See, e.g., § 160A-459.1; 26 USC§§54A, 54C (however, the Clean Renewable
+Energy Bonds have repeatedly been limited and delayed by sequestration).
+
+
+
+
+
+n129.  See N.C. Clean Energy Technology Center, N.C. State Univ., Database of
+State Incentives for Renewables and Efficiency: North Carolina, DSIRE (Dec. 21,
+2015), http://programs.dsireusa.org/system/program?state=NC (last visited Dec.
+21, 2015) (apply the filter "ProgramType: Loan Program"). Subsidies given by
+electric coops or public utilities are also nontaxable income. 26 U.S.C. § 136.
+A full list of North Carolina's loan programs is available in Appendix C.
+
+
+
+
+
+n130.  Program to Finance Energy Improvements, N.C.G.S. § 160A-459.1 (2010).
+
+
+
+
+
+n131.  For example, Carrboro has established a loan program for small businesses
+and nonprofits with fewer than 50 employees.
+http://townofcarrboro.org/166/1563/WISE-Energy-Efficiency-Loan-Fund.
+
+
+
+
+
+n132.  Duke Center on Globalization, Governance & Competitiveness, North
+Carolina in the Global Economy (2015),
+http://www.ncglobaleconomy.com/information/public.shtml; interview with Morris
+and Grimes.
+
+
+
+
+
+n133.  Adam Lovelady, Univ. of N.C. School of Gov't, Planning and Zoning for
+Solar in North Carolina 14-16 (2014), available at
+http://sogpubs.unc.edu/electronic versions/pdfs/pandzsolar2014.pdf.
+
+
+
+
+
+n134.  See, e.g., Brunswick County, North Carolina, Unified Development
+Ordinance, Art. 12, p. 18 (2013), available at
+http://www.focussenc.org/wp-content/uploads/
+2013/06/BrunswickOrdinance.Unified-Development.06.13.pdf (distinguishing between
+solar collectors, for accessory use, and solar farms, for principal use).
+
+
+
+
+
+n135.  Lovelady at 19.
+
+
+
+
+
+n136.  For example, "for accessory solar systems, the Town of Navassa requires
+site plans and elevation drawings to depict the building, the solar equipment,
+and the property lines. Such plans are administratively approved if they meet
+the applicable development standards." Lovelady at 20; see also Town of Navassa,
+Zoning Division (2009), http://www.townof navassa.org/zoning.html (last visited
+Dec. 23, 2015) (information taken from downloaded pdfs of zoning ordinances).
+
+
+
+
+
+n137.  Every community has its particular concerns, and solar companies should
+work to incorporate them to prevent restrictive ordinances. For example, a model
+ordinance propagated by the Oregon Department of Energy suggests its residents
+and officials are primarily concerned with protecting wildlife. See Oregon Dep't
+of Energy, A Model Ordinance for Energy Projects 34-35 (Jul. 2005), available at
+http://www.oregon.gov/ENERGY/SITING/docs/ModelEnergyOrdinance.pdf.
+
+
+
+
+
+n138.  N.C. Solar Center, N.C. Sustainable Energy Assoc., Template Solar Energy
+Development Ordinance for North Carolina (Dec. 18, 2013), available at
+https://nccleantech.ncsu .edu/wp-content/uploads/
+Template-Solar-Ordinance_V1.0_12-18-13.pdf. [hereinafter N.C. Solar Center
+Template] The American Planning Association created several other model zoning
+ordinances, permitting guides, and other local policies that encourage
+acceptance of solar energy facilities and installations. Am. Planning Assoc.,
+PAS Essential Info Packets: Planning and Zoning for Solar Energy: Updated
+Edition (PAS EIP-30) (2015), https://www.planning .org/pas/infopackets/eip30.htm
+(using existing ordinances or state-level templates, including the template
+ordinance by NC SEA, as models for other states).
+
+
+
+
+
+n139.  N.C. Solar Center Template, supra note 137, at 1.
+
+
+
+
+
+n140.  See generally N.C. Solar Center Template, supra note, 137.
+
+
+
+
+
+n141.  However, note that homeowner's associations cannot create agreements
+prohibiting solar panel installation. Deed Restrictions and Other Agreements
+Prohibiting Solar Collectors, N.C.G.S. § 22B-20.
+
+
+
+
+
+n142.  See The Benefits of Going Solar: A Resource for North Carolina Homeowners
+Associations, N.C. Solar Now (Feb. 2015),
+http://ncsolarnow.com/wp-content/uploads/2015/02
+/benefits-of-solar-in-homeowner-assoc.pdf (addressing potential monetary,
+environmental, and tax concerns).
+
+
+
+
+
+n143.  See, e.g., The Solar Foundation, Model Solar Guidelines: A Resource for
+North Carolina Homeowners' Associations to Facilitate Solar Projects (Mar.
+2015),
+http://www.thesolarfoundation.org/wp-content/uploads/2015/03/Model-HOA-Solar-Gui
+delines_FINAL.pdf.
+
+
+
+
+
+n144.  This strategy is encouraged by Mr. Morris and Mr. Grimes, who stressed
+that residential solar companies should target niche markets and new, affluent
+neighborhoods. Interview with Morris and Grimes, supra note 42. Yes! Solar
+Solutions has successfully implemented this strategy by taking part in several
+Solarize programs and partnering with local nonprofits. Interview with Miller;
+Yes! Solar Solutions, Solarize NC (2015) http://www
+.yessolarsolutionsnc.com/solarize/ (last visited Dec. 23, 2015).
+
+
+
+
+
+n145.  White House, Office of the Press Sec'y, Remarks by the President at
+National Clean Energy Summit (Aug. 25, 2015, 5:12 PM),
+https://www.whitehouse.gov/the-press-office/2015/
+08/25/remarks-president-national-clean-energy-summit.
+
+
+
+
+
+n146.  Id.
+
+
+
+
+
+n147.  For a discussion of Strata Policy's leaders, see infra note 152 For a
+discussion of leaders of Americans for Prosperity, supra note 38.
+
+
+
+
+
+n148.  Blocking the Sun, supra note 40, at 18.
+
+
+
+
+
+n149.  For instance, in Strata Policy's report encouraging North Carolina to
+remove its REPS, the authors note that the Republican House Majority Whip, Mike
+Hager, had support from the ALEC when he proposed a bill to remove the REPS in
+2013. Randy T. Simmons, et al., Renewable Portfolio Standards: North Carolina 5
+(Feb. 2015), http://www.strata.org/
+wp-content/uploads/2015/03/FINAL-RPS-North-Carolina.pdf (citing Bill to repeal
+North Carolina's RPS passes House committee, Voters Legislative Transparency
+Project (2013),
+http://vltp.net/bill-to-repeal-north-carolinas-rps-passes-house-committee/).
+Similar to Strata Policy). ALEC has a page dedicated to refuting claims that it
+denies climate change and opposes renewable energy regulation.Position Statement
+on Renewables and Climate Change, Am. Legislative Exchange Council (2015),
+http://www.alec.org/position-statement-renewables-climate-change/.
+
+
+
+
+
+n150.  See REPS: North Carolina's Renewable Energy Portfolio Standard,
+Conservatives for Clean Energy (May 15, 2015),
+http://www.cleanenergyconservatives.com/reps-2015/ (arguing for continued
+implementation of the REPS because of the state utility's monopoly power)
+
+
+
+
+
+n151.  See, e.g., Randy T. Simmons et al., Strata Policy, Renewable Portfolio
+Standards: North Carolina 15 (Feb. 2015), available at
+http://www.strata.org/wp-content/uploads/2015/03/ FINAL-RPS-North-Carolina.pdf;
+see also Blocking the Sun, supra note 39, at 18.
+
+
+
+
+
+n152.  Strata Policy is unrelated to the local company, Strata Solar. In the
+section "Common Questions about Renewable Portfolio Standards (RPS)," Strata
+openly states that they have been criticized by environmental groups as a
+politically biased, paid-for research team. Renewable Portfolio Standards,
+Strata Policy (2014), http://www.strata.org/rps/. Also, their three executive
+founders have politically conservative backgrounds; the president and director
+of research, Randy Simmons, is a member of the Governors Privatization
+Commission Board of Directors, and has written extensively opposing the
+Endangered Species Act, water conservation laws, and other environmental
+protection regulations.Executive Founders, Strata Policy (2014),
+http://www.strata.org/corporate-team/; Randy T. Simmons, Charles G. Koch
+Professor of Political Economy, Curriculum Vitae,
+http://randytsimmons.org/?page_id=9. Similarly, Americans for Prosperity is a
+national conservative political advocacy group active in North Carolina. State
+Budget Sunsets "Renewable Energy Tax Credit', Americans for Prosperity (Sept.
+15, 2015), http://site.americansforprosperity.org/nc-jobs-agenda/2015/09
+/15/state-budget-sunsets-renewable-energy-tax-credit/. Its executive staff and
+board of directors have backgrounds working for conservative politicians in
+Washington, D.C. Four of the five board members also have connections to Koch
+Industries and other fossil fuel interests. One board member, Mark Holden, is
+senior vice president, general counsel and corporate secretary of Koch
+Industries, Inc. Mark Holden, Americans for Prosperity (2015),
+https://americansforprosperity.org/mark-holden/.
+
+
+
+
+
+n153.  The three reports on Strata Policy's website are almost identical. See
+Randy T. Simmons, et al., Strata Policy, Renewable Portfolio Standards: Michigan
+19 (Sept. 2015), available at http://www.strata.org/wp-content/uploads/2015/09/
+Final-Report.pdf ("The results from these analyses paint a clear picture about
+the effects of RPS."); Randy T. Simmons, et al., Strata Policy, Renewable
+Portfolio Standards: North Carolina 15 (Feb. 2015), available at
+http://www.strata.org/wp-content/uploads/ 2015/03/FINAL-RPS-North-Carolina.pdf
+("The evidence from these studies paints a clear picture about the effects of
+RPS."); Randy T. Simmons, et al., Strata Policy, Renewable Portfolio Standards:
+Kansas 14 (Mar. 2015), available at http://www.strata.org/wp-content/uploads/
+2015/03/Final-Report.pdf ("The evidence from these three studies paints a clear
+picture about the effects of RPS.").
+
+
+
+
+
+n154.  Academic Programs, Strata Policy (2014),
+http://www.strata.org/academicprog rams/. Similarly, the Liberty Fund and the
+Charles Koch Institute host a conference for professors to discuss "topics and
+issues related to liberty and freedom." Id.
+
+
+
+
+
+n155.  Edison Electric Institute, Board of Directors and Executives Meeting 61,
+68 (Sept. 12-14, 2012),
+https://www.documentcloud.org/documents/1374670-2012-eei-board-and-chief-executi
+ves-meeting.html#document/p48/a191712 (suggesting preventing construction of new
+power plants to limit competition) (notes added by Washington Post author Joby
+Warrick regarding Board of Directors Strategic Discussion).
+
+
+
+
+
+n156.  Supra note 153.
+
+
+
+
+
+n157.  For example, Yes! Solar Solutions actively lobbies at the state and
+federal level, making use of national partners for lobbying power and business
+opportunities. Interview with Miller supra note 42.
+
+
+
+
+
+n158.  Interview with Miller supra note 42.
+
+
+
+
+
+n159.  See About Us, N.C. Sustainable Energy Assoc.,
+http://www.energync.org/?page= AboutUs (last visited Dec. 27, 2015).
+
+
+
+
+
+n160.  See Alliance Membership, N.C. Clean Energy Business Alliance (2014),
+http://www.ncceba.org/index.php/members.
+
+
+
+
+
+n161.  See Mission & Funding, https://nccleantech.ncsu.edu/about-ncsc/mission/,
+N.C. Clean Energy Technology Center, N.C. State Univ. (last visited Dec. 27,
+2015).
+
+
+
+
+
+n162.  See Become a Generator, N.C. GreenPower (2015),
+https://www.ncgreenpower.org/ become-a-generator/.
+
+
+
+
+
+n163.  Walsh, supra note 61 at 1967; see also, e.g., interview with Longest,
+supra note 43; interview with Miller supra note 42; interview with Morris and
+Grimes, supra note 42. The restriction in North Carolina, like in many states,
+was originally designed to ensure that any public utility or organization acting
+as a public utility could be regulated by the state's Utilities Commission. The
+statute has been interpreted to apply to renewable energy producers, but it does
+not explicitly do so. Katharine Kollins, Bethany Speer & Karlynn Cory, Duke
+Univ. & Nat'l Renewable Energy Laboratory, Solar PV Project Financing:
+Regulatory and Legislative Challenges for Third-Party PPA System Owners (Feb.
+2010), http://www.nrel.gov/docs/fy10osti/46723.pdf; North Carolina Public
+Utilities Act, N.C.G.S.§§62-1-62-3 (2013).
+
+
+
+
+
+n164.  N.C.G.S. § 62-2.
+
+
+
+
+
+n165.  In Your Area, Duke Energy,
+https://www.duke-energy.com/about-us/in-your-area.asp (last visited May 27,
+2016).
+
+
+
+
+
+n166.  N.C.G.S. § 62-3(23)(a)(1).
+
+
+
+
+
+n167.  See, e.g., Katharine Kollins, Bethany Speer & Karlynn Cory, Duke Univ. &
+Nat'l Renewable Energy Laboratory, Solar PV Project Financing: Regulatory and
+Legislative Challenges for Third-Party PPA System Owners 8-9 (Feb. 2010),
+http://www.nrel.gov/docs/fy10osti/46723.pdf.
+
+
+
+
+
+n168.  N.C. Clean Energy Technology Center & U.S. Dep't of Energy, 3rd Party
+Solar PV Power Purchase Agreement (PPA) (Jul. 2015),
+http://ncsolarcen-prod.s3.amazonaws .com/wp-content/uploads/2015/08/
+3rd-Party-PPA_072015.pdf [hereinafter Third-Party PPA].
+
+
+
+
+
+n169.  Third-Party Solar Financing, Solar Energy Industries Ass'n
+http://www.seia.org/ policy/finance-tax/third-party-financing (last visited Dec.
+25, 2015). Note that this assumes net metering will also be allowed for
+third-party solar energy sales. See Third-Party PPA, supra note 168 at 15-16
+(noting the importance of allowing net metering for third party generators).
+
+
+
+
+
+n170.  Duke Energy asked NCUC to fine NC WARN $ 120,000 for installing the solar
+array ($ 1,000 for each day of infraction). Comments of Duke Energy Carolinas,
+LLC and Duke Energy Progress, LLC in Opposition to NC WARN's Request for
+Declaratory Ruling, No. SP-100, SUB 31, at 12 (Oct. 30, 2015),
+http://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=6294577d-4e25-4f7e-aa24-1fc6e31e8eb
+1
+
+
+
+
+
+n171.  Request by NC WARN for a Determination That Its Proposed Activities Would
+Not Cause It to be Regarded as a Public Utility Pursuant to G.S. 62-3(23), No.
+SP-100, SUB 31 (Jun. 17, 2015),
+http://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=c15976c6-93ec-485a-87d9-e926fa7c0
+2c4.
+
+
+
+
+
+n172.  Id.
+
+
+
+
+
+n173.  N.C. Utilities Comm'n, No. SP-100, SUB 31, Petition by North Carolina
+Waste Awareness and Reduction Network for a Declaratory Ruling Regarding Solar
+Facility Financing Arrangements and Status as a Public Utility, Order Requesting
+Comments (Sept. 30, 2015),
+http://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=11074f42-c80d-45d7-8de8-14732099686
+3 (asking for initial comments by Oct. 30, 2015 and reply comments by Nov. 30,
+2015). Duke Law professor Ryke Longest is part of the litigation team in this
+case, and predicts that the Utilities Commission will not allow the sale from NC
+WARN, and the case will have to be appealed. Interview with Longest, supra note
+43. It is not in the NCUC's best interest to allow renewable energy producers
+exemption from the public utility restriction, because "it basically puts [the
+NCUC] out of a job." Id.
+
+
+
+
+
+n174.  Interview with Longest, supra note 43.
+
+
+
+
+
+n175.  The Energy Freedom Act, HB 245 (2015),
+http://www.ncleg.net/Sessions/2015/Bills/House/PDF/H245v0.pdf.
+
+
+
+
+
+n176.  Id.
+
+
+
+
+
+n177.  Id. (amending § 62-3(23)(a)(1)). The original definition includes "any
+person producing, generating or furnishing any of the foregoing services to
+another person for distribution to or for the public for compensation." N.C.G.S.
+§ 62-3(23)(b). The "foregoing services" refers to a list of several types of
+energy production, including electricity generation other than for personal use.
+§ 62-3(23)(a)(1). The bill also creates a new section 62-119 to identify
+requirements for third party-sellers. The Energy Freedom Act, supra note 174.
+
+
+
+
+
+n178.  Game-Changing Energy Freedom Bill, N.C. Warn (2015),
+http://www.ncwarn.org /energy-freedom/.
+
+
+
+
+
+n179.  Kollins, Speer & Cory, supra note 167 at 17-18.
+
+
+
+
+
+n180.  See, e.g., interview with Longest supra note 43.
+
+
+
+
+
+n181.  Michael Mendelsohn and Claire Kreycik, Nat'l Renewable Energy Lab.,
+Federal and State Structures to Support Financing Utility-Scale Solar Projects
+and the Business Models Designed to Utilize Them 28 (Apr. 2012),
+http://www.nrel.gov/docs/fy12osti/48685.pdf.
+
+
+
+
+
+n182.  See N.C.G.S. § 62-3(23)(b); see also interview with Longest supra note
+43.
+
+
+
+
+
+n183.  Interview with Longest.
+
+
+
+
+
+n184.  Interview with Longest;interview with Morris and Grimes.
+
+
+
+
+
+n185.  Jeff Hampton, Currituck County Solar Farm to be Built by End of 2015,
+PilotOnline.com (Jun. 17, 2014),
+http://www.pilotonline.com/news/local/environment/currituc
+k-county-solar-farm-to-be-built-by-end-of/article_58c95ada-066c-5b18-88a8-
+66ba5e1e2a94.html. Most solar farms are just under 5 megawatts, and construction
+costs about $ 1 million per megawatt. See id.
+
+
+
+
+
+n186.  Mendelsohn & Kreycik, supra note 171 at 22, 23 (introducing project
+finance structures and differentiating between four common types).
+
+
+
+
+
+n187.  Travis Lowder, Nat'l Renewable Energy Laboratory, U.S. Dep't of Energy,
+How Could Securitization Debt Fit with Tax Equity in the Solar Financial
+Landscape? Pt. I, 27 (Oct. 4, 2013, 10:42 AM),
+https://financere.nrel.gov/finance/content/how-could-securitization-debt-fit-tax
+-equity-solar-financial-landscape-pt-I. Besides Partnership Flip, there are also
+Single Owner Finance, various lease structures, and Utility Prepay. Single Owner
+Finance is, as its name implies, financed by one owner - either the developer or
+the utility company. mendelsohn & Kreycik, supra note 171 at 24. Utilities are
+best positioned to use this model, since they have strong financial positions,
+but they rarely employ it. Developers more often make use of Single Owner
+Finance, but only once they are able to recapitalize by selling equity in
+existing projects. Id. at 26. This is therefore more useful for existing solar
+developers, rather than new market entrants.
+
+
+
+
+
+n188.  Groobey et al., Wilson Sonsini Goodrich & Rosatti, Project Finance Primer
+for Renewable Energy and Clean Tech Projects 15 (Aug. 2010),
+https://www.wsgr.com /PDFSearch/ctp_guide.pdf. Developers usually do not qualify
+for the nonrefundable ITC because their tax liability (often called a tax
+appetite) is too low. mendelsohn & Kreycik, supra note 171 at 22.
+
+
+
+
+
+n189.  Lowder, supra note 107 at 27-28; Groobey, supra note 108 at 16. This is
+called the flip point. However, the investor may not dispose of the property
+until five years after the property was placed in service. Internal Revenue
+Serv., Dep't Of The Treasury, Instructions For Form 3468, 1 (Feb. 11, 2015),
+https://www.irs.gov/pub/irs-pdf/i3468.pdf.
+
+
+
+
+
+n190.  This is true because "such investments, and the financial structures that
+build upon them, are designed to maximize the value of federal, state, local,
+and utility-based incentives; allocate risk and reward among different funding
+sources; and allow project participants to focus on core competencies."
+mendelsohn & Kreycik, supra note 171 at 22. Still, the extension of the federal
+ITC will likely help retain some in-state investment: investors were receiving a
+65% tax credit (30% federal and 35% state), and now are only receiving a 30%
+credit, but this is still preferable to 0%.
+
+
+
+
+
+n191.  Phone interview with Williams, supra note 10. Ms. Williams also
+previously worked for Self-Help Credit Union, which finances renewable energy
+companies in North Carolina. Self-Help Credit Union, Our Environmental Work
+(Aug. 2015), https://www.self-help.org/ what-we-do/we-lend/for-the-environment.
+
+
+
+
+
+n192.  Off. of the Comptroller of the Currency, Public Welfare Investments in
+Solar Energy Facilities Using Renewable Energy Investment Tax Credit 2 (Jan.
+2014), http://www.occ.gov /topics/community-affairs/publications/
+fact-sheets/fact-sheet-solar-energy-invest-tax-credits-gra nts.pdf; phone
+interview with Williams, supra note 10.
+
+
+
+
+
+n193.  Phone interview with Williams, supra note 10. Companies can securitize
+new loans by offering fully owned solar farms as collateral. Using the common
+Partnership Flip model, these will only be available to companies already in
+operation for more than five years. Internal Revenue Serv., Dep't Of The
+Treasury, Instructions For Form 3468, 1 (Feb. 11, 2015),
+https://www.irs.gov/pub/irs-pdf/i3468.pdf.
+
+
+
+
+
+n194.  Phone interview with Williams, supra note 10 (explaining that national
+investors can choose from a multitude of projects in many states, and political
+atmosphere plays a role in assessing investment risk).
+
+
+
+
+
+n195.  Interview with Miller (noting that her company does not take out loans
+for expansion, preferring to expand incrementally by using existing profits, but
+it does help consumers find loan financing for solar installations).
+
+
+
+
+
+n196.  Dividend Solar, Home Solar: FAQs (Aug. 1, 2015),
+https://www.dividendsolar.com /faqs#empowerloan.
+
+
+
+
+
+n197.  Id.; Steve Hanley, Sustainable Enterprises Media, $ 0 Down Solar
+Financing for North Carolina Homeowners, CleanTechnica (Mar. 23, 2015),
+http://cleantechnica.com/2015/03/23/0
+-down-solar-financing-for-north-carolina-homeowners/.
+
+
+
+
+
+n198.  See, e.g., Admirals Bank, Admirals Bank's Solar Loans (2011),
+https://www.admirals bank.com/renewable-energy-lending/
+loan-programs/solar-step-down.
+
+
+
+
+
+n199.  See id.
+
+
+
+
+
+n200.  Interview with Miller.
+
+
+
+
+
+n201.  Off. of the Comptroller of the Currency, Public Welfare Investments in
+Solar Energy Facilities Using Renewable Energy Investment Tax Credit 2 (Jan.
+2014), http://www.occ.gov/to pics/community-affairs/publications/
+fact-sheets/fact-sheet-solar-energy-invest-tax-credits-grants .pdf.
+
+
+
+
+
+n202.  Linda Irvine, Alexandra Sawyer & Jennifer Grove, Northwest Sustainable
+Energy for Econ. Development, The Solarize Guidebook: A Community Guide to
+Collective Purchasing of Solar PV Systems 5 (May 2012),
+http://www.nrel.gov/docs/fy12osti/54738.pdf (noting that Solarize programs
+reduce costs through negotiated discounts, ease navigation through complex
+decisions by distributing the effort among a group of purchasers, and increase
+inertia because discounts were only offered for a short time).
+
+
+
+
+
+n203.  Irvine, Sawyer & Grove, supra note 190 at 6-7.
+
+
+
+
+
+n204.  Id.
+
+
+
+
+
+n205.  Id.
+
+
+
+
+
+n206.  Id.
+
+
+
+
+
+n207.  See, e.g., Yes! Solar Solutions, Solarize NC (2015),
+http://www.yessolarsolutions nc.com/solarize/ (engaging in several Solarize
+programs to create a recurring source of income); see also phone interview with
+Miller.
+
+
+
+
+
+n208.  Solarize N.C., What is Solarize Duke?,
+http://www.solarizenc.org/howitworks?duke (last visited Dec. 27, 2015). Note
+that this program is no longer in effect. Interview with Adair. Solarize
+programs are generally one-time occurrences designed to obtain an exclusive
+discount not otherwise available. Id.
+
+
+
+
+
+n209.  Id.
+
+
+
+
+
+n210.  Duke Carbon Offsets Initiative, Duke Univ., Duke Employee Solar Discount
+Pilot Program, http://sustainability.duke.edu/carbon_offsets/solar/ (last
+visited Dec. 25, 2015). The Solarize program was combined with online
+educational resources available to Duke employees. Interview with Adair.
+
+
+
+
+
+n211.  Interview with Adair (noting the Carbon Offsets program was uncertain
+whether another Solarize program was feasible without the state ITC).
+
+
+
+
+
+n212.  Id. (noting that lack of resources and information represented a major
+obstacle to purchasing solar panels, and will still help encourage residential
+sales); Duke Carbon Offsets Initiative, Duke Univ., Residential Solar Resources,
+http://sustainability.duke.edu/carbon_off
+sets/solar/Residential%20Solar%20Resources.html (last visited Dec. 25, 2015).
+
+
+
+
+
+n213.  Interview with Adair.
+
+
+
+
+
+n214.  Yes! Solar Solutions, Solarize NC (2015),
+http://www.yessolarsolutionsnc.com/solarize/; phone interview with Miller.
+
+
+
+
+
+n215.  John Duda, Energy, Democracy, Community, PopularResistance.org (Aug. 5,
+2015), https://www.popularresistance.org/energy-democracy-community/.
+
+
+
+
+
+n216.  Id. This is very similar to Solarize programs, but it is not externally
+structured or organized - the community members form a cooperative organization,
+making collective decisions about financing methods and developer options.
+
+
+
+
+
+n217.  Interfaith Power & Light, Mission & History (2015),
+http://www.interfaithpowerand light.org/about/mission-history/.
+
+
+
+
+
+n218.  N.C. Interfaith Power & Light, Mission & History (2015),
+http://www.ncipl.org/mission-history/.
+
+
+
+
+
+n219.  N.C. Interfaith Power & Light, United Church of Chapel Hill Solar Project
+(Nov. 18, 2015), http://www.ncipl.org/solar-ucch/.
+
+
+
+
+
+n220.  Id.
+
+
+
+
+
+n221.  Marjorie Kelly & Shanna Ratner, Keeping Wealth Local: Shared Ownership
+and Wealth Control for Rural Communities, 36,, Ford Foundation, (2009),
+http://community-wealth .org/sites/clone.community-wealth.org/
+files/downloads/report-kelly-ratner09.pdf.
+
+
+
+
+
+n222.  See Town Board of Woodland, Solar Farm Projects Located Near Woodland 2
+(Dec. 14, 2015), http://townofwoodlandnc.com/index_htm_files/Solar
+%20Farm%20Projects%20Located %20Near%20Woodland.pdf.
+
+
+
+
+
+n223.  Id. at 1.
+
+
+
+
+
+n224.  CBAs also encourage use of brownfields (abandoned fields with unknown
+environmental status). Julian Gross, Community Benefits Agreements: Making
+Development Projects Accountable (2005),
+http://www.goodjobsfirst.org/sites/default/files/docs/pdf/cba2005 final.pdf. On
+the whole, CBAs ensure a particular community, not just the region, benefits
+from an investment or development. Meg Calkins, The Sustainable Sites Handbook:
+A Complete Guide to the Principles, Strategies, and Best Practices for
+Sustainable Landscapes 443 (1st ed. 2012).
+
+
+
+
+
+n225.  Solar Holler, Solar Powered Church (2014),
+http://www.solarholler.com/shepherds town-presbyterian-church.
+
+
+
+
+
+n226.  Id. Initial capital was also financed by an individual, Than Hitt, as
+well as Jefferson Security Bank. Id.
+
+
+
+
+
+n227.  Id. Like North Carolina, West Virginia does not have an SREC market. The
+state can still sell SRECs to Pennsylvania and Ohio utilities, because they
+accept out-of-state credits. SRECTrade, West Virginia (2015),
+http://www.srectrade.com/srec_markets/west_virginia.
+
+
+
+
+
+n228.  Soulardarity Streetlight Campaign: Bold Beginnings (2015),
+https://www.indiegogo.com
+/projects/soulardarity-streetlight-campaign-bold-beginnings#/
+
+
+
+
+
+n229.  Id.
+
+
+
+
+
+n230.  Interview with Morris and Grimes (noting that if Cooperative Solar had
+not been successful, they would have considered entering the O&M industry).
+
+
+
+
+
+n231.  Environment North Carolina, Lighting the Way 33, Appx. A (Sept. 2015),
+available at
+http://environmentnorthcarolina.org/sites/environment/files/reports/
+NC_Lightingtheway_scrn_2.pdf
+
+
+
+
+
+n232.  See Solar Energy Industries Assoc., Major Solar Projects in the United
+States: Operating, Under Construction, or Under Development (Sept. 29, 2015),
+http://www.seia.org/ sites/default/files/resources/PUBLIC%20MPL%209-29-2015.pdf
+(the list includes 578 utility-scale facilities, but it only counts those that
+are 1 megawatt and larger).
+
+
+
+
+
+n233.  Miller Brothers Solar, Solar Farm Operations and Maintenance Issues (Apr.
+28, 2015),
+http://millerbrossolar.com/solar-farm-operations-and-maintenance-issues/ (Miller
+Brothers is an O&M provider in Pennsylvania).
+
+
+
+
+
+n234.  There are plenty of tasks to keep an O&M company busy for decades on a
+single solar farm project. Maureen McHale, Not All O&M Agreements Are Alike
+(2011), http://www.inter pv.net/wsr/wsr_view.asp?idx=822&part_code=03&page=1.
+O&M is often performed by national companies rather than local ones. See, e.g.,
+ESA Renewables, LLC, New Bern, NC 1.26 MW (2015),
+http://esarenewables.com/portfolio/craven-county-nc-1-3mw/.
+
+
+
+
+
+n235.  See, e.g., Jeff Adelson, Giving Away Louisiana: Solar Tax Credit
+http://blogs.thead
+vocate.com/specialreports/2014/12/06/giving-away-louisiana-solar-energy-tax-cred
+it/ (last visited Nov. 23, 2015) (Louisiana cut its generous tax credit from the
+state budget after costs increased beyond what was expected); C. Joseph
+Lennihan, What is the Value of Estimating the Cost of Tax Incentives? J.
+Multistate Tax & Incentives 20, 23 (Aug. 2015).
+
+
+
+
+
+n236.  Josh Birch, WNCT News, No Solar Farm Credits in New State Budget Hurt
+Businesses, Towns (Oct. 12, 2015),
+http://wnct.com/2015/10/12/no-solar-farm-tax-credits-in-new-state-bud
+get-hurt-business-towns/ (quoting Brian O'Hara of Strata Solar).
+
+
+
+
+
+n237.  See RTI Int'l, Economic Impact Analysis of Clean Energy Development in
+North Carolina - 2014 Update 2-12 (Apr. 2014),
+https://www.rti.org/pubs/ncsea_2013_up date_final.pdf.
+
+
+
+
+
+n238.  Id. at 2-4-2-5 (noting that five rural counties saw over $ 100,000 in
+renewable energy investment from 2007 to 2013 and "jobs were often created in
+rural counties that had been hard hit by contraction in the construction
+industry").
+
+
+
+
+
+n239.  Similarly, the EPA's inconsistent biodiesel policy affects biofuel
+companies' funding, cost structure, and level of public support. See phone
+interview with Burton (mentioning that this especially affects biodiesel
+companies, since they are new, not well understood, and generally small).
+
+
+
+
+
+n240.  This, like the Note as a whole, assumes a positive opinion of solar
+power, although that is not uniformly the case. See Christina Nunez, Nat'l
+Geographic, How Green Are Those Solar Panels, Really? (Nov. 11, 2014),
+http://news.nationalgeographic.com/news/energy/2014/11/1411
+11-solar-panel-manufacturing-sustainability-ranking/.
+
+
+
+
+
+n241.  For example, Bill Gates is identifying long-term investors willing to
+risk a lower short-term return to stimulate the country's renewable energy
+industry. Breakthrough Energy Coalition, Introducing the Breakthrough Energy
+Coalition, http://www.breakthroughenergycoal ition.com/en/index.html (last
+visited Dec. 27, 2015) (discussing the difference in risk-reward balance between
+renewable energy projects and other venture capital investments).
+
+
+
+
+
+n242.  N.C. Clean Energy Technology Center, N.C. State Univ., Programs: Federal
+(2015), http://programs.dsireusa.org/system/program (after applying the filters
+State/Territory: Federal and Program Type: Grant Program. Only those grants that
+apply to solar energy projects were included in this table).
+
+
+
+
+
+n243.  N.C. Clean Energy Technology Center, N.C. State Univ., Programs: Federal
+(2015), http://programs.dsireusa.org/system/program (after applying the filters
+State/Territory: Federal and Program Type: Loan Program. Only those grants that
+apply to solar energy projects were included in this table).
+
+
+
+
+
+n244.  N.C. Clean Energy Technology Center, N.C. State Univ., Programs: North
+Carolina (2015), http://programs.dsireusa.org/system/program (after applying the
+filters State/Territory: North Carolina and Program Type: Loan Program, only
+those grants that apply to solar energy projects were included in this table).

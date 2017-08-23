@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Class PostgreSQLResult</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for PostgreSQLResult-class {RPostgreSQL}"><tr><td>PostgreSQLResult-class {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Class PostgreSQLResult</h2>
+
+<h3>Description</h3>
+
+<p>PostgreSQL's query results class.  This classes encapsulates the
+result of an SQL statement (either <code>select</code> or not).
+</p>
+
+
+<h3>Generators</h3>
+
+<p>The main generator is <code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>.
+</p>
+
+
+<h3>Extends</h3>
+
+<p>Class <code>"DBIResult"</code>, directly.
+Class <code>"PostgreSQLObject"</code>, directly.
+Class <code>"DBIObject"</code>, by class &quot;DBIResult&quot;.
+Class <code>"dbObjectId"</code>, by class &quot;PostgreSQLObject&quot;.
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt><a href="../../methods/html/setAs.html">coerce</a></dt><dd><p><code>signature(from = "PostgreSQLConnection", to = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbClearResult.html">dbClearResult</a></dt><dd><p><code>signature(res = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbColumnInfo.html">dbColumnInfo</a></dt><dd><p><code>signature(res = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbGetException.html">dbGetException</a></dt><dd><p><code>signature(conn = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbGetInfo.html">dbGetInfo</a></dt><dd><p><code>signature(dbObj = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbGetRowCount.html">dbGetRowCount</a></dt><dd><p><code>signature(res = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbGetRowsAffected.html">dbGetRowsAffected</a></dt><dd><p><code>signature(res = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbGetStatement.html">dbGetStatement</a></dt><dd><p><code>signature(res = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbHasCompleted.html">dbHasCompleted</a></dt><dd><p><code>signature(res = "PostgreSQLResult")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/dbListFields.html">dbListFields</a></dt><dd><p><code>signature(conn = "PostgreSQLResult", name = "missing")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/fetch.html">fetch</a></dt><dd><p><code>signature(res = "PostgreSQLResult", n = "numeric")</code>: ... </p>
+</dd>
+<dt><a href="../../DBI/html/fetch.html">fetch</a></dt><dd><p><code>signature(res = "PostgreSQLResult", n = "missing")</code>: ... </p>
+</dd>
+<dt><a href="../../base/html/summary.html">summary</a></dt><dd><p><code>signature(object = "PostgreSQLResult")</code>: ... </p>
+</dd>
+</dl>
+
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://developer.r-project.org/db">http://developer.r-project.org/db</a>
+</p>
+
+
+<h3>See Also</h3>
+
+<p>DBI base classes:
+</p>
+<p><code><a href="../../DBI/html/DBIObject-class.html">DBIObject-class</a></code>
+<code><a href="../../DBI/html/DBIDriver-class.html">DBIDriver-class</a></code>
+<code><a href="../../DBI/html/DBIConnection-class.html">DBIConnection-class</a></code>
+<code><a href="../../DBI/html/DBIResult-class.html">DBIResult-class</a></code>
+</p>
+<p>PostgreSQL classes:
+</p>
+<p><code><a href="PostgreSQLObject-class.html">PostgreSQLObject-class</a></code>
+<code><a href="PostgreSQLDriver-class.html">PostgreSQLDriver-class</a></code>
+<code><a href="PostgreSQLConnection-class.html">PostgreSQLConnection-class</a></code>
+<code><a href="PostgreSQLResult-class.html">PostgreSQLResult-class</a></code>
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+drv &lt;- dbDriver("PostgreSQL")
+con &lt;- dbConnect(drv, dbname = "template1")
+## rs is the result set
+rs &lt;- dbSendQuery(con,"select * from sales")
+## display the first three values of result set
+fetch(rs,n=3)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

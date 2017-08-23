@@ -1,0 +1,20 @@
+button.header {
+  font-family: 'times new roman';
+  color: #000000 !important;
+  font-size: 15px;
+  text-shadow: 1px 1px 0px #FF9830;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 15px 5px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #EE5C13;
+}
+button.header:hover {
+  color: #000000 !important;
+  background: #FF0000;
+}
+
+hr.border {
+	border-top: 3px double #8c8b8b;
+}

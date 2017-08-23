@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Convenience functions for Importing/Exporting DBMS tables</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for dbReadTable-methods {RPostgreSQL}"><tr><td>dbReadTable-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Convenience functions for Importing/Exporting DBMS tables
+</h2>
+
+<h3>Description</h3>
+
+<p>These functions mimic their R/S-Plus counterpart 
+<code>get</code>,
+<code>assign</code>,
+<code>exists</code>, 
+<code>remove</code>, and
+<code>objects</code>,
+except that they generate code that gets remotely executed
+in a database engine.  
+</p>
+
+
+<h3>Value</h3>
+
+<p>A <code>data.frame</code> in the case of <code>dbReadTable</code>; otherwise a logical 
+indicating whether the operation was successful.  
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>conn</dt><dd>
+<p>an <code>PostgreSQLConnection</code> database connection object.
+</p>
+</dd>
+<dt>name</dt><dd>
+<p>a character string specifying a table name.
+</p>
+</dd>
+<dt>value</dt><dd>
+<p>a data.frame (or coercible to data.frame).
+</p>
+<p>When the <code>value</code> is a character string, it is assumed to be a file name containing the data to be loaded;
+The implementation is INCOMPLETE and should not be used in current state.
+</p>
+</dd>
+<dt>row.names</dt><dd>
+<p>UNTESTED;
+</p>
+<p>in the case of <code>dbReadTable</code>, this argument can be a string or
+an index specifying the column in the DBMS table to be used as 
+<code>row.names</code> in the output data.frame (a <code>NULL</code>, <code>""</code>, or 0 
+specifies that no column should be used as <code>row.names</code> in the output).
+</p>
+<p>In the case of <code>dbWriteTable</code>, this argument should be a logical
+specifying whether the <code>row.names</code> should be output to the
+output DBMS table; if <code>TRUE</code>, an extra field whose name will be 
+whatever the R/S-Plus identifier <code>"row.names"</code> maps to the DBMS
+(see <code><a href="../../DBI/html/make.db.names.html">make.db.names</a></code>).
+</p>
+</dd>
+<dt>overwrite</dt><dd>
+<p>a logical specifying whether to overwrite an existing table
+or not.  Its default is <code>FALSE</code>.
+</p>
+</dd>
+<dt>append</dt><dd>
+<p>a logical specifying whether to append to an existing table
+in the DBMS.  Its default is <code>FALSE</code>.
+</p>
+</dd>
+<dt>allow.keywords</dt><dd>
+<p><code>dbWriteTable</code> accepts a logical <code>allow.keywords</code> 
+to allow or prevent PostgreSQL reserved identifiers to be used as
+column names. By default it is <code>FALSE</code>.
+</p>
+</dd>
+<dt>dots</dt><dd>
+<p>optional arguments.
+</p>
+<p>When <code>dbWriteTable</code> is used to import data from a file, 
+you may optionally specify <code>header=</code>, <code>row.names=</code>,
+<code>col.names=</code>, <code>sep=</code>, <code>eol=</code>, <code>field.types=</code>, 
+<code>skip=</code>, and <code>quote=</code>. NOT FULLY IMPLEMENTED YET.
+</p>
+<p><code>header</code> is a logical indicating whether the first data line
+(but see <code>skip</code>) has a header or not.  If missing, it value
+is determined following <code><a href="../../utils/html/read.table.html">read.table</a></code> convention,
+namely, it is set to TRUE if and only if the first row has one
+fewer field that the number of columns.
+</p>
+<p><code>row.names</code> is a logical to specify whether the first column
+is a set of row names.  If missing its default follows the 
+<code><a href="../../utils/html/read.table.html">read.table</a></code> convention.
+</p>
+<p><code>col.names</code> a character vector with column names; column names are quoted to work as SQL identifiers.
+Thus, the column names are case sensitive and <code><a href="../../DBI/html/make.db.names.html">make.db.names</a></code> will NOT be used here.
+</p>
+<p><code>sep=</code> specifies the field separator, and its default is <code>','</code>.
+</p>
+<p><code>eol=</code> specifies the end-of-line delimiter, and its default is 
+<code>'\n'</code>.
+</p>
+<p><code>skip</code> specifies number of lines to skip before reading the data,
+and it defaults to 0. 
+</p>
+<p><code>field.types</code> is a list of named field SQL types where 
+<code>names(field.types)</code> provide the new table's column names 
+(if missing, field types are inferred using <code><a href="../../DBI/html/dbDataType.html">dbDataType</a></code>).
+</p>
+</dd>
+</dl>
+
+
+
+<h3>Note</h3>
+
+<p>dbWriteTable creates additional column in the database, while dbReadTable 
+reads that column by default. So, it is not symmetrical in its current implementation.
+the backend raw_names may change in future versions.
+</p>
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>,
+<code><a href="../../DBI/html/isSQLKeyword.html">isSQLKeyword</a></code>,
+<code><a href="../../DBI/html/dbDriver.html">dbDriver</a></code>,
+<code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>,
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>,
+<code><a href="../../DBI/html/dbGetQuery.html">dbGetQuery</a></code>,
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>,
+<code><a href="../../DBI/html/dbCommit.html">dbCommit</a></code>,
+<code><a href="../../DBI/html/dbGetInfo.html">dbGetInfo</a></code>,
+<code><a href="../../DBI/html/dbListTables.html">dbListTables</a></code>,
+<code><a href="../../DBI/html/dbReadTable.html">dbReadTable</a></code>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+conn &lt;- dbConnect("PostgreSQL", dbname = "wireless")
+if(dbExistsTable(con, "frame_fuel")){
+   dbRemoveTable(conn, "frame_fuel")
+   dbWriteTable(conn, "frame_fuel", fuel.frame)
+}
+if(dbExistsTable(conn, "RESULTS")){
+   dbWriteTable(conn, "RESULTS", results2000, append = T)
+else
+   dbWriteTable(conn, "RESULTS", results2000)
+}
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

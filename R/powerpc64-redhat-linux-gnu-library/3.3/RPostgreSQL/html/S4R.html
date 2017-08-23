@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: R compatibility with S version 4/Splus5+ support functions</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for S4R {RPostgreSQL}"><tr><td>S4R {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>R compatibility with S version 4/Splus5+ support functions</h2>
+
+<h3>Description</h3>
+
+<p>These objects ease the task of porting functions into R
+from S Version 4 and S-Plus 5.0 and later.  See the documentation
+there. May be obsolete in the future.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+usingR(major, minor)
+</pre>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+rc &lt;- try(fetch(res, n = -1))
+if(inherit(rc, ErrorClass))
+   stop("could not fetch the data")
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

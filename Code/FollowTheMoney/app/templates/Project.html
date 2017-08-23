@@ -1,0 +1,3042 @@
+<!-- extend base layout -->
+{% extends "home.html" %}
+
+<!-- graph css -->
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-theme.css') }}">
+
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/starter-template.css') }}">
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/cover.css') }}">
+
+
+
+{% block content %}
+
+<head>
+
+</head>
+
+ <center>
+
+  <style>
+     
+     body {
+         
+         background-image: url({{ url_for('static', filename='image/FT.jpg') }});
+         background-repeat: no-repeat;
+         background-size: 100vw 100vh;
+         background-attachment: fixed;
+         
+     }
+  </style>  
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ url_for('start') }}">Follow The Money</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+              <li ><a href="{{ url_for('main') }}">Federal</a></li>
+            <li class="active"><a href="{{ url_for('project') }}">Projects</a></li>
+             <li><a href="{{ url_for('influenced') }}">Influenced</a></li>
+             <li><a href="{{ url_for('about_view') }}">About</a></li>
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+</style>
+
+<form class="form-horizontal">
+  <div class="form-group">
+
+ <img src="{{url_for('static', filename='image/influx_money.jpg')}}" />
+
+
+<br>
+<br>
+<br>
+<br>      
+
+<style type="text/css">
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 20%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myInput1 {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 20%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 50%;
+  border: 5px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for States">&nbsp; &nbsp;
+<input type="text" id="myInput1" onkeyup="myFunction1()" placeholder="Search for Projects">
+<table ID="myTable">
+  <tr class="header">
+    <th>State</th>
+    <th>Project</th> 
+    <th>Amount Funded</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FL</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">8750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VT</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">583397</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">430263</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WY</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">9375</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">198500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">751367</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SC</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">101640</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">262500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">569578</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1471778</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">300000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">190834</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">396429</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1168894</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">461310</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1125446</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TN</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">924120</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Household Water Well System Grants</td>
+    <td class="tg-yw4l">990000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">102763</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1666667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">862655</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">470833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">163983</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Household Water Well System Grants</td>
+    <td class="tg-yw4l">990000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">157211</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">370733</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">138747</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Household Water Well System Grants</td>
+    <td class="tg-yw4l">990000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">761905</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AZ</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">2106364</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ID</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FL</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">1001313</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NM</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WI</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">2538750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">103197</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">1195700</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OH</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">395200</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">331333</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NM</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">246250</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">686886</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">392395</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">225714</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">432337</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">932605</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">8750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WY</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">100000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">861125</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1181353</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">461310</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">468719</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">2404333</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">582511</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ID</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KS</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">1751429</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MT</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">33396</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">1346823</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">85010</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">404701</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Multi-Family Housing Direct Loans</td>
+    <td class="tg-yw4l">2774113</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">407115</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1154126</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">230000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">35833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">539394</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">566167</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SC</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">902199</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1500000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">8750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1111119</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">998059</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">1199750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">1125636</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">103197</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1015704</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1298744</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KS</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">9375</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">971438</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1666667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">33396</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">71496</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">1144093</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AZ</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">1195700</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VT</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">175000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1105158</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">580917</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">812297</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">331333</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">132000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">815721</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">541056</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Advanced Biofuel Payment Program</td>
+    <td class="tg-yw4l">2726019</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">815721</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">9375</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">353804</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1500000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VT</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">3803461</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ID</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1872625</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">645045</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1396421</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">262500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">152050</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">374603</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">2050709</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TN</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TX</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">135000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">50000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1633636</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">155625</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">876591</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">534356</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">1346823</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">879725</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1396421</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">129408</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">370733</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">2774113</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MT</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">175000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">376631</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">99965</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">707691</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">1346823</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">85010</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FL</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">100000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">606594</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">1195700</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">89995</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">751367</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">85010</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TX</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">407115</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">138747</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">438354</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1522610</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">2676238</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FL</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">606594</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">129408</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">765125</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1210979</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">788400</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">891272</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">1450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">461310</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10357</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VT</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">198500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">350796</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1396421</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Household Water Well System Grants</td>
+    <td class="tg-yw4l">990000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">555000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">326874</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">370733</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">546754</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">61000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">226944</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">85010</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">141111</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MN</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">541056</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NM</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">276250</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1558550</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WY</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">99965</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1080822</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">3803461</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">437667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">551919</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NH</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">198500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">1131250</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">541056</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">1346823</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">3361667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ID</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">604053</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">908376</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">300000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NM</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">5860000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1333486</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">488625</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">33396</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">3361667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">714784</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">827447</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">3803461</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1522610</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MT</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">202157</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">155625</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">155625</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Multi-Family Housing Direct Loans</td>
+    <td class="tg-yw4l">2656849</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AZ</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">33396</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1522610</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">321395</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OH</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1760317</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1500000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">707691</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SC</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">138747</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">827447</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">509091</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">110310</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">1144093</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">754848</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NH</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NM</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">180014</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Household Water Well System Grants</td>
+    <td class="tg-yw4l">990000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">33396</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WV</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1471778</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">606594</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">124850</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OH</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">300000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">824833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TN</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NJ</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">226944</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">135000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SC</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">126000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VT</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">437739</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1333486</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">931021</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MN</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">3361667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NJ</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">506945</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OK</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KS</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">751367</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WV</td>
+    <td class="tg-yw4l">Household Water Well System Grants</td>
+    <td class="tg-yw4l">990000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">3803461</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OH</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">772544</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">138747</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1122550</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">461310</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">421154</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">138747</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">262500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">189394</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">360199</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">33396</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">389995</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">331333</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Rural Community Development Initiative Grants</td>
+    <td class="tg-yw4l">228552</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1396421</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">50000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">506945</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WI</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">1307328</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KS</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">314000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ID</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">4100</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">370733</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">138747</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">192593</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1080822</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1500000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">573334</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">103197</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">564087</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">135000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">416667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1833469</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FL</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1522610</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">140000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">662277</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1122234</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">1125000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">226944</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">190834</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NH</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">146845</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MT</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AZ</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">739230</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">138528</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WV</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">3803461</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">118929</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">440678</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1636978</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">1346823</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">100000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">739256</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">81624</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TX</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">4817500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">389995</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">100596</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1500000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">1678038</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">High Energy Cost Grants</td>
+    <td class="tg-yw4l">2512500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OH</td>
+    <td class="tg-yw4l">Multi-Family Housing Direct Loans</td>
+    <td class="tg-yw4l">2774113</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">235556</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">426449</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">8750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WI</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">506945</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Specialty Crop Block Grant Program</td>
+    <td class="tg-yw4l">1750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">321395</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">226944</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KS</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">751367</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Farmers Market Promotion Program</td>
+    <td class="tg-yw4l">1451340</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">868206</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">10833</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1333486</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">995427</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SC</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">300000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KY</td>
+    <td class="tg-yw4l">Community Connect Grants</td>
+    <td class="tg-yw4l">1771035</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NJ</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">690857</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MO</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NH</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">175000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1402558</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">637417</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VT</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">585193</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AK</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">815721</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">Community Facilities Technical Assistance and Training Grant</td>
+    <td class="tg-yw4l">447000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MN</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">450000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">242692</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">2100000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WI</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">Housing Preservation Grants</td>
+    <td class="tg-yw4l">25000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">2329511</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ME</td>
+    <td class="tg-yw4l">Solid Waste Management Grants</td>
+    <td class="tg-yw4l">3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">16750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Economic Impact Initiative Grants</td>
+    <td class="tg-yw4l">150000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Emergency Community Water Assistance Grants</td>
+    <td class="tg-yw4l">1080822</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Rural Cooperative Development Grants</td>
+    <td class="tg-yw4l">175000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CA</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">353804</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MN</td>
+    <td class="tg-yw4l">Youth Loans</td>
+    <td class="tg-yw4l">262500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Guaranteed Farm Loans</td>
+    <td class="tg-yw4l">585528</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Advanced Biofuel Payment Program</td>
+    <td class="tg-yw4l">2774113</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">1284748</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">Rural Business Investment Program</td>
+    <td class="tg-yw4l">96261</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Value Added Producer Grants</td>
+    <td class="tg-yw4l">286488</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">141111</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">Farm Ownership Loans</td>
+    <td class="tg-yw4l">1522610</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">166667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">389995</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Community Facilities Loan Guarantees</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">7500</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Strategic Economic and Community Development</td>
+    <td class="tg-yw4l">113600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">819670</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">Single Family Housing Repair Loans &amp; Grants</td>
+    <td class="tg-yw4l">8750</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">33000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">Rural Energy Savings Program</td>
+    <td class="tg-yw4l">488625</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">Emergency Farm Loans</td>
+    <td class="tg-yw4l">1000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">Repowering Assistance Program</td>
+    <td class="tg-yw4l">1666667</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">Energy Resource Conservation</td>
+    <td class="tg-yw4l">65000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TN</td>
+    <td class="tg-yw4l">Rural Business Development Grants</td>
+    <td class="tg-yw4l">1195700</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">Rural Microentrepreneur Assistance Program</td>
+    <td class="tg-yw4l">827447</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">Circuit Rider Program</td>
+    <td class="tg-yw4l">4000000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">Microloans Program</td>
+    <td class="tg-yw4l">10000</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">Intermediary Relending Program</td>
+    <td class="tg-yw4l">788303</td>
+  </tr>
+</table>
+
+
+
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+
+   
+
+<script>
+function myFunction1() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput1");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+
+
+   
+
+
+
+
+ </div>
+  </form>
+
+
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+<br>
+<br>
+<br> 
+{% endblock %}
+
+

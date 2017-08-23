@@ -1,0 +1,310 @@
+<!-- extend base layout -->
+{% extends "home.html" %}
+
+<!-- graph css -->
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-theme.css') }}">
+
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/starter-template.css') }}">
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/cover.css') }}">
+
+
+
+{% block content %}
+
+<head>
+
+</head>
+
+
+
+
+  <style>
+     
+     body {
+         
+         background-image: url({{ url_for('static', filename='image/FT.jpg') }});
+         background-repeat: no-repeat;
+         background-size: 100vw 100vh;
+         background-attachment: fixed;
+         
+     }
+  </style>  
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ url_for('start') }}">Follow The Money</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li ><a href="{{ url_for('main') }}">Federal</a></li>
+            <li><a href="{{ url_for('project') }}">Projects</a></li>
+            <li class = "active"><a href="{{ url_for('influenced') }}">Influenced</a></li>
+             <li><a href="{{ url_for('about_view') }}">About</a></li>
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+<br>
+<br>
+<br> 
+
+<form class="form-horizontal">
+  <div class="form-group">
+
+  <img src="{{url_for('static', filename='image/inf.jpg')}}" align="right" />
+
+
+<style type="text/css">
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 18%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 15%;
+  border: 5px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for States">
+<table ID="myTable">
+   <tr class="header">
+    <th style="width:60%;">State</th>
+    <th style="width:60%;">Item</th> 
+  </tr>
+  <tr>
+    <td class="tg-yw4l">GA</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NC</td>
+    <td class="tg-yw4l">wheat</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SD</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ND</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RI</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LA</td>
+    <td class="tg-yw4l">beans</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NE</td>
+    <td class="tg-yw4l">dairy</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OK</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OK</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OK</td>
+    <td class="tg-yw4l">dairy</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OK</td>
+    <td class="tg-yw4l">wheat</td>
+  </tr>
+  <tr>
+    <td>CA</td>
+    <td>tobbaco</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OK</td>
+    <td class="tg-yw4l">cotton</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">hay</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MD</td>
+    <td class="tg-yw4l">dairy</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UT</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NJ</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WA</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CO</td>
+    <td class="tg-yw4l">wheat</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AL</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">cotton</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">dairy</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">cultivation</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NV</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WI</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MS</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NY</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MI</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MT</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PA</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OH</td>
+    <td class="tg-yw4l">corn</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">OR</td>
+    <td class="tg-yw4l">wheat</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">CT</td>
+    <td class="tg-yw4l">tobacco</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">HI</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">NM</td>
+    <td class="tg-yw4l">dairy</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">FL</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MA</td>
+    <td class="tg-yw4l">rice</td>
+  </tr>
+</table>
+
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+
+
+    
+
+    </div>
+  </form>
+
+
+
+
+      
+
+<br>
+<br>
+<br> 
+{% endblock %}

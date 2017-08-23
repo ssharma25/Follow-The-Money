@@ -1,0 +1,4515 @@
+﻿
+                                1 of 9 DOCUMENTS
+
+                   Copyright (c) 2016 Energy Bar Association
+                               Energy Law Journal
+
+                                      2016
+
+                               Energy Law Journal
+
+                              37 Energy L. J. 265
+
+LENGTH: 20746 words
+
+ARTICLE: PROTECTING LOW-INCOME RATEPAYERS AS THE ELECTRICITY SYSTEM EVOLVES
+
+NAME: Adrienne L. Thompson*
+
+BIO: * Associate, Troutman Sanders, LLP. The views expressed here are solely
+those of the author and not of Troutman Sanders LLP or its clients. Funding for
+this article came from the George Washington University Law School Energy Law
+Advisory Board while the author served as the 2014-2016 GW Law Energy Law
+Scholar and Sustainable Energy Initiative Research Associate. The author wants
+to thank those who gave valuable feedback and edits on this article, including
+the journal editors, Ron Elwood of the Legal Services Advocacy Project in
+Minnesota, and John Howat of the National Consumer Law Center. Special
+appreciation goes to Donna Attanasio, Senior Advisor to Energy Law Programs,
+Professorial Lecturer in Law, and Director of the Sustainable Energy Initiative
+at GW Law for her thoughtful comments and for providing the seeds for this
+article and many of the solutions mentioned herein.
+
+HIGHLIGHT:
+
+   Synopsis: From distributed energy resources to smart meters, we are
+witnessing one of the most significant economic and physical transitions in the
+history of our electricity sector. As utilities, regulators, and stakeholders
+grapple with transforming our aging grid, one under-examined issue is how these
+changes will impact low-income ratepayers. Specifically: as reformers begin to
+align utility pricing structures with true system costs, what will happen to the
+rate-based subsidies helping to provide electricity to these financially
+vulnerable consumers? With millions of Americans otherwise unable to afford
+utility service, the answer to that question has real-world implications. This
+article analyzes the intersection of grid modernization efforts and low-income
+ratepayer assistance programs. It discusses the unique problems facing
+low-income customers, and explores norms like "universal service" that underpin
+utility regulation in general, and ratepayer assistance in particular.
+Ultimately, this article proposes policy solutions to facilitate the goals of
+both grid modernization and low-income ratepayer assistance. Only by tackling
+this issue head-on can policymakers ensure that tomorrow's energy future will
+look bright for all ratepayers - regardless of their income.
+
+
+ TEXT:
+ [*267]
+
+   I. Introduction
+
+ Electric utilities in the United States can no longer rely solely on producing
+and selling kilowatts to generate revenue. The challenges facing these companies
+today include: flattening electricity consumption, pressing resiliency and
+security concerns, and rising demand for distributed energy resources (DER). In
+addition to implementing standard system upgrades, utilities are being called to
+integrate decentralized assets, facilitate customer generation and energy use
+options, and invest in smarter grid technology - all while operating more
+efficiently and with less carbon output.
+
+   These realities are fundamentally changing the way that utilities will be
+operated and regulated in the near future. Several states, like New York,
+Minnesota, Massachusetts, California, and Hawaii, are investigating how to
+prepare for and guide this evolution. At the forefront of these discussions are
+important questions over how utility business models and rate structures must
+change, as well as how tomorrow's electricity system will continue to deliver
+affordable, reliable, and universal service.
+
+   Under-examined throughout this process, however, is the concern of how this
+grid evolution will impact the most vulnerable in our communities: low-income
+ratepayers. Indeed, these changes raise a host of low-income consumer protection
+issues from addressing stringent distributed energy financing rules n1 and the
+landlord-tenant impediment to energy upgrades, n2 to ensuring cost containment
+as  [*268]  smart metering enables new pricing structures. n3 This article
+analyzes just one aspect of this multifaceted conundrum: how modern rate
+structure reforms will likely impact low-income ratepayer assistance programs.
+The goal is to explain this problem and provide a preliminary set of policy
+solutions for industry members, stakeholders, and regulators. No single policy
+will provide the answer for most states. However, using some of the suggestions
+outlined in this article, in combination with an inclusive dialogue, we can
+better ensure a more just and equitable outcome for low-income consumers in the
+electricity system of tomorrow.
+
+   To that end, this article proceeds as follows: Part II describes the chronic
+"energy burden" weighing down low-income households, and explores the various
+federal and state policies in place to lighten this load. Part III follows with
+a brief discussion of the current set of challenges prompting grid modernization
+efforts, and describes what implications those efforts present for low-income
+ratepayers. With this background as context, Part IV lays out a series of policy
+approaches that can help regulators and reformers address these concerns and
+meet their intended objective: modernizing the electricity system while ensuring
+affordable service, universal access, and equal participation for all
+ratepayers.
+
+   II. The Energy Burden Facing Low-Income Households and the Current State of
+Assistance Programs
+
+ To better understand the proposed grid reforms outlined in Part IV, it is
+necessary to first set out the status quo for low-income households in the
+United States today. This Part discusses the primary metric by which
+"affordability" is often measured by utilities and regulators: the energy
+burden. The second subsection addresses federal and state-level policies and
+programs to help alleviate this burden.
+
+   A. What Is the Energy Burden?
+
+ According to the most recent data from the U.S. Census Bureau, 46.7 million
+people were in poverty in the United States in 2014 - nearly 14.8% of the
+population. n4 But those numbers tell only part of the story. Generally,
+although each state and utility-run energy assistance program defines
+"low-income" differently, most peg eligibility to certain thresholds at or up to
+200% of the federal poverty level  [*269]  (FPL) - which brings the total of
+people potentially eligible for low-income assistance programs in the United
+States to around 106 million. n5
+
+   In the context of energy assistance, many programs look to not only a
+person's income in relation to the FPL but also his or her total "energy burden"
+- that is, the percentage of a customer's income spent on energy. n6 According
+to various sources, including the federal Energy Information Administration, n7
+middle-income and high-income ratepayers have a 1-5% energy burden, whereas
+low-income customers face burdens from 6-30% or more depending on the state. n8
+
+   Sample State Comparison of Energy Burden and Number of Households in 2015
+Broken down in Relation to the Federal Poverty Level
+
+Fed. Pov. Level   Ohio         Arkansas     California      Texas
+                  Burden       Burden       Burden          Burden
+                  <abval1>     <abval1>     <abval1> People <abval1>
+                  People       People                       People
+Below 50%         30%  340,907 38%  90,651  25%  889,088    31%  652,395
+50-100%           16%  391,315 20%  127,775 13%  1.16 mil.  16%  919,249
+100-125%          11%  207,370 13%  69,004  9%   658,115    11%  494,789
+125-150%          9%   208,736 11%  69,711  7%   648,586    9%   486,728
+150-185%          7%   300,805 9%   93,978  6%   862,381    7%   650,634
+185-200%          6%   125,281 8%   36,055  5%   335,906    6%   258,823
+Total households  1,574,414    487,174      4,557,152       3,462,609
+
+ Although the above table highlights only four states, it is clear that millions
+of Americans struggle to pay their energy bills. Indeed, by some estimates, the
+number of low-income households represents 28% of the $ 159 billion residential
+energy market. n9 And the closer a household is to the FPL, the more onerous
+that  [*270]  monthly energy bill is. As this problem is studied further, the
+harsh realities facing low-income households come into clearer focus.
+
+   1. The Majority of Low-income Households Include Vulnerable Members.
+
+ According to the National Energy Assistance Directors' Association (NEADA), a
+significant number of low-income households have at least one member who is
+particularly reliant on electricity for temperature control or other
+necessities. Based on a NEADA survey of 1,800 recipients of Low-Income Energy
+Assistance Program (LIHEAP) n10 funding, 40% had someone age sixty or older, 72%
+had a family member with a serious medical condition, 41% had a child under
+eighteen and 21% with young children under five, and 42% were disabled. n11
+
+   2. High Energy Burdens are Strongly Associated with Negative Health Impacts
+
+ Numerous studies have established the link between energy unaffordability and
+poor health outcomes. In particular, utility shutoffs, bill debt, and
+inefficient weatherization have been linked to increased cases of pneumonia,
+bronchitis, other illnesses, and hunger among low-income communities. n12 23% of
+the NEADA survey respondents reported keeping their homes at unhealthy
+temperatures in response to unaffordable utility bills; 33% used the kitchen
+stove or oven for supplementary heat; and 24% stated they had gone without food
+for at least one day. n13 Children are particularly at risk for a host of health
+complications associated with high energy burdens, including carbon monoxide
+poisoning, malnutrition, and cognitive and behavioral underdevelopment. n14
+
+   3. Energy Insecure Households are Predominantly Southern and African
+American.
+
+ The racial and geographic disparities associated with high energy burdens are
+also significant. Of the households facing high energy burdens, 18% are
+Hispanic, 28% are white, and 49% are African American. n15 Likewise, 46% of
+families with high energy burdens reside in the South, followed by the Midwest
+at 22%, the Northeast with 17%, and the Northwest with 15%. n16
+
+[*271]
+
+   B. Current Policies and Programs to Assist Low-Income Households
+
+ States and the federal government have various tools available to help reduce
+the energy burden on low-income households. At the federal level, two important
+initiatives are the Low Income Home Energy Assistance Program (LIHEAP) and the
+Weatherization Assistance Program (WAP) - both of which are federally-funded
+grant programs administered in every state, the District of Columbia, as well as
+most tribal reservations and U.S. territories. n17 At the state level, as a
+result of a series of common law principles and regulatory norms, a primary
+mechanism for assisting low-income ratepayers has become the utility rate
+structure itself. As explored further in Part III, a likely consequence of the
+grid modernization efforts underway today will be rate design reforms - a
+prospect with negative financial implications for low-income ratepayers.
+
+   1. Federal Level: LIHEAP and WAP
+
+ In response to the steep increase in home heating oil following the oil
+industry's decontrol and the 1979 Iranian Crisis, Congress passed the Home
+Energy Assistance Act in 1980, and reauthorized it as the Low Income Home Energy
+Assistance Program (LIHEAP) that next year. n18 In essence, LIHEAP is a
+state-administered federal grant program providing targeted assistance to the
+most vulnerable households. Although states have flexibility to allocate some
+funds for weatherization and energy-related repairs, the bulk of the funds are
+used to offset heating and cooling bills for qualifying households. n19 States
+are allowed to set household income eligibility to the greater of either 150% of
+the federal poverty level or 60% of the state median income. n20
+
+   Since funding began, LIHEAP has become a critical lifeline for those with
+"the lowest incomes and highest energy costs or needs in relation to income" - a
+group of people that disproportionately includes young children, the elderly,
+and individuals with disabilities. n21 However, since LIHEAP is not a mandatory
+federal spending program like Social Security or Medicare, it is under constant
+threat of underfunding.
+
+   Due to budgetary constraints, LIHEAP funding has been cut considerably - from
+$ 4.7 billion in 2011 to just over $ 3 billion for 2016 - which directly impacts
+the number of recipients who can receive funding. n22 According to a December
+2015 report by the Congressional Research Service, only about 22% of eligible
+[*272]  households in 2012 actually received LIHEAP assistance that year. n23
+This is not an anomaly. Historically, the program has only served about 15-20%
+of eligible households in the United States, and only served 36% of eligible
+households when funding first began in 1981. n24
+
+   Second to LIHEAP, the next major source of federal dollars for low-income
+ratepayers is the Weatherization Assistance Program (WAP). First created in
+1976, WAP is a grant program derived from annual Congressional appropriations
+and administered by the Department of Energy (DOE). n25 The DOE distributes this
+grant funding to each state, territory, a number of tribes, and the District of
+Columbia. These funds are then allocated to the respective recipient's local
+weatherization agency to put toward weatherizing the homes of eligible
+individuals - those with an income within 200% of the FPL. n26
+
+   Aside from 2009-2013, which saw an unprecedented infusion of $ 5 billion in
+funding through the American Recovery and Reinvestment Act, n27 since 2002, the
+total WAP allocation has ranged between $ 204-242 million; n28 the total
+allocation for 2016 is $ 213.8 million. States are allowed to allocate a small
+portion of their LIHEAP grants toward WAP as well. n29 In addition, grant
+recipients are also able to leverage DOE's allocations to acquire additional
+funding from local utilities, state general funds, and public benefits funds.
+n30
+
+   In addition to improved health outcomes, the other benefits of home
+weatherization include reduced utility bills for ratepayers, lower arrearages
+for utilities, reduced reliance on LIHEAP and other subsidies, and improved
+housing stock within the community. n31 Although the benefits to home
+weatherization are significant, so is the extent of the weatherization problem
+among the low-income community. Indeed, although WAP funding has allowed for
+over 6 million homes to  [*273]  be weatherized since the program was created,
+n32 there are over 40 million homes eligible for program funding. n33
+
+   2. State Level: Underlying Principles Supporting Low-Income Ratepayer
+Assistance
+
+ State low-income assistance programs pick up where LIHEAP and WAP leave off.
+The primary means through which low-income ratepayers receive financial help is
+through favorable rate structures that provide below-cost rates through various
+types of discount programs. These programs, explained further in the next
+subsection, are grounded in principles that underpin both utility regulation in
+general as well as public assistance programs in the United States.
+
+   The philosophical and political roots of poverty assistance in the United
+States stretch back to the English Poor Laws of the 1580s, but the concept
+became a more formalized government policy in the years during and following the
+Great Depression. n34 The idea of "public interest" regulation of electric
+utilities has a much more recent history - one that is grounded in both the
+belief that electricity is an essential service, and the traditional assumption
+that such service can only be economically delivered by a single entity. n35 The
+rationale for low-income ratepayer assistance, therefore, draws from both of
+these histories, and in particular, from four subsidiary principles. These
+principles form the basis of current low-income assistance programs and are the
+animating forces behind the policy suggestions in Part IV of this article.
+
+   a. Duty to Serve
+
+ The duty to serve is one of the fundamental principles underpinning utility
+regulation and dates back to English common law. n36 In essence, it operates as
+a check on a monopoly utility's market control and ability to favor certain
+customers. The duty obligates utilities to provide service to any member of the
+public who resides in the utility's service area who has applied, and is willing
+to pay, for  [*274]  service. n37 In contrast with other business enterprises,
+utilities are obligated to serve both profitable and unprofitable clients within
+their service territory. n38 Indeed, in some cases, utilities have been ordered
+to extend their services to remote areas regardless of the fact that such a
+requirement may result in a financial loss to the utility in the short-term. n39
+
+   b. Duty of Non-Discrimination
+
+ A common law outgrowth of the "duty to serve" is the utility's duty to provide
+such service without undue discrimination. n40 According to this duty, public
+utilities must treat all those within its franchise without arbitrary
+discrimination and "to [the] extent of its capacity, serve all who apply, on
+equal terms, as far as they are in [the] same class and similarly situated." n41
+Low-income rate discounts - sometimes termed "lifeline" rates - have largely
+withstood challenges under this common law duty. n42 This is due in part because
+price differentiation does not necessarily amount to undue discrimination, n43
+especially for customers that are often, although not exclusively, low users of
+electricity services. n44 Other grounds have included broad recognition of
+regulators' abilities to consider non-cost factors in approving rates. n45
+
+   c. Universal Service/Access Requirement
+
+ The concept of universal access has its roots in the equity principles central
+to public assistance programs generally as well as in New Deal-era notions of
+economic opportunity. n46 By the early twentieth century, electricity had spread
+through most of America's cities, leaving much of the rural countryside without
+the modern conveniences or industrial advancements attendant to electrification.
+As the electricity gap widened so did the economic gap between urban and rural
+[*275]  America. n47 The federal government responded by establishing the Rural
+Electrification Administration and authorizing the new agency to make loans to
+local governments, nonprofits, and farming cooperatives for purposes of
+developing electricity infrastructure. n48 By the 1950s, electricity could be
+delivered to almost any farm in the country. n49 Thanks in large part to the
+success of rural electrification, the concept of affordable and universal access
+to electricity has become a fundamental tenant of utility regulation and a
+guiding principle for regulators. n50
+
+   d. Ability-to-Pay Principle
+
+ The ability-to-pay principle - a concept borrowed from tax policy - has also
+influenced how utility rates are structured to assist low-income customers. n51
+In the context of utility ratemaking, the principle is grounded in the notion
+that electricity service is a necessity that should not be denied to low-income
+individuals simply because they cannot pay the full cost of service. n52
+
+   The four core ideas outlined above have endured through past evolutions of
+the electricity sector. n53 Indeed, even as we enter a new phase of this
+transition, at a time of reimagining old business models and regulatory
+structures, regulators and stakeholders are invoking these principles as they
+consider grid reforms. n54 The challenge, of course, will be to put words into
+meaningful action, so that these principles can matter as much tomorrow as they
+do today.
+
+[*276]
+
+   3. State Level: Rate-Based Low-Income Ratepayer Discount Programs
+
+ In the context of low-income ratepayer assistance, the preceding principles and
+policies are implemented in the utility rate structure through the state-level
+utility ratemaking process. That process, and how it may be impacted by current
+grid reform efforts, is discussed in Part III.B. What follows below is a brief
+summary of the common types of low-income ratepayer discount programs, n55 which
+along with low consumption-based rates, are sometimes referred to collectively
+as "lifeline rates." n56 As explained in Subsection B, the costs for these
+programs are funded through higher rates imposed on non-low-income ratepayers,
+as well as through LIHEAP and any applicable state grants. n57
+
+   a. Straight/Percentage of Bill Discount
+
+ In a straight discount program, a certain percentage of the bill is cut from
+the customer's total amount due. n58 For example, under a 20% straight discount
+program, a low-income customer with a $ 40 monthly bill would see it reduced by
+$ 8 to be a total of $ 32. In 1989, California's legislature enacted the
+California Alternative Rate for Energy (CARE) program, which currently provides
+a 30-35% electricity bill discount and 20% natural gas bill discount for
+low-income customers. n59 Other states with straight discount programs include
+Massachusetts, Alabama, Arizona, Georgia, Illinois, Kansas, Kentucky, Maine,
+Maryland, and Rhode Island. n60 As of this writing, Texas is phasing-out its
+"Lite-up Texas" straight discount program, with the process to finish by the end
+of 2016. n61
+
+   b. Percentage of Income Payment Plan (PIPP)
+
+ Unlike the straight discount, which is applied equally to low-income customers'
+bills regardless of the energy burden severity, the PIPP provides more targeted
+[*277]  assistance. The first PIPPs were instituted by Ohio, followed by
+Pennsylvania, n62 and Illinois. n63 Under this discount scheme regulators set an
+affordable energy burden and program administrators look at a household's annual
+income to calculate the monthly bill. For example, if regulators set a 5% energy
+burden, and a household earns $ 15,000 annually, the total energy bill would be
+$ 750 for the year or $ 62.50 per month. Energy costs beyond that $ 750 yearly
+total are covered by available state or LIHEAP funds first, then other
+ratepayers - although some states apply those arrears once the customer leaves
+the PIPP. n64
+
+   c. Fixed Credit Model
+
+ This is a PIPP variation that is utilized by New Jersey and Maine. n65 First, a
+PIPP is determined the same way as above, but in order for the discount to
+apply, the household's actual utility bill must be over a certain threshold. The
+discount only applies to cover any amount that exceeds that threshold. n66
+
+   d. Tiered Discount
+
+ Tiered discount models, like those implemented in Indiana and New Hampshire,
+offer varying percentage discounts depending on the low-income customer's income
+level. Thus, the closer a ratepayer is to the federal poverty line, the deeper
+the discount into their utility bill. n67 The advantage of this method is that
+it attempts to arrive at an affordable rate for each "tier" of low-income users.
+In its May 2016 Order on low-income affordability programs, the New York Public
+Service Commission rejected a straight discount approach in favor of a tiered
+approach in which low-income ratepayer discounts vary based on income level (as
+demonstrated by the ratepayer's receipt of certain public assistance benefits).
+n68
+
+   e. Consumption-Based Discounts
+
+ This type of model works in a similar fashion to an inclining block rate. n69
+Under a consumption-based discount, as a low-income customer's use increases,
+the discount is reduced. n70 Unlike the tiered discount approach, however,
+consumption-based discounts are pegged to usage, not affordability. Thus, a low-
+[*278]  income ratepayer could be a lower user, garnering a significant discount
+as a result, but it may not be enough to bring that ratepayer to an affordable
+energy burden. n71
+
+   f. Other Program Types
+
+ In addition to rate designs, this encourages conservation and rewards
+low-usage, and the discount programs mentioned above, there are also several
+other kinds of ratepayer-funded low-income assistance programs. Every state, for
+instance, has a weatherization program to receive and distribute WAP grants (and
+often supplement with additional ratepayer funding). n72 States like Maryland,
+New Jersey, Ohio, Wisconsin, Pennsylvania, Connecticut, and Missouri offer
+varieties of arrearage forgiveness to low-income ratepayers. n73 In addition,
+many states institute set bill amounts ("budget billing") during severe fuel
+hikes or extreme weather. n74 Like the above rate discounts and any below-cost
+rates offered to low-income/low-using customers, these programs are primarily
+funded by other ratepayers through their rates or other bill surcharges.
+
+   4. State-Level Example: New York Public Service Commission's May 2016 Order
+
+ One state leading the way on improving ratepayer-funded low-income customer
+assistance programs is New York. In January 2015, the New York Public Service
+Commission (NYPSC) opened a docket "to standardize utility low income programs
+to reflect best practices where appropriate, streamline the regulatory process,
+and ensure consistency with the Commission's statutory and policy objectives."
+n75 After input from numerous stakeholders, utilities, academics, as well as
+Commission staff, the Commission issued a final Order on May 20, 2016. n76 While
+the Order is an excellent first step toward fully funding low-income assistance
+programs, it does not address how rate structure reforms could impact this
+effort and what could be done in response - an inquiry that the Commission may
+be reserving for its Reforming the Energy Vision (REV) proceeding.
+
+   NYPSC's low-income order is notable for several reasons. First, the
+Commission established an "affordability block" rate for low-income customers
+aimed at reducing the energy burden for low-income ratepayers to a 6% target - a
+vast improvement from the 9%-41% burden currently weighing down most low-income
+New Yorkers. n77 Second, to reach that goal the Commission committed to
+allocating an additional $ 248 million to low-income discount program budgets in
+future rate cases, an increase of around 87%. n78 Third, the Commission adopted
+a proposal pushed by consumer advocates and directed staff to work with other
+state  [*279]  agencies to create an inter-agency task force to synthesize the
+various policies, programs, and agency agendas related to low-income assistance.
+n79 Fourth, and relatedly, the Commission recognized the need to consider these
+issues, and revise its Order as necessary, as its REV and other related dockets
+progress. n80
+
+   The NYPSC low-income order is a significant development in the intersection
+of low-income and grid reform efforts. However, the order fails to break new
+ground in that it seeks to meet the 6% low-income energy burden target
+primarily, but not exclusively, through rate-based subsidies. n81 In response to
+suggestions for alternate funding sources, such as some of those outlined in
+Part IV of this article, the Commission dismissed them as ""one-shot' solutions,
+where continual funding for these programs is needed." n82 Left unaddressed,
+though, was a discussion of how the rate structure reforms contemplated in the
+Commission's REV proceeding might impact the additional program funding
+established in the low-income order.
+
+   Regulators in New York and elsewhere have not yet addressed the problem that
+rate structure modernization poses to low-income ratepayer assistance programs.
+The remainder of this article directly addresses this question and sets out some
+policy solutions that can indeed help ensure the "continual funding" of these
+important programs.
+
+   III. The Evolving Electricity System and its Implications for Low-Income
+Ratepayers
+
+ Despite federal and state funding for low-income assistance, there are still
+many overburdened households in the United States - a reality that makes its own
+case for why more funding avenues are needed. This issue becomes yet more urgent
+when considering the fundamental changes underway in the U.S. electricity system
+today and the additional system costs they may impose. This Part summarizes
+these changes and explains their implications for low-income ratepayers, setting
+the stage for the next Part's discussion of potential policy solutions.
+
+   A. Challenges Facing the U.S. Electricity System
+
+ Generally speaking, the drivers for change can be broken down into at least
+four broad, but often interrelated, categories: flattening electricity demand;
+older generator retirements; environmental constraints; and disruptive
+technologies. n83
+
+[*280]
+
+   1. Flattening Electricity Demand
+
+ Compared to the near 10% annual electricity growth in the 1950s, the past
+decade has seen a much reduced 0.5% annual growth rate. n84 Indeed, for the
+fifth time in the last eight years and in spite of growth in the residential and
+commercial sectors - total U.S. electricity sales have declined. n85 This has
+major implications for traditionally-regulated electric utilities which derive
+their revenues from electricity sales and large-scale investments in
+centrally-located power production facilities and related transmission
+infrastructure. n86
+
+   2. Retirements of Older, Less Competitive, Generation Units
+
+ Over the course of 2015, 18 GW of electric generator capacity was retired - 80%
+of which was coal-fired. n87 The EIA projects that from 2012 to 2020 there will
+be upwards of 60 GW of coal-plat retirements, n88 roughly equivalent to thirty
+Hoover Dams. n89 Many nuclear energy generators are also struggling to stay open
+- and at least four plants have closed since 2013. n90 The majority of these
+coal and nuclear facility closures are due to low-cost competition from natural
+gas in restructured wholesale markets, n91 although, as discussed below, coal
+plants also face additional economic constraints due to environmental regulatory
+costs. n92
+
+[*281]
+
+   3. Increasing Environmental Compliance Costs
+
+ To illustrate how environmental regulations impact the coal-fired power sector:
+about 30% of the total coal-fired power plant closures in 2015 occurred in April
+the same month that the U.S. Environmental Protection Agency's (EPA) Mercury and
+Air Toxics Standards (MATS) rule came into force. n93 The EPA's Clean Power Plan
+- as of this writing, temporarily stayed by the Supreme Court, pending judicial
+review - is also expected to lead to more plant closures, if it goes into
+effect. n94 While these closures mean that the grid's overall fuel mix is
+getting cleaner, they also spell financial trouble for many U.S. utilities with
+extensive coal-fired generation fleets.
+
+   4. Disruptive New Technologies
+
+ Facilitated by declining costs, assistance from third-party servicers, and
+favorable state policies, customers are more empowered than ever to take control
+of their energy consumption and grid interaction. n95 However, not everyone
+comes out a winner in this new world of customer choice. When middle and
+upper-income ratepayers install rooftop solar, they may unwittingly shift their
+share of fixed system costs onto those unable to self-generate. n96 Furthermore,
+this combination of efficiency measures and disruptive technology is chipping
+away at utilities' revenues, with a potential to create a $ 48 billion shortfall
+by 2025. n97
+
+   In light of the above shifts taking place in the electric sector, some
+regulators, utilities, and stakeholders in various states have begun considering
+reforms. A few of the leading efforts are New York state with its commission-led
+REV docket, n98 Minnesota's stakeholder-driven e21 initiative, n99 various
+dockets open  [*282]  before the California Public Utility Commission, n100
+Commissions in Hawaii, n101 and Massachusetts. n102 These efforts emphasize
+various policy solutions from innovative utility business model like in New
+York's REV proceeding or California's recent foray into distribution-level
+planning. One common thread connecting all these reform efforts, however, is a
+fundamental reexamination of the utility rate structure - which is the primary
+vehicle through which low-income ratepayers receive subsidies for their
+electricity use.
+
+   B. Implications for Low-Income Ratepayers: Reduced Financial Assistance
+
+ To understand how reforms to utility rate structures may adversely impact
+low-income ratepayers, it is important to first briefly summarize the ratemaking
+process itself. It begins with setting the utility's revenue requirement - the
+amount of money from ratepayers that the utility needs to collect to cover its
+costs and make an adequate return on investment. n103 Next, that revenue
+requirement is allocated among the various customer classes, which is often done
+based on factors including: how many customers are in a particular class, their
+usage of the system during peak demand times (when energy is most expensive),
+and the total amount of energy each class uses. Common class breakdowns are
+along the lines of residential, commercial, and industrial users, but states
+have many other types of designations. n104 After each customer class is
+allocated its portion of the utility's total revenue requirement, the final
+ratemaking question becomes how to collect that money from ratepayers - an
+inquiry known as rate design. For residential customers, the answer to this last
+question is manifested in their monthly bill, which typically sets out fixed
+charges and energy charges (usually on a per kilowatt-hour basis). n105 However,
+beyond using the ratemaking process solely as a means to keep utilities
+financially viable, regulators also use this process to effectuate certain
+policy goals. n106
+
+    [*283]
+ Without the ability to implement widespread residential time-sensitive pricing
+until more recently, the inclining block rate design has been seen as the next
+best rate structure to promote the dual social goals of energy conservation and
+low-income ratepayer assistance. n107 Through this structure, energy becomes
+more expensive once a customer's usage passes a certain threshold. In comparison
+to flat rates and declining block rates, in which, respectively, energy costs
+stay the same or become cheaper beyond a certain threshold, an inclining block
+rate encourages consumers to be prudent in their energy use.
+
+   From the perspective of rate reform advocates, the inclining block structure
+raises two problems. First, it may not be the most ideal policy for targeting
+low-income customers so much as low-usage customers, many of whom may not
+necessarily be low-income. n108 As such, usage-based rates may be
+over-inclusive, thereby diverting resources away from low-income customers who
+are not low energy users - because of poor home weatherization, large household
+size, or other factors - and applying them to low-usage customers who do not
+require subsidization. As smart metering technology improves, however, it may be
+possible to better identify low-income customers in other higher-use residential
+classes and target assistance accordingly.
+
+    [*284]  A second concern raised by rate reform advocates regarding the
+inclining block structure is that it does not adhere to principles of modern
+rate design. n109 In particular, this rate structure neither represents the true
+costs of serving customers nor the benefits that customers may provide to the
+grid in return. n110 By increasing non-low-income rates to accommodate
+low-income subsidies, the cost of energy for non-low-income customers is
+artificially high. Thus, as grid reformers seek to better align rates with true
+system costs, the cross-subsidies that provide low-income customers with cheap
+power and other assistance will be reduced.
+
+   One example of this reality playing out in real time is in California. In
+July 2015, after three years of evidentiary hearings and deliberations, the
+California Public Utility Commission (CPUC) issued a landmark order
+transitioning residential customers from a four-tier to a two-tier rate
+structure and setting out a path toward default time-of-use (TOU) retail rates
+by 2019. n111 According to the Commission and the state's three main utilities,
+California's original four-tiered structure was over-charging higher using
+residential consumers to make lower-usage residential customers' bills less
+expensive. n112 The Commission determined that the Order was necessary not only
+to reduce this inequity but also to better align rates with true system use for
+all customers - the sine qua non of modern rate design. n113 Although the CPUC
+deferred a decision on raising fixed monthly charges, practically speaking, as a
+result of this "tier-flattening," all residential customers will likely see
+their electricity bills increase in California. As illustrated in the graphic on
+this page, this increase will include low-income customers who qualify for lower
+CARE rates. n114
+
+[*285]
+
+   Illustration of PG&E's former 4-Tier and proposed 2-Tier Rate Structure
+(volumetric component)
+
+
+ California is just the beginning. As other states modernize their rate
+structures - bringing rates into alignment with the true costs of utility
+service - ratepayer-subsidized low-income assistance programs will face revenue
+shortfalls. For a society that cleaves to the common law duties of service and
+non-discrimination as well as the ability-to-pay and universal service
+principles, this prospect creates a dilemma.
+
+   IV. Protecting Low-Income Ratepayers as the Electricity System Evolves
+
+ As the electricity system evolves, separate consideration must be made for how
+to help low-income customers with this transition. Because these ratepayers
+already carry a significantly higher energy burden than other customers, they
+are particularly vulnerable to rising costs and to the rate structure reforms
+contemplated in most grid modernization processes active today. The question
+becomes, then: as these electricity system reforms proceed, what policies can be
+implemented to complement the overarching goals of these reforms, while also
+protecting low-income customers? As with many public policy problems, the
+solution primarily boils down to money. Thus, the following sections discuss
+alternative revenue sources and other policy solutions to address funding
+shortfalls that may occur as rate structure redesigns reduce cross-subsidies for
+low-income assistance programs.
+
+   A. Expanding the Budgets or Mandates of Existing Grant-Based Programs
+
+ One relatively straightforward way to offer stronger protections for low-income
+customers is to expand existing state or federal grant-based programs. n115 As
+[*286]  noted previously, federal programs like LIHEAP and the Weatherization
+Assistance Program already exist to assist low-income ratepayers. Some states
+also have grant programs, or public benefit funds (discussed below) to provide
+direct ratepayer assistance to low-income communities. n116 Despite the need
+across the country for more home energy assistance funding, these programs are
+chronically underfunded, so one analytically simple, albeit politically
+difficult, solution would be for Congress or the states to expand their budgets.
+Likewise, budgets could be expanded for existing energy-related loan-guarantee
+and grant programs administered by the U.S. Departments of Energy and
+Agriculture. These programs can already be used to benefit low-income ratepayers
+with little to no modification. n117
+
+   In addition to budgets, the mandates of LIHEAP, WAP, and other federal and
+state programs could also be broadened to facilitate greater low-income
+ratepayer participation in DER and energy efficiency measures. n118 For example,
+the Department of Agriculture Rural Development Office has several grant
+programs relating to energy-development or health and safety-related
+home-retrofit projects. But these energy-development programs do not target
+low-income customers, nor do the health and safety-related programs recognize
+the link between energy affordability and health outcomes. n119 By making slight
+adjustments to these program mandates, their core purposes could be preserved
+while providing greater assistance to low-income individuals.
+
+   B. Increasing or Modifying the Use of Public Benefit Funds
+
+ In the early to mid-1990s, when some states considered whether to open their
+electricity sectors to retail competition, organized wholesale markets, or both,
+questions arose about what effect these actions might have on in-state
+low-income ratepayers. n120 The animating concern at the time was that certain
+"public benefits" programs traditionally paid for through the ratemaking process
+would either be  [*287]  left unaddressed or insufficiently funded as wholesale
+and retail competition became more common. As a result, many of these states
+established Public Benefit Funds (PBFs), n121 and funded them primarily through
+monthly surcharges on non-low-income customer bills. This is similar to how
+telephone bills for low-income households are subsidized through a "Universal
+Service Fund" surcharge on non-low-income telephone customers. n122 Typically,
+PBF surcharges are set on a mills per kilowatt hour (kWh), with 1.0 mill being
+the equivalent of $ 0.001, or one tenth of one cent. n123 The funds generated
+from this surcharge are then allocated to various "public benefits" programs,
+which can include renewable energy development, energy efficiency investments,
+and low-income ratepayer assistance. n124
+
+   Currently, thirty states and the District of Columbia have some form of a
+PBF. n125 This mechanism, however, is not necessarily restricted to states with
+restructured electricity markets, nor is it primarily funded solely by utility
+surcharges. n126 Several states at least partially fund their PBFs through
+previous settlement agreements with local utilities n127 or through other
+market-based sources like Regional Greenhouse Gas Initiative carbon emission
+auction revenues. n128
+
+   The versatility of Public Benefits Funds, and ease at which they can be
+incorporated into the existing regulatory scheme through a surcharge are
+appealing features of this policy. Furthermore, even though PBF surcharges
+technically represent the sort of rate-based cross-subsidization eschewed by
+modern rate design advocates, they are only a very small portion of a
+ratepayer's bill, such as $ 0.000361/kWh in the case of Washington D.C.'s
+Residential Aid Discount surcharge. n129 Although many PBFs are earmarked for
+renewable energy development  [*288]  and efficiency policies, n130 several
+state PBFs allocate funds to low-income assistance programs, including
+California, the District of Columbia, Maine, New York, Oregon, Texas, and
+Vermont, among others. n131
+
+   Using a PBF surcharge as a substitutionary funding tool for lost
+cross-subsidies would bring benefits and challenges. On the plus side, most
+states are already familiar with this kind of surcharge, so it would be
+administratively straightforward to set up and increase as needed. On the
+down-side, even though PBF surcharges are a relatively small line-item on a
+utility customer's bill, they nonetheless have the potential to distort price
+signals and discourage distributed generation or conservation the more they are
+exclusively relied upon to fund assistance programs. A further challenge would
+be the near-certain pushback from other ratepayers, especially high-users.
+However, a PBF surcharge could be creatively established to lessen the burden on
+any one class of rate payers. For example, Illinois levies lower PBF surcharges
+on residential customers than larger commercial and industrial accounts. n132
+Michigan funds its low-income assistance programs through a PBF surcharge as
+well as through savings associated with securitization bonds associated with
+paying off stranded utility assets. n133
+
+   C. Carve-out Proceeds from Different Markets
+
+ As rate structure reforms potentially threaten rate-based subsidies for
+low-income customers, regulators could turn to other market-based opportunities
+to replace or supplement these funds. This subsection explores some current
+examples of this kind of action, as well as sets out some other emerging market
+opportunities that regulators can consider tapping into.
+
+[*289]
+
+   1. Cap-and-Trade Auction or Carbon Tax Revenues
+
+ Two of the most commonly-cited methods for reducing greenhouse gases,
+especially carbon dioxide (CO<2>), are cap-and-trade schemes and carbon taxes.
+Although both policies operate differently, they both essentially put a price
+tag on carbon emissions - the revenue from which can be earmarked for certain
+uses. Two notable examples of this method are the Northeast's Regional
+Greenhouse Gas Initiative (RGGI) and California's cap-and-trade program. Since
+RGGI began in 2003, it has appropriated over $ 1 billion toward energy
+improvements in its nine member states, including low-income weatherization and
+efficiency projects. n134 In California, since CO<2> permit auctions began in
+2012, over $ 912 million in auction revenues have been allocated to communities
+in need. n135 Indeed, by law, at least 25% of total climate fund investments
+must be spent on projects that benefit disadvantaged communities. n136 Provided
+that the EPA's Clean Power Plan survives legal challenge, the cap-and-trade
+model of carbon regulation may find favor among states looking to meet their
+emission limits, thereby opening another continual funding source for low-income
+ratepayer assistance.
+
+   2. Electric Vehicle Infrastructure Development
+
+ As America's vehicle fleet becomes more electrified, supportive infrastructure
+will need to come online to accommodate this new demand. Seeing a new revenue
+opportunity, utilities have grown eager to get into the electric vehicle (EV)
+infrastructure space, n137 with regulators reluctant to go along at the expense
+of fostering competition with third-parties. Although the EV market is still
+nascent, state legislatures and public utility commissions in Oregon,
+Washington, Illinois, Kansas, and Kentucky are strongly considering the
+utility's role in EV infrastructure development. n138 Another notable example is
+California, whose PUC in 2014 reversed a multi-year ban on utility EV
+infrastructure ownership to allow such projects on a case-by-case basis. n139
+Rather than stifling this market opportunity, regulators could approve utility
+EV infrastructure ownership on the condition that a portion of the revenues
+generated from such projects go to fund low-income assistance programs.
+
+[*290]
+
+   3. Highway Right of Way Development
+
+ Highway rights of way present additional opportunities for siting renewable
+energy projects. These areas tend to be located close to existing energy
+infrastructure and encompass otherwise-undeveloped or underutilized sidewalks,
+corridors, shoulders, and rest areas adjacent to highway traffic lanes. n140
+Roadside solar PV projects have been used more extensively in Europe and Canada,
+but several states are beginning to tap into this potential as well. n141 In
+2008, the state of Oregon partnered with Portland General Electric to develop
+the nation's first roadside solar project: a 594-panel, ground-mounted 104-kW
+solar array system, with a second, 1.75MW, solar roadside system completed in
+2012. n142 States like Colorado, Ohio, Texas, Massachusetts, Utah, and North
+Carolina are either developing or conducting feasibility studies on solar, wind,
+and bioenergy projects along highway rights of way. n143 As renewable energy
+technologies mature, and electricity systems and rate structures evolve to
+accommodate and appropriately value these new systems, the potential for
+roadside applications will likely become more attractive to utilities and
+third-parties. As with the other market opportunities in this subsection,
+regulators can leverage this interest for the public's benefit by allowing
+access to these new market opportunities according to certain conditions. For
+instance, project developers could carve-out funds from power sales or ancillary
+services revenue to go toward low-income assistance programs; developers could
+provide direct service to low-income communities around such projects (if
+cost-effective); or the state could essentially charge the developers rent to
+use the right of way. Those rental fees could then be allocated to aid
+low-income ratepayers.
+
+   4. Leveraging Utility and Third-Party Interest in DER Project Development
+
+ There is already considerable interest from utilities and third-parties with
+regard to DER development. In an evolved electricity system that values the
+grid-benefits of DER, the current untapped potential for such resource
+development within low-income communities will also become a promising
+opportunity. Indeed, with an estimated 48% of U.S. businesses and 49% of
+households unable to support PV infrastructure, there is tremendous potential
+in, for example, shared renewables projects to equalize access and deepen market
+growth for this sector. n144 According to a report from the National Renewable
+Energy Laboratory, with supportive state and federal policies, community solar
+projects could represent 35%-49% of the residential PV market by 2020, which
+would translate to 5.5-11.0GW  [*291]  of cumulative deployment by 2020 and
+represent $ 8.2-$ 16.3 billion in investments. n145
+
+   Regulators can leverage current interest in DER development in two ways.
+First, they can condition access to desirable markets on the interested party's
+promise to either directly serve low-income communities or offset their
+low-income customers' bills according to revenue generated from the project.
+Colorado and California have taken similar approaches with their community solar
+laws, which, respectively, require utilities to reserve a percentage of project
+shares for low-income subscribers and locate a portion of such projects within
+"disadvantaged communities" including those "with socioeconomic vulnerability."
+n146
+
+   Second, regulators can restrict ownership of DER to only those projects
+located in under-served communities. The NYPSC took this latter approach with
+regard to incumbent utilities in its Track One REV Order. Concerned about the
+market power implications of utility ownership of DER resources, the NYPSC
+largely restricted such access to four exceptions: (1) if "procurement of DER
+has been solicited to meet a system need, and a utility has demonstrated that
+competitive alternatives proposed by nonutility parties are clearly inadequate
+or more costly than a traditional utility infrastructure alternative;" (2) if
+the project consists of distribution-level energy storage; (3) if the project
+"will enable low or moderate income residential customers to benefit from DER
+where markets are not likely to satisfy the need;" and (4) if the DER project is
+for demonstration purposes. n147
+
+   5. As-Yet Unrealized Market Opportunities
+
+ The above-mentioned opportunities are only a sample of what may be available.
+Indeed, as the NYPSC staff noted in an April 2014 report at the early stages of
+REV, there are numerous currently non-monetized benefits that distributed
+resources provide to electricity systems and the public. These include: certain
+ancillary services; reliability (in the absence of performance contracts);
+resource diversity; certain environmental impacts; economic development
+opportunities; community development; and housing improvements. n148 Outside
+DER, weatherization programs also generate a number of non-energy benefits for
+ratepayers, their households, and society at large. These include fewer doctor
+and emergency  [*292]  room visits, and hospitalizations, and improved physical
+and mental health outcomes generally. n149 To the extent that policy and rate
+structures evolve to value these currently un-monetized benefits, new revenue
+streams can be opened and partially diverted to assist low-income ratepayers.
+n150
+
+   D. Advancing DER Development and Weatherization in Low-Income Communities
+
+ DER development and weatherization programs within low-income households are
+useful tools for both offsetting energy bills and also facilitating greater
+involvement in today's evolving electricity system. n151 Low-income ratepayers
+face numerous barriers to DER participation, including: high up-front costs to
+ownership, strict credit rating requirements for leasing arrangements, n152 and
+in the case of rooftop solar, either no rooftop access (such as with rentals),
+or insufficient structural integrity to support rooftop installations. n153
+Absent rate and regulatory reforms to make low-income DER installations
+profitable outright for utilities or third-party providers, other options must
+become available to finance, or otherwise ensure, this development.
+
+   1. Financing and Other Mechanisms for Low-Income DER and Home Weatherization
+
+ This subsection notes some of the actions taken by states, private
+institutions, and individuals to address DER access and energy cost disparities
+within low-income communities. Such actions are all in addition to other federal
+initiatives through the EPA and Department of Housing and Urban Development to
+boost  [*293]  wind and solar development in low-income communities. n154 The
+EPA is also developing a detailed summary of initiatives by states, local
+agencies, non-profits, and utilities to help low-income communities improve
+their energy efficiency and access to renewable energy resources. n155
+
+   a. Public-Private Partnerships.
+
+ At a time of constrained government resources, the public-private partnership
+(P3) model is gaining renewed interest among those concerned about addressing
+the needs of America's electricity system in particular, and infrastructure in
+general. n156 These contractual arrangements allow governments and private
+actors to combine their resources and expertise to finance, develop, construct,
+operate, or own infrastructure assets. n157 From expanding affordable housing
+access, n158 and improving municipal recycling and waste management, n159 to
+working on next-generation batteries and other technology, n160 public-private
+partnerships have become a common tool for governments to leverage public funds
+and capitalize on the experience and skills of the private sector.
+
+   The P3 model has already proven effective as a state and federally led policy
+to drive distributed generation integration in low-income communities. For
+example, as part of California's Go Solar initiative, the California Energy
+Commission's New Solar Homes Partnership, which provides incentives for solar
+installations on new home constructions, has already provided $ 23 million in
+incentives  [*294]  for 883 low-income homes. n161 This also translates to 7.69
+MW of electricity back to the grid. n162 More recently, public housing
+developments have become the target of DER projects. In December 2015, Goldman
+Sachs partnered with the Housing Authority of the City of Newark to provide $ 84
+million to finance energy efficiency projects in over 6,000 rental homes - the
+largest such project to date, with the potential to impact 10,000 low-income
+Newark residents. n163 The Burbank California Housing Authority and non-profit
+solar installer PV4All, partnered to install rooftop solar, storage, inverters,
+and other smart technology in several of the Authority's housing units. n164
+These resources are networked together through an intelligent energy management
+system and controllable by PV4All. As the owner and aggregator of all these
+resources, PV4All is able to provide distribution and transmission services like
+curtailment, ramping, and voltage control - all of which redound to the benefit
+of the Burbank Housing residents who receive reduced energy bills as a result.
+n165
+
+   b. Tax Incentives, Tax-Based Financing, and On-Bill Financing
+
+ There are a number of incentives and financing mechanisms to help spur project
+development. These include state and local tax policies like Property Assessed
+Clean Energy (PACE), Tax Increment Financing (TIF), and the federal New Market
+Tax Credit (NMTC). Under a PACE model, up-front costs for certain energy-related
+projects are provided by state or local governments and are paid back through an
+increased property tax assessment over the course of fifteen to twenty years.
+n166 Through the TIF model, state and local governments can attract economic
+developers by earmarking future property tax increases that are the result of
+economic and community development in a particular area. For its part, the NMTC
+provides federal tax credits to individuals and businesses that invest in
+"Community Development Entities" - which in turn make investments in low-income
+communities, much like a community development financial institution (CDFI).
+n167 In addition to tax-based incentives and financing structures,
+customer-sited DER (or energy efficiency) projects can get a boost through
+on-bill financing, in which the upfront costs are provided by the utility and
+then gradually paid  [*295]  back by the customer through their bill. n168 These
+are just some of the state and federal policies available to use individually or
+in tandem with other solutions mentioned here to spur economic and energy
+development in financially struggling communities and help reduce the energy
+burden of lower-income customers.
+
+   c. Green Banks, CDFIs, and Impact Investors
+
+ States are helping to finance renewable resource project developments through
+grants or through quasi-public and non-profit institutions like Green Banks and
+Community Development Financial Institutions (CDFIs). These institutions are
+then able to provide low-interest loans to targeted communities - like
+low-income ratepayers - who might not qualify for traditional financial
+assistance. n169 Funds for these programs can come from numerous sources, such
+as general tax funds, PBF surcharges on utility customers, or even through some
+of the other revenue sources suggested throughout this Part. Similarly, private
+institutions, families, or individual investors interested in advancing
+low-income DER development can often get directly involved as impact investors
+for such projects. n170
+
+   2. Non-Profit or Government Development DER Within Low-income Communities
+
+ Much like with the urban and rural electrification disparity of the early
+twentieth century, the "electrical divide" in the United States between
+lower-income and higher-income households, with regard to DER and clean tech
+access, is becoming ever more apparent. n171 Beyond concerns of universal
+service, though, low-income communities suffer financially when they are denied
+equitable access to DER when these resources can provide cost-effective power or
+otherwise offset their utility bills. Where utilities or third-party providers
+fail to address the need for cost-effective DER development within low-income
+communities, a backstop option could be establishing a separate non-profit or
+government entity to undertake such projects.
+
+[*296]
+
+   a. Non-Profit Development: Urban Electric Cooperatives
+
+ In areas where DER development within low-income communities fails to entice
+profit-motivated utilities and third party providers, such development could be
+undertaken by non-profit entities. One emerging model in this vein is the urban
+electric cooperative. Patterned off the cooperatives that electrified rural
+America in the early twentieth century, n172 the urban electric cooperative
+model emerged as a twenty-first century response to cost concerns stemming from
+electric sector deregulation in the late 1990s and early 2000s. n173 In 1997, a
+group of New York City housing cooperatives formed the first urban electric
+cooperative, 1st Rochdale Cooperative Group Ltd. n174 Initially imagined as a
+comprehensive energy demand aggregator and manager, the 1st Rochdale Cooperative
+eventually recognized other cost-savings opportunities through distributed
+generation development in addition to taking on more conservation and efficiency
+measures. n175 Despite the innovative approach taken by 1st Rochdale, the urban
+electric cooperative model failed to find popularity, possibly due to the
+then-high cost of distribution-side resources.
+
+   As the economics of demand response and distributed generation technologies
+continue to improve, however, urban electric cooperatives are emerging again as
+potential solutions for underserved communities. Indeed, such a model was the
+centerpiece of a recent proposal to "NY Prize" - a New York state initiative to
+spur grid modernization and resiliency through microgrid development. The
+proposal, "Beyond the Grid Community Microgrid," seeks to establish a non-profit
+urban microgrid that uses a variety of generation, storage, and other DER to
+serve three public schools, a community center, pharmacy, supermarket, and
+several apartment buildings in parts of Manhattan's East Village that were
+adversely affected by Hurricane Sandy. n176
+
+   Much like how rural cooperatives were initially financed through REA loans,
+their urban counterparts could likewise seek funding through grant programs or
+revenues generated from power purchase agreements or selling other grid
+services. For example, the Beyond the Grid Community Microgrid would rely in
+part on NY Prize grant money and PPAs with the New York City Housing Authority.
+n177 In addition, because its distributed generation assets would be "qualifying
+facilities" under the federal Public Utility Regulatory Policies Act, the
+microgrid would also be able to sell power to ConEdison under the utility's
+Buy-Back Service. n178  [*297]  By securing such funding sources, this
+reemerging model could serve as a useful tool in the broader effort to bring
+equitable and cost-effective DER solutions to low-income communities. n179
+
+   b. Government Development
+
+ Just as the federal government prioritized electrification to foster rural
+economic development, so too could the federal or state governments directly
+intervene to develop energy resources in help low-income communities. As seen in
+past efforts to develop certain natural resources or business opportunities,
+such government intervention could be done on either a permanent or
+transitionary basis.
+
+   Examples of the first approach include the Tennessee Valley Authority (TVA)
+and the Bonneville Power Administration (BPA). Although they each have different
+mandates - TVA as a vertically-integrated generator, transmitter and distributor
+of electricity, n180 BPA as a federal power marketer n181 - they each operate as
+self-sustaining businesses. n182 Like other similar federal agencies, they also
+prioritize their power sales to non-profit publicly-owned utilities, such as
+municipally-owned utilities and cooperatives. n183 A state-level example of
+government resource development is the New York Power Authority's Niagara Power
+Project, which was authorized by Congress in 1957 to develop and distribute
+power from the Niagara River, and which also gives preference to publicly-owned
+utilities and cooperatives. n184
+
+   The second government-led approach would be for the state or federal
+government to initially develop the DER potential within certain low-income
+communities and then transition project ownership and maintenance to the local
+utility or other third-parties once those assets become profitable and the
+market has matured.  [*298]  An example of this model at the federal level is
+the Consolidated Rail Corporation (Conrail), which was created by Congress in
+1974 to rehabilitate Northeast and Midwest freight and passenger rail traffic
+following the bankruptcies of six major northeastern railroad companies from
+1967-1972. n185 After nearly $ 8 billion in federal dollars, and following
+railroad deregulation through the 1980 Staggers Rail Act, n186 Conrail became
+profitable again in 1981, and by 1983 had become the fourth largest freight
+hauler in the United States. n187 Although the government only received around $
+2 billion from Conrail's initial public offering in 1987, the venture's
+achievement lies primarily in the fact that the Northeast's rail system, and its
+economy to a large degree, were preserved. n188
+
+   Implementing either of the two government-led models would involve similar
+considerations. First, because the Federal Power Act (FPA) restricts the federal
+government's authority to only wholesale sales of electricity and interstate
+transmission, n189 the best approach for establishing a federal agency to
+develop distribution-level resources would be for Congress to pass separate
+statutory authority with a broader Commerce Clause finding, similar to the
+approach taken by the Public Utility Regulatory Policies Act of 1978. n190
+States could more easily establish a separate government entity since the FPA
+places distribution-level development and retail sales under their jurisdiction.
+n191
+
+   The second consideration is the matter of under what "mandates" this new
+state or federal agency would operate. Just as natural waterways create the
+potential to harvest hydroelectric power, so too is there energy potential on
+residential and commercial rooftops, brownfield sites, and other locations
+predominately located in low-income areas. As a result, the primary mandate of a
+newly-created  [*299]  government agency could be to directly serve low-income
+customers if cost-effective, n192 or otherwise ensure that they receive the
+financial benefit of any power or grid services sold to utilities or into
+wholesale markets.
+
+   E. The Role of Charitable Donations
+
+ Another avenue for supplementing low-income ratepayer assistance programs is
+through donations from other ratepayers, utilities, or businesses. Many
+utilities today offer their customers the ability to make one-time or recurring
+donations on their utility bills. n193 Others have online forms that customers
+can fill out to donate. n194 A few utilities make it even easier: for example,
+texting "SHARE" to 27722 will automatically donate $ 5 to a needy New York state
+customer through ConEdison's EnergyShare fuel fund, n195 while texting "LIGHT"
+to 20222 will send that same amount to someone in California through SoCal
+Edison's Energy Assistance Fund. n196
+
+   These donation programs reap multiple benefits: first and foremost, to the
+low-income recipients, but also to the individuals and businesses in the form of
+tax-deductible donations, sometimes matched dollar-for-dollar by the utility.
+n197 A utility can leverage its own charitable donations and increase its
+profile within a community by raising awareness on social media or publicizing
+additional matching-fund challenges. Such was the approach of Columbia Gas of
+Pennsylvania, which pledged a donation for every new "like" or "follow" on the
+company's social media throughout February 2015 - a campaign that raised $ 7,000
+for the Red Cross, while also giving the utility a dedicated audience for the
+emergency preparedness tips it shared online. n198
+
+   By giving to local fuel funds in particular - non-profits that assist with
+bill-paying - utilities can write-off their contributions as charitable
+donations and see that same money flow back as cash payments at times when bills
+are most difficult to collect from low-income households: peak summer and peak
+winter periods. n199 Although no money is made in this transaction, the utility
+and its shareholders benefit when the number of outstanding accounts receivables
+is reduced. n200 With  [*300]  corporations able to expense up to 10% of their
+taxable income as charitable gifts, this could be a powerful, if intermittent,
+funding mechanism for the most vulnerable ratepayers.
+
+   With more products and services coming online and billing practices becoming
+more sophisticated as the grid evolves, additional avenues open for tapping into
+customers' charitable dispositions. For instance, customers in some places can
+already donate their solar energy net metering credits to institutions like
+churches and schools. n201 With smart technologies to accurately quantify
+customer-side generation, modern rate designs to appropriately value those
+services, and the right organizations to connect with needy customers, donating
+to low-income ratepayers could become even more streamlined and impactful.
+
+   F. Preserving Protections Within Rate-Structures, Even as they Evolve
+
+ As seen in the California Public Utility Commission's Order on tier-flattening
+and TOU rates, a major grid reform goal is changing rate structures to better
+align costs and benefits of serving individual customers. Even states committed
+to rate-based low-income assistance, like New York, n202 are nonetheless
+considering such rate modifications. As regulators move forward with utility
+reforms, it will take creative collaboration among multiple parties to ensure
+the sustainability of the electricity system, while remaining faithful to the
+fundamental principles of universal and non-discriminatory electricity access to
+low-income ratepayers. This final section, then, discusses some of the
+rate-related policies to achieve those ends.
+
+   1. The Emerging Rate Structures and Policies: PBR and Time-of-Use
+
+ Transitioning to an advanced electricity system will require turning toward
+modern rate designs and away from the traditional and "unenlightened" rate
+structure that has been standard throughout the utility industry for decades.
+n203 Although grid reforms underway are each approaching this question in
+different ways, there is general agreement that the solution will involve
+time-varying rates and performance-based ratemaking (PBR). n204 These policies
+raise implementation and measurement concerns, but with the proper safeguards in
+place, all customers - especially vulnerable low-income customers - can be
+protected from significant cost increases and empowered to participate in
+tomorrow's reformed electricity system.
+
+[*301]
+
+   a. Performance-Based Ratemaking
+
+ As a regulatory approach, PBR replaces the consumption and
+capital-expenditure-based incentives in traditional cost-of-service ratemaking
+with other financial incentives to lower costs, improve service, or otherwise
+achieve different system, social, economic, or environmental goals. n205 This
+ratemaking tool is already widely used in parts of Australia, New Zealand,
+Canada, South America, in addition to U.S. states like Illinois and
+Massachusetts. n206
+
+   Seen as a way to shore-up utility revenues in an era of declining demand and
+as an avenue to advance other objectives, PBR has been embraced by utility
+reformers. n207 In its Phase I report, the e21 Initiative called on Minnesota to
+develop and allow utilities to "opt into a multi-year, performance-based
+[regulatory] framework." n208 Such a framework would measure and provide revenue
+based upon utility performance in areas like total system efficiency,
+reliability, customer service, environmental sustainability, affordability, and
+competitiveness. n209 The state's public utility commission is taking these
+recommendations under advisement, and according to a March 2016 staff report,
+the Commission acknowledges PBR's role as part of a larger long-term vision for
+the state's grid modernization efforts. n210
+
+   Although a PBR framework has yet to be formally adopted in the New York REV
+proceeding, earlier Commission Orders and staff reports in the REV proceeding
+indicate a central role for performance incentives as not only a revenue
+stabilizer for utilities but as a way to earn additional profits. n211 Through
+so-called Earnings Impact Mechanisms (EIMs), utilities can supplement their
+revenue streams by taking action on areas like peak reduction, energy
+efficiency, customer engagement and information access, interconnection, and
+affordability. n212 The "affordability" EIM is particularly noteworthy because
+it targets low-income ratepayers for special assistance by incentivizing utility
+support for DER integration in low-income communities and reducing the numbers
+of service terminations and uncollectible expenses. n213 According to the broad
+strokes of the staff report, utilities would earn EIM credit if they can show
+certain levels of low-income DER  [*302]  participation and per-customer
+savings, as well as below-average numbers of service terminations. n214 Further
+explanation and detail of the REV PBR model will be provided by the NYPSC in its
+forthcoming Track Two Order.
+
+   The primary question with PBR schemes that is often raised by low-income and
+other consumer advocates, is how to craft incentives that force meaningful
+utility action in exchange for reasonable, but not excessive, revenues. n215
+Both the e21 Phase I report and, to a lesser extent, the NYPSC Track Two staff
+report leave the details to be ferreted out later. Indeed, the NPYSC staff
+report acknowledges a number of outstanding implementation issues to be
+addressed, including "ratepayer impacts (of both the incentives and the desired
+outcomes)," as well as "the degree of utility control over the outcomes." n216
+Another question to address is the consequence for the utility's failure to meet
+a PBR benchmark - an issue that may be less relevant to the NYPSC Track Two
+staff proposal - since EIMs supplement existing utility service obligations.
+Nonetheless, it remains to be seen how rigorous the e21 and NYPSC
+performance-based schemes will be in their design and implementation.
+
+   b. Time-Varying Rates
+
+ Time-differentiated electricity pricing, facilitated by smart technologies,
+will be an integral part of modernizing the electricity system. n217 There are
+four subsets of time-varying rates - Critical Peak Pricing (CPP), Peak Time
+Rebates (PTR), Time of Use (TOU), and Variable Peak Pricing (VPP) - but they all
+essentially seek to give price signals tied to current market or demand
+conditions. n218 With some limited exceptions, residential time-varying rates
+have mostly been implemented in the United States through pilot programs. n219
+
+   Many consumer advocates have expressed concern that time-varying rates
+negatively impact low-income customers, especially those who are not equipped
+with the necessary metering infrastructure or are unable to alter their
+consumption during high-use times. n220 Others argue, however, that low-income
+customers tend  [*303]  to be responsive to price signals, n221 and that they
+tend to be low-usage customers to begin with - although not always. n222
+
+   Notwithstanding the potential system and cost-savings benefits from using
+time-varying rates, regulators should nonetheless take extra precautions to
+ensure that low-income customers are especially protected due to their
+vulnerability to rate increases. Such precautions could include: ensuring
+adequate access to energy information, providing bill protection to ease with
+the transition, and offering a two-tiered rate option in which low-income
+customers pay the lesser of their historical usage (individual or class) or the
+time-varying rate. n223
+
+   2. Rate Designs and Policies that Can Harm Low-Income Customers
+
+ There are many goals regulators seek to accomplish through the utility rate
+structure - goals that, depending on the needs of the particular state, may
+outweigh the "affordability" concerns that are the sole focus for low-income
+ratepayer advocates. These can include, for instance, promoting energy
+efficiency and environmental objectives, ensuring continued utility revenue,
+facilitating distributed generation development as well as empowering customer
+choice. n224 Nonetheless, experience has shown that certain rate designs have a
+negative impact on low-income ratepayers. Regulators and reformers concerned
+about maintaining universal and equitable grid access while transitioning to a
+modern regulatory model should therefore either avoid entirely, or mitigate the
+effects of, the following rate designs and rate-related policies.
+
+   a. High Fixed Charges
+
+ Fixed costs are set monthly charges designed to help utilities recoup
+distribution system costs. n225 Although useful for restoring utility revenue
+lost through demand reductions, they can discourage efficiency measures and
+distributed generation, and could contribute to grid defection if storage
+technologies mature. n226 In addition, they also penalize low-use customers and
+contribute to the overall energy burden of low-income ratepayers. n227 The same
+disincentives could be said to apply to public benefit fund surcharges - with
+the exception of negative low-  [*304]  income customer impacts. However, public
+benefit charges tend to be much smaller than utility fixed charges, and in any
+event, the negative effects of these disincentives could be avoided by instead
+implementing strong volumetric, time-varying prices combined with otherwise low
+distribution-related fixed charges.
+
+   b. Decoupling That is Not Tied to Added Efficiency Measures and Other
+Benefits
+
+ Through traditional cost-of-service rate regulation, utilities lack incentive
+to promote energy efficiency or customer-side generation because they secure
+revenue through their earned rate of return on large capital investments and
+selling kilowatts. n228 However, under a revenue regulation scheme, regulators
+"decouple" revenue from electricity sales and set it as a fixed amount. n229
+Although there is no longer the disincentive to promote energy efficiency,
+consumer advocates warn that without careful regulatory guidance these schemes
+could end up "blindly rewarding companies for reductions in sales for reasons
+that have nothing to do with utility-sponsored energy efficiency." n230 Over
+time, the regulator-approved revenue amounts increase slightly - another point
+of contention among consumer advocates. n231 There are numerous policy arguments
+in favor of revenue regulation, n232 but suffice to say, the above-identified
+criticisms can be addressed through such additional consumer protections as:
+conditioning "decoupling" on new energy efficiency programs; closer scrutiny and
+adjustment of utility cost structure assumptions; or applying a decoupling
+charge on higher-usage customers, which is then used to offset costs for
+lower-usage customers. n233
+
+   V. Conclusion
+
+ As utilities and regulators endeavor to adapt to the new realities bearing down
+on the electricity grid, they will have big problems to solve: How will
+utilities earn revenue despite falling demand and customer-side generation, and
+what regulatory policies will be required to ensure sustainable, equitable, and
+forward-thinking development? As new policies and regulatory models emerge from
+these discussions, it is also important to remember that this evolution will
+especially impact some of the most vulnerable members of our community.
+
+   Each of the grid modernization processes underway today envision new rate
+structures that would likely reduce the cross-subsidization upon which most
+low-income assistance programs rely. Thus, the question for low-income consumer
+[*305]  advocates becomes: what tools remain available to fund these programs
+that will not conflict with the overarching goals of the wider reform efforts
+underway? This article raised just some of the options available to regulators
+and stakeholders. Creative application of these and other solutions can help
+sustain energy assistance programs while also empowering low-income ratepayers
+by leveraging the electricity system benefits they can provide.
+
+   Ultimately, however, the money to sustain low-income ratepayer programs
+cannot be created from whole cloth. Each of the options outlined in Part IV will
+require appropriating funds that could also go to other worthy projects,
+programs, or stakeholder groups. Addressing the growing electrical divide and
+ever-present affordability problems for low-income households will therefore
+require not only resourcefulness, but also conviction and follow-through.
+
+   We have already seen what this kind of dedication looks like through past
+experiences with rural electrification and other New Deal era public works
+projects. Likewise, we have a long history of providing public assistance in
+general, and through utility regulation in particular. These principles should
+be the lodestars that guide policy discussions around low-income ratepayer
+issues. Indeed, regardless of how thoughtful the design or good the intentions,
+there is no solution to this problem that will not require a recommitment to the
+fundamental equity ideals underpinning utility regulation and universal access.
+
+Legal Topics:
+
+For related research and practice materials, see the following legal topics:
+Energy & Utilities LawTransportation & PipelinesElectricity TransmissionEnergy &
+Utilities LawUtility CompaniesGeneral OverviewEstate, Gift & Trust
+LawWillsBeneficiariesElections
+
+FOOTNOTES:
+
+
+
+
+n1.  Third-party financing, and more recently utility-led financing, is how the
+majority of residential customers install distributed energy resources (DER) on
+their properties. These arrangements, though, can be both complicated and nearly
+out of reach for customers without good credit scores - a group that often
+includes low-income customers. See, e.g., Patrick Sabol, From Power to
+Empowerment: Plugging Low Income Communities into the Clean Energy Economy,
+Groundswell (April 2016), groundswell.org/frompower_to_empowerment_wp.pdf.
+
+
+
+
+
+n2.  As is common in the United States, because renters typically pay utility
+costs, landlords have little incentive to pay for the property and
+weatherization upgrades necessary to make a rental unit more energy efficient.
+Likewise, few renters see the long-term value in improving property that they do
+not own. This dilemma is particularly acute for households qualifying for
+federal energy assistance, nearly 79% of which live in rental units and pay
+their own utility bills. Diana Hernandez & Stephen Bird, Energy Burden and the
+Need for Integrated Low-Income Housing and Energy Policy, 2 Poverty Pub. Pol'y 5
+(Nov. 2010),
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4819257/pdf/nihms-763053.pdf.
+
+
+
+
+
+n3.  See, e.g., Ralph Cavanagh & John Howat, Finding Common Ground Between
+Consumer and Environmental Advocates, ElectricityPolicy.com 5 (May 2012),
+https://www.nclc.org/images/pdf/energy_utility_telecom/additional_resources/deco
+upling-common-ground.pdf.
+
+
+
+
+
+n4.  Carmen DeNavas-Walt & Bernadette D. Proctor, Income and Poverty in the
+United States: 2014, U.S. Census Bureau 12 (Sept. 16, 2015),
+https://www.census.gov/content/dam/Census/library/publications/2015/demo/p60-252
+.pdf. Whether a person is living in poverty depends on average annual income
+level and family size. According to the most recent data from the U.S. Census
+Bureau, the poverty threshold for a single person is $ 12,071 annually, $ 15,379
+for a two-person home, $ 18,850 for three member families, $ 24,230 for
+four-member families, and so on. Id. at 43.
+
+
+
+
+
+n5.  Henry J. Kaiser Family Foundation, Distribution of the Total Population by
+Federal Poverty Level (Above and Below 200% FPL) (2015),
+kff.org/other/state-indicator/population-up-to-200-fpl/ (using U.S. Census
+bureau information from 2014 to set out how many people nationally and in each
+state live under 200% of the federal poverty level). Of the 313.3 million people
+living in the U.S. by the end of 2013, over 106.4 million were living under 200%
+of the federal poverty level. Id. This number likely represents the upper-end of
+additional potential aid recipients because only a few states extend eligibility
+to 200% of the FPL.
+
+
+
+
+
+n6.  Staff Report, Proceeding of the Commission to Examine Programs to Address
+Energy Affordability for Low Income Utility Customers, No. 14-M-0565, 5 (N.Y.
+Pub. Serv. Comm'n June 1, 2015) [hereinafter NYPSC Low-Income Staff Report].
+
+
+
+
+
+n7.  Residential Energy Consumption Survey, U.S. Energy Info. Admin.,
+www.eia.gov/consumption/residential/. For a state-by-state breakdown of energy
+burdens, see Home Energy Affordability Gap, Fisher, Sheehan, & Colton,
+www.homeenergyaffordabilitygap.com/03a_affordabilityData.html (last visited
+Oct.6, 2016).
+
+
+
+
+
+n8.  NYPSC Low-Income Staff Report, supra note 6, at 5; Home Energy
+Affordability Gap, supra note 7.
+
+
+
+
+
+n9.  Fisher Sheehan & Colton, Home Energy Affordability Gap 2015 (April 2016),
+www.homeenergyaffordabilitygap.com/03a_affordabilityData.html (click on
+individual states in the map to download factsheets); Kevin Monte de Ramos,
+Poverty & the Public Utility 50 (2005).
+
+
+
+
+
+n10.  LIHEAP is a federal grant program that provides the most assistance to
+low-income ratepayers. See infra Section II.B.1.
+
+
+
+
+
+n11.  Jo-Ann Choate & Mark Wolfe, Nat'l Energy Assist. Directors' Ass'n,
+National Energy Assistance Survey 3 (Nov. 2011),
+neada.org/wp-content/uploads/2013/05/NEA_Survey_Nov11.pdf.
+
+
+
+
+
+n12.  See, e.g., Id.; Hernandez & Bird, supra note 2; John Cook & Ingrid Weiss,
+The Impacts of Increasing Household Energy Prices on Health and Health Care
+Costs in New York State 12-18 (May 2013),
+www.childrenshealthwatch.org/wp-content/uploads/Final_Entergyfoundationreport-No
+v-4-2013-w-changes-Accptd.pdf; Monte de Ramos, supra note 9, at xvii.
+
+
+
+
+
+n13.  Choate & Wolfe, supra note 11, at 5.
+
+
+
+
+
+n14.  Cook & Weiss, supra note 12, at 9; Hernandez & Bird, supra note, 2 at 3.
+
+
+
+
+
+n15.  Diana Hernandez et al., Energy Insecurity Among Families with Children,
+Nat'l Center for Children in Poverty 7 (Jan. 2014),
+www.nccp.org/publications/pdf/text_1086.pdf.
+
+
+
+
+
+n16.  Id.
+
+
+
+
+
+n17.  LIHEAP Frequently Asked Questions, U.S. Dep't Health & Human Serv. (Jan.
+9, 2016),
+http://www.acf.hhs.gov/ocs/resource/consumer-frquently-asked-questions#Q11;
+Weatherization Assistance Program, U.S. Dep't Energy,
+energy.gov/eere/wipo/weatherization-assistance-program (last visited Oct. 6,
+2016).
+
+
+
+
+
+n18.  Charles Harak et al., Access to Utility Service, § 8.1.2 (Nat'l Consumer
+Law Center 2011) (describing the history of the LIHEAP grant program).
+
+
+
+
+
+n19.  Id. § 8.1.1.
+
+
+
+
+
+n20.  LIHEAP Clearinghouse, LIHEAP 101: What You Need to Know 7 (March 2014),
+https://liheapch.acf.hhs.gov/pubs/LCIssueBriefs/FinalLIHEAPPrimer.pdf.
+
+
+
+
+
+n21.  42 U.S.C. § 8624(b)(5) (2012).
+
+
+
+
+
+n22.  LIHEAP and WAP Funding, LIHEAP Clearinghouse,
+www.liheapch.acf.hhs.gov/Funding/funding.htm (last visited Oct. 7, 2016) (noting
+that the total amount of Congressionally-allocated LIHEAP funds for 2016 will be
+$ 3.35 billion by the end of that year).
+
+
+
+
+
+n23.  Gene Falk et al., Cong. Research Serv., R44327, Need-Tested Benefits:
+Estimated Eligibility and Benefit Receipt by Families and Individuals 39 (2015),
+https://www.fas.org/sgp/crs/misc/R44327.pdf. For further discussion of the wide
+gap between who is eligible and who receives benefits from LIHEAP see Home
+Energy Affordability Gap, supra note 7.
+
+
+
+
+
+n24.  Harak et al., supra note 18, § 8.1.1.
+
+
+
+
+
+n25.  Bruce Tonn et al., Oak Ridge Nat'l Lab., Weatherization Works - Summary of
+Findings from the Retrospective Evaluation of the U.S. Department of Energy's
+Weatherization Assistance Program 3 (Sept. 2014),
+weatherization.ornl.gov/Retrospectivepdfs/ORNL_TM-2014_338.pdf [hereinafter
+Weatherization Works].
+
+
+
+
+
+n26.  42 U.S.C. § 6862 (2009); Weatherization Works supra note 25, at 3. The
+National Association of State Community Services Programs (NASCSP) is the
+national organization that provides the latest news on WAP, as well as technical
+support, guidance, and other assistance to grant recipients and their
+weatherization agencies. The American Recovery and Reinvestment Act of 2009,
+Pub. L. No. 111-5 § 407, 123 Stat. 115, 145 (revised the eligibility criteria
+from 150% to 200% of the FPL).
+
+
+
+
+
+n27.  See generally The American Recovery and Reinvestment Act of 2009.
+
+
+
+
+
+n28.  U.S. Dep't Energy, Weatherization Assistance Program funding II-1 (2008),
+www.waptac.org/data/files/website_docs/briefing_book/2_programfunding_final.pdf.
+
+
+
+
+
+n29.  Weatherization Program Notice 16-2A, Program Year 2016 Grantee Allocations
+- Revised, U.S. Dep't Energy (Jan. 8, 2016); Weatherization Works, supra note
+25, at 4.
+
+
+
+
+
+n30.  Weatherization Works, supra note 25, at 4-5; Nat'l Ass'n for State Cmty.
+Serv. Programs, Weatherization Assistance Program: PY 2014 Funding Survey 2
+(2014),
+www.nascsp.org/data/files/weatherization/publications/nascsp2014_wap_funding_sur
+vey_final062015_print508.pdf [hereinafter WAP Program Survey].
+
+
+
+
+
+n31.  Weatherization Works, supra note 22, at xvi (analyzing the
+benefits-to-costs ratio WAP, and concluding that it is nearly 4-1 - an analysis
+that has been challenged by other economists, see infra note 150).
+
+
+
+
+
+n32.  Weatherization Works, supra note 25, at 6.
+
+
+
+
+
+n33.  U.S. Dep't Energy, Weatherization and Intergovernmental Program: Fact
+Sheet (May 2009), www1.eere.energy.gov/wip/pdfs/wap_factsheet.pdf.
+
+
+
+
+
+n34.  Duncan M. MacIntyre, Public Assistance: Too Much or Too Little? 8-10
+(1964); Monte de Ramos, supra note 9, at 29-31 (briefly outlining the origins of
+Poor Law in England, and tracing its influence on American law and the New
+Deal).
+
+
+
+
+
+n35.  See Reg. Assistance Project, Electricity Regulation in the U.S.: A Guide
+3, 7 (Mar. 2011) [hereinafter RAP Guide]. Although the early electric companies
+of the late 19th century were initially allowed to compete openly with coal,
+peat, and other energy providers subject to only loose city regulations,
+eventually, they soon became viewed like other businesses similarly "affected
+with a public interest." Munn v. Illinois, 94 U.S. 113 (1877). That is, like
+grain terminals, warehouses, railroads and other industries at the time,
+electric companies were soon recognized as providing essential services to
+society. Furthermore, in light of the technical and infrastructure complexities
+inherent in the industry, it became clear that it could not fully support
+competition, and that electric companies were in fact, "natural monopolies."
+Although later electric-sector restructuring of the 1990s and early 2000s would
+prove that the generation sector could be subject to market forces, such
+competition is not possible for the transmission and distribution components of
+utility service.
+
+
+
+
+
+n36.  Tripp v. Frank (1792) 100 Eng. Rep. 1234 (extending the duty of service to
+ferries and laying the groundwork for later including utilities); Jim Rossi, The
+Common Law "Duty to Serve" and Protection of Consumers in an Age of Competitive
+Retail Public Utility Restructuring, 51 Vand. L. Rev. 1233, 1236-37 (1998)
+(providing background information on the historical development of the common
+law duty to serve).
+
+
+
+
+
+n37.  Harak et al., supra note 18, § 2.1.2; 64 Am. Jur. 2d Public Utilities § 21
+(2016); 73B C.J.S. Public Utilities § 8 (2016).
+
+
+
+
+
+n38.  Harak et al., supra note 18, § 2.1.2; Rossi, supra note 36, at 1255-56.
+
+
+
+
+
+n39.  See, e.g. New York v. McCall, 245 U.S. 345, 350-51 (1917) (upholding, as
+non-arbitrary or capricious, an order from the New York Public Service
+Commission requiring a natural gas utility to extend distribution lines to a
+community within its service territory, regardless that such an extension would
+not be very profitable); Elk Run Tel. Co. v. General Tel. Co. of Iowa, 160
+N.W.2d 311 (Iowa 1968) (considering the common law "duty to serve" in
+interpreting a state statute and holding that the state Commerce Commission is
+authorized to require a telephone utility to extend its service to new customers
+who are inside the utility's franchise area); Rossi, supra note 36, at 1255-56.
+
+
+
+
+
+n40.  James C. Bonbright, Principles of Public Utility Rates 33-35, 136-41,
+369-85 (1961).
+
+
+
+
+
+n41.  73B C.J.S. Public Utilities § 9 (Service to the public - Duty to provide
+service without discrimination); Harak et al., supra note 18, § 2.3.
+
+
+
+
+
+n42.  See infra notes 56, 122 (discussing "lifeline" rates).
+
+
+
+
+
+n43.  Bonbright, supra note 40, at 372-83.
+
+
+
+
+
+n44.  Harak et al., supra note 18, § 2.3.4; see infra note 108 (discussing how
+low-income customers are not necessarily low-users of electricity).
+
+
+
+
+
+n45.  Harak et al., supra note 18, § 2.3.4.
+
+
+
+
+
+n46.  See generally Deward Clayton Brown, Electricity for Rural America: The
+Fight for the REA (1980); Richard P. Keck, Reevaluating the Rural
+Electrification Administration: A New Deal for the Taxpayer, 16 Envt'l L. 39,
+42-62 (1985).
+
+
+
+
+
+n47.  Brown, supra note 46 at xiii - xvi; Keck, supra note 46.
+
+
+
+
+
+n48.  Keck, supra note 46, at 44. President Franklin Delano Roosevelt issued an
+executive order establishing the Rural Electrification Administration, Exec.
+Order No. 7037 (May 11, 1935). Congress later endorsed this action with passage
+of the Rural Electrification Act the following year. Ch. 432, 49 Stat. 1363
+(1936) (codified as amended at 7 U.S.C.§§901-950b (2012)).
+
+
+
+
+
+n49.  Brown, supra note 46.
+
+
+
+
+
+n50.  See, e.g., Order Adopting Low Income Program Modification and Directing
+Utility Filings, No. 14-M-0565, 7, 45 (New York Pub. Serv. Comm'n May 20, 2016)
+[hereinafter NYPSC Low-Income Order] (listing examples of invocations of this
+and other core utility regulatory principles); see also infra Section IV.D.2.a
+(discussing the emergency of urban electrification cooperatives modeled off of
+the early history of rural electric cooperatives).
+
+
+
+
+
+n51.  Bonbright, supra note 40, at 111-112.
+
+
+
+
+
+n52.  Id. at 111; see also NYPSC Low-Income Order, supra note 50, at 45.
+
+
+
+
+
+n53.  For example, as retail competition arrived in some parts of the country in
+the 1990s and early 2000s, regulators ensured distribution utilities maintained
+their "duty to serve" utilities by requiring them to provide back-stop "basic
+service options" to any customer within their service territory. See, e.g.,
+Rossi, supra note 36, at 1294.
+
+
+
+
+
+n54.  For example, regulators in New York and stakeholders in Minnesota and
+elsewhere have voiced their support for continued universal service in the midst
+of their respective electric grid reform discussions. Order Adopting Regulatory
+Policy Framework and Implementation Plan for a Reformed Retail Electric
+Industry, No. 14-M-0101, 85 (N.Y. Pub. Serv. Comm'n Feb. 26, 2015) [hereinafter
+REV Track One Order] ("Our statutory responsibility to maintain universal,
+affordable service is a critical driver of the REV initiative"); e21 Initiative,
+Phase I Report: Charting a Path to a 21st Century Energy System in Minnesota 2
+(Dec. 2014),
+http://www.betterenergy.org/sites/www.betterenergy.org/files/e21_Initiative_Phas
+e_I_Report_2014.pdf (listing universal access for low-income customers in
+particular as a "guiding principle" for their reform process); Jim Lazar &
+Wilson Gonzalez, Smart Rate Design for a Smart Future, Reg. Assistance Project 6
+(Jul. 2015), http://www.raponline.org/document/download/id/7680 (setting out the
+three principles of modern ratemaking, and noting that the first is at-cost grid
+access); David Littell, Principal, Reg. Assistance Project, Presentation to the
+National Conference of State Legislators: Regulatory Structures and Market
+Transformation 8 (Dec. 8, 2015),
+www.ncsl.org/Portals/1/Documents/energy/Littell-present.pdf (reiterating the
+principles of modern ratemaking and making the right of universal access
+explicit at the first principle).
+
+
+
+
+
+n55.  According to one study, there are around ten different kinds of rate-based
+discount programs to assist low-income ratepayers - the most common of which are
+discussed in the main text. For a general discussion of the ten different rate
+program types, such as the "flat rate discount", "marginal cost based rate," and
+"block rate approach," see Maren Mahoney & Michael O'Boyle, ASU Energy Pol'y
+Innovation Council, A National Survey of Electric and Gas Utility Rate
+Structures for Low-Income Customers 2 (Sept. 2013),
+https://energypolicy.asu.edu/wp-content/uploads/2013/12/National-Survey-of-Low-I
+ncome-Utility-Rates.pdf; and Harak et al., supra note 18, § 7 (describing
+various utility affordability programs).
+
+
+
+
+
+n56.  The term "lifeline" rate is primarily associated with the
+telecommunications sector, but is also used in the context of electricity
+service. See, e.g., Harak et al., supra note 18, § 11.3.2.2; RAP Guide, supra
+note 35, at 94. See infra note 122 for a brief summary of how lifeline rates are
+funded through "Universal Service Fund" surcharges on non-low-income customers.
+
+
+
+
+
+n57.  See infra Part IV.B (discussing public benefit charges and public benefit
+funds, through which many states fund their low-income ratepayer assistance
+programs); RAP Guide, supra note 35, at 49; Joseph P. Tomain, "Steel in the
+Ground': Greening the Grid with the iUtility, 39 Envt'l L. 931, 946-47 (2009).
+
+
+
+
+
+n58.  Harak et al., supra note 18, § 7.2.2.2. (discussing straight discount
+programs).
+
+
+
+
+
+n59.  CARE/FERA Programs, Cal. Pub. Util. Comm'n,
+www.cpuc.ca.gov/General.aspx?id=976 (last visited Oct. 8, 2016); Harak et al.,
+supra note 18, § 7.2.2.2.2.
+
+
+
+
+
+n60.  Harak et al., supra note 18, § 7.2.2.2.3; Mahoney & O'Boyle, supra note
+55, at 3 (listing the states that use a "flat rate" discount).
+
+
+
+
+
+n61.  Paying Your Bill, Pub. Util. Comm'n of Tex. (last visited Oct. 8, 2016),
+https://www.puc.texas.gov/consumer/lowincome/assistance.aspx; Jim Malewitz,
+Texas Stops Helping Poor Families Pay Their Electric Bills, Tex. Trib. (Sept. 2,
+2016),
+https://www.texastribune.org/2016/09/02/texas-stops-helping-poor-families-pay-th
+eir-electr/.
+
+
+
+
+
+n62.  Harak et al., supra note 18, § 7.2.3.2.3.
+
+
+
+
+
+n63.  Mahoney & O'Boyle, supra note 55, at 6.
+
+
+
+
+
+n64.  Harak et al., supra note 18, at § § 7.2.3.2.1-2 (discussing Ohio's PIPP,
+and its requirement that customers remain liable for PIPP arrears).
+
+
+
+
+
+n65.  Id. § 7.2.3.3.
+
+
+
+
+
+n66.  Id.
+
+
+
+
+
+n67.  Id.
+
+
+
+
+
+n68.  NYPSC Low-Income Order, supra note 50, at 19-20. Although the Commission
+allowed for other methods to be considered to better target assistance, it
+approved using ratepayer receipt of any state Home Energy Assistance Program
+(HEAP) benefits as a means by which to determine the discount level. Id. at 20.
+See infra Section II.B.4 for further discussion of this order.
+
+
+
+
+
+n69.  See infra Part III.B (explaining the inclining block rate structure).
+
+
+
+
+
+n70.  Harak et al., supra note 18, § 7.2.2.4.
+
+
+
+
+
+n71.  Id.
+
+
+
+
+
+n72.  Id. § 9.
+
+
+
+
+
+n73.  Id. at § 7.2.5 (noting that arrearage programs come in many varieties,
+including, up-front forgiveness, "crisis" forgiveness to stave-off
+disconnections, bill multipliers corresponding with what the ratepayer pays,
+etc.).
+
+
+
+
+
+n74.  Id. § 7.2.4.
+
+
+
+
+
+n75.  NYPSC Low-Income Order, supra note 50, at 1.
+
+
+
+
+
+n76.  Id. at 2.
+
+
+
+
+
+n77.  Id. at 4-5; 23-26.
+
+
+
+
+
+n78.  Id. at 4.
+
+
+
+
+
+n79.  Id. at 3, 42.
+
+
+
+
+
+n80.  NYPSC Low-Income Order, supra note 50, at 10-12 (detailing the
+Commission's recent efforts "to promote affordability of utility service and
+provide opportunities to offer benefits to low and moderate income customers to
+participate in DER").
+
+
+
+
+
+n81.  Id. at 30 ("this Order establishes that low income programs will be funded
+in utility rates on a continuing basis"); but see Id. at 28 ("Reducing the
+energy burden of low income households to the 6% level will require a range of
+initiatives, and cannot be accomplished through rate discounts alone.").
+
+
+
+
+
+n82.  Id. at 30. Among the possible funding sources mentioned were system
+benefit charge funds (SBC) and funds generated from cap-and-trade auctions
+through the Regional Greenhouse Gas Initiative (RGGI), of which New York state
+is a member. Id. at 10, 29. These potential funding solutions are discussed in
+Sections IV.B and IV.C.1, respectively.
+
+
+
+
+
+n83.  Regulators and industry members also share reliability, resiliency, and
+security concerns related to increasing renewables integration, climate
+change-related weather events, and vulnerability to cyber and physical attacks.
+These concerns relate less to whether the utility can carry on with business as
+usual than to whether that can still be said about the electricity system - a
+topic outside the scope of this article.
+
+
+
+
+
+n84.  U.S. Energy Info. Admin., DOE/EIA-0383(2015), Annual Energy Outlook 2015,
+at ES-7, ES-8 (Apr. 2015), http://www.eia.gov/forecasts/AEO/pdf/0383(2015).pdf;
+Ron Binz et al., Ceres, Practicing Risk-Aware Electricity Regulation: What Every
+State Regulator Needs to Know 5 (Apr. 2012),
+www.ceres.org/resources/reports/practicing-risk-aware-electricity-regulation
+(noting the general decline of electricity, among other factors challenging the
+U.S. electric utility sector).
+
+
+
+
+
+n85.  Kimberly Klaiman, Total Electricity Sales Fell in 2015 for 5th Time in
+Past 8 Years, U.S. Energy Info. Admin. (Mar. 14, 2016),
+www.eia.gov/todayinenergy/detail.cfm?id=25352. The steepest drops were primarily
+due to the 2008-2009 recession, according to the U.S. Energy Information
+Administration, and while economic factors likely also play a role in the more
+recent sales declines, they are also likely driven by energy efficiency
+improvements across the residential, commercial, and industrial sectors. Id.;
+Stephen Lacey, Even as America Constructs More Buildings, Electricity Use
+Continues to Drop, Greentech Media (Mar. 16, 2016),
+https://www.greentechmedia.com/articles/read/electricity-sales-keep-falling-in-t
+he-us.
+
+
+
+
+
+n86.  Amory Lovins, Reinventing Fire 172-74 (2011) (discussing the typical
+utility business model, and how it is negatively impacted by declining
+electricity demand).
+
+
+
+
+
+n87.  Owen Comstock, Coal Made Up More Than 80% of Retired Electricity
+Generating Capacity in 2015, U.S. Energy Info. Admin. (Mar. 8, 2016),
+https://www.eia.gov/todayinenergy/detail.cfm?id=25272.
+
+
+
+
+
+n88.  Elias Johnson, Planned Coal-fired Power Plant Retirements Continue to
+Increase, U.S. Energy Info. Admin. (Mar. 20, 2014),
+https://www.eia.gov/todayinenergy/detail.cfm?id=15491.
+
+
+
+
+
+n89.  Hoover Dam: Frequently Asked Questions and Answers, U.S. Bureau of
+Reclamation, www.usbr.gov/lc/hooverdam/faqs/powerfaq.html (last updated Mar. 12,
+2015) (noting that the nameplate capacity of the Hoover Dam is 2,080 megawatts,
+i.e. 2.08 GW).
+
+
+
+
+
+n90.  Nuclear Energy Inst., Status and Outlook for Nuclear Energy in the United
+States 3 (Nov. 2015),
+www.nei.org/CorporateSite/media/filefolder/Policy/Papers/statusandoutlook.pdf?ex
+t=.pdf.
+
+
+
+
+
+n91.  Id.
+
+
+
+
+
+n92.  See, e.g. Tyson Brown & Mike Leff, AEO2014 Projects More Coal-fired Power
+Plant Retirements by 2016 Than Have Been Scheduled, U.S. Energy Info. Admin.
+(Feb. 14, 2014) www.eia.gov/todayinenergy/detail.cfm?id=15031.
+
+
+
+
+
+n93.  Id.; Comstock, supra note 87.
+
+
+
+
+
+n94.  U.S. Energy Info. Admin., Proposed Clean Power Plan Would Accelerate
+Renewable Additions and Coal Plant Retirements (June 5, 2015),
+https://www.eia.gov/todayinenergy/detail.cfm?id=21532.
+
+
+
+
+
+n95.  For a deeper discussion of some technology-related challenges see Lazar &
+Gonzalez, supra note 54.
+
+
+
+
+
+n96.  See, e.g., Mass. Inst. Tech., The Future of the Electric Grid 183 (2011),
+https://mitei.mit.edu/system/files/Electric_Grid_Full_Report.pdf (noting the
+questions of horizontal and vertical equity raised by net metering policies);
+but see Mark Muro & Devashree Saha, Rooftop Solar: Net Metering is a Net
+Benefit, Brookings Inst. (May 23, 2016),
+www.brookings.edu/research/papers/2016/05/23-rooftop-solar-net-metering-muro-sah
+a (noting recent studies that suggest that net metering policies benefit all
+ratepayers, when taking all system costs and benefits into account).
+
+
+
+
+
+n97.  Accenture, Utilities Face Significant Revenue Losses from Growth of Solar,
+Storage and Energy Efficiency, Accenture Research Shows (Dec. 8, 2014),
+https://newsroom.accenture.com/news/utilities-face-significant-revenue-losses-fr
+om-growth-of-solar-storage-and-energy-efficiency-accenture-research-shows.htm;
+James M. Van Nostrand, Getting to Utility 2.0: Rebooting the Retail Electric
+Utility in the U.S., 6 San Diego J. Climate & Energy L. 149, 154 (2014-2015).
+
+
+
+
+
+n98.  Order Adopting Regulatory Policy Framework and Implementation Plan, No.
+14-M-0101 (N.Y. Pub. Serv. Comm'n Feb. 26, 2015). For a list of key documents in
+the docket see Key Documents, N.Y. St. Dep't Pub. Serv.,
+www3.dps.ny.gov/W/PSCWeb.nsf/All/C12C0A18F55877E785257E6F005D533E?OpenDocument
+(last updated Apr. 27, 2016).
+
+
+
+
+
+n99.  e21 Initiative, supra note 54. In May 2015, the Minnesota Public Utility
+Commission opened a proceeding on grid modernization and is considering many of
+the issues addressed in the stakeholder-led e21 Initiative process. Minn. Pub.
+Util. Comm'n, Staff Report on Grid Modernization (Mar. 2016),
+morethansmart.org/wp-content/uploads/2015/06/MNPUC_Staff_Report_on_Grid_Moderniz
+ation_March2016.pdf.
+
+
+
+
+
+n100.  California has been addressing many grid reform issues through separate
+dockets on subjects ranging from distribution-level resource planning, to
+transitioning, to time-of-use rates. See, e.g., Coley Girouard, Top 10 Public
+Utility Commission Issues to Watch in 2016, Advanced Energy Persp. (Feb. 4,
+2016), blog.aee.net/top-10-public-utility-commission-issues-to-watch-in-2016
+(summarizing the open dockets).
+
+
+
+
+
+n101.  Hawaii has been particularly concerned with how to integrate increasing
+levels of distributed energy resources (DER), largely solar PV. See, e.g., Haw.
+Pub. Util. Comm'n, Commission's Inclinations on the Future of Hawaii's Electric
+Utilities (April 28, 2014),
+puc.hawaii.gov/wp-content/uploads/2014/04/Commissions-Inclinations.pdf (setting
+out the broad technical, economic, and policy issues implicated in the continued
+integration of DER); Order No. 33258, In re Public Utilities Commission
+Instituting a Proceeding to Investigate Distributed Energy Resource Policies,
+Docket No. 2014-0192 (Hawaii Pub. Util. Comm'n Oct. 12, 2015) (replacing the
+existing net metering program with two new tariff options).
+
+
+
+
+
+n102.  See, e.g., Grid Modernization, Mass. Dep't Pub. Util.'s,
+www.mass.gov/eea/energy-utilities-clean-tech/electric-power/grid-mod/grid-modern
+ization.html (last visited Oct. 8, 2016).
+
+
+
+
+
+n103.  RAP Guide, supra note 35, at 6.
+
+
+
+
+
+n104.  Id. at 47, 50-54; Bonbright, supra note 40, at 398-99.
+
+
+
+
+
+n105.  RAP Guide, supra note 35, at 51.
+
+
+
+
+
+n106.  Bonbright, supra note 40, at 121-34.
+
+
+
+
+
+n107.  See, e.g., Proposed Decision, Decision on Residential Rate reform for
+Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company and Transition to Time-Of-Use Rates, R.12-06-013,
+308 (Cal. Pub. Util. Comm'n Jul. 3, 2015),
+http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M153/K024/153024891.PDF
+[hereinafter CPUC Tier-Flattening Order] (finding that "one purpose of the
+inclining block rate structure is to encourage residential customers to reduce
+aggregate electricity consumption"); Tom Karier, Utility Pricing and Public
+Policy, 28 Elec. J. 12, 15 (2015).
+
+
+
+
+
+n108.  See, e.g. Karier, supra note 107; Charles F. Phillips Jr., The Regulation
+of Public Utilities: Theory and Practice § 10 (1988) (noting that one of a
+long-standing concerns about "lifeline rates" was whether "high-usage but
+low-income consumers would face significant rate increases"). A helpful
+illustration of this can be found in the results of a recent utility study in
+Oregon. As part of the study, an analysis of the utility's residential customer
+class found low-income ratepayers at various usage levels, not just solely at
+lowest level. With only ten percent of the utility's total residential class
+being low-income that meant that the utility's block rate structure "was helping
+about nine times as many customers as intended." Karier, supra note 107, at 15.
+
+
+
+
+
+n109.  See, e.g., Lazar & Gonzalez, supra note 54, at 6, 23-24 (discussing core
+rate design principles and setting out three principles through which regulators
+can modernize the rate structure and accommodate the changes taking place in the
+electricity system).
+
+
+
+
+
+n110.  Id.
+
+
+
+
+
+n111.  CPUC Tier-Flattening Order, supra note 107.
+
+
+
+
+
+n112.  Id. at 13; Herman K. Trabish, Inside California's Rate Restructuring Plan
+and the Battle for Fixed Charges Looming Over It, Utility Dive (Jul. 13, 2015),
+www.utilitydive.com/news/inside-californias-rate-restructuring-plan-and-the-batt
+le-for-fixed-charge/402117.
+
+
+
+
+
+n113.  See CPUC Tier-Flattening Order, supra note 107, at 27-28 (setting out the
+rate design principles adopted by the Commission).
+
+
+
+
+
+n114.  Testimony of Dr. Ahmad Faruqui on Demand Elasticity and Conservation
+Impacts of Investor-Owned Utility Proposals, R. 12-06-013, at 12 fig. 1 (Pub.
+Util.'s Comm'n of Cal. Oct. 17, 2014) (used with permission from Dr. Faruqui).
+With some modifications, the CPUC adopted the proposed rates of PG&E and the
+other two investor-owned utilities in its final July 2015 Order.
+
+
+
+
+
+n115.  Richard W. Caperton & Mari Hernandez, Ctr. for Am. Progress, The
+Electrical Divide-New Energy Technologies and Avoiding an Electric Service Gap
+9-10 (Jul. 15, 2013),
+https://cdn.americanprogress.org/wp-content/uploads/2013/07/DistributedGeneratio
+nBrief-3.pdf.
+
+
+
+
+
+n116.  See, e.g., Harak et al., supra note 18, § 7.2.3.4 (detailing states, like
+Maryland and Washington, that provide supplemental funding for their respective
+LIHEAP implementation programs).
+
+
+
+
+
+n117.  See, e.g., Energy Efficiency & Renewable Energy: EERE Funding Opportunity
+Exchange U.S. Dep't Energy, https://eere-exchange.energy.gov (last visited Oct.
+10, 2016) (listing all of the current EERE funding opportunities - many of which
+relate to the sort of technological investments, such as advanced metering
+infrastructure, that would be necessary for low-income customers to participate
+in the new electricity system being shaped by Utility 2.0); All Programs, U.S.
+Dep't Agric., Rural Dev. Off., www.rd.usda.gov/programs-services/all-programs
+(last visited Oct. 10, 2016) (setting out the rural-community-specific programs
+available, many of which, such as distributed generation project development and
+USDA's energy efficiency and conservation loan program, could benefit low-income
+ratepayers without much modification).
+
+
+
+
+
+n118.  For more information on other federal programs for financing energy
+efficiency and clean energy development see U.S. Dep't Energy et al., Guide to
+Federal Financing for Energy Efficiency and Clean Energy Deployment (Sept.
+2015),
+http://www.energy.gov/sites/prod/files/2014/10/f18/Federal%20Financing%20Guide%2
+009%2026%2014.pdf.
+
+
+
+
+
+n119.  See, e.g., Rural Energy for America Program Renewable Energy Systems &
+Energy Efficiency Improvement Loans & Grants, U.S. Dep't Agric., Rural Dev.
+Off.,
+http://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-
+energy-systems-energy-efficiency (last visited Oct. 10, 2016); Single Family
+Housing Repair Loans & Grants, U.S. Dep't Agric., Rural Dev. Off.,
+http://www.rd.usda.gov/programs-services/
+single-family-housing-repair-loans-grants (last visited Oct. 10, 2016); see also
+supra notes 149, 150 (listing sources that address the link between unaffordable
+energy bills and adverse health outcomes).
+
+
+
+
+
+n120.  Annie Gilleo et al., Am. Council for Energy Efficient Econ., The 2015
+State Energy Efficiency Scorecard 21-23 (Oct. 2015),
+aceee.org/sites/default/files/publications/researchreports/u1509.pdf.
+
+
+
+
+
+n121.  PBF surcharges go by several names including, "public benefits charges,"
+"system benefits charges," and "utility service riders." Monte de Ramos, supra
+note 9, at 101.
+
+
+
+
+
+n122.  Pursuant to the Communications Act of 1934 and the Telecommunications Act
+of 1996, telephone service discounts for low-income households ("lifeline
+rates") are paid for by the Universal Service Fund (USF) - which itself is
+funded through quarterly fees charged to the nation's telecommunications
+companies and, ultimately, to their customers. The USF is managed by the
+Universal Service Administrative Company (USAC), a private nonprofit corporation
+that administers the lifeline rates program in addition to other USF-funded
+programs designed to increase access to high speed broadband to the nation's
+schools, libraries, and rural healthcare facilities. Harak et al., supra note
+18, § 11.3.2.1.2; Universal Service, Fed. Commc'n Comm'n,
+https://www.fcc.gov/general/universal-service (last updated Sept. 7, 2016).
+
+
+
+
+
+n123.  Sandy Glatt, U.S. Dep't Energy, Public Benefit Funds: Increasing
+Renewable Energy & Industrial Energy Efficiency Opportunities ii (Mar. 2010),
+www1.eere.energy.gov/manufacturing/states/pdfs/publicbenefitfunds.pdf
+[hereinafter DOE: Public Benefit Funds]. For example, if a state's PBC charged
+one mill per kilowatt hour, it would take one million kWh to equal $ 1,000. Id.
+at 4.
+
+
+
+
+
+n124.  See, e.g., Michael Dworkin et. al., Revisiting the Environmental Duties
+for Public Utility Commissions (2006), 7 Vt. J. Envt'l L. 1, 5-6 (2006); Steven
+Ferrey, 2 Law of Independent Power § 10:114 (2016) (describing how system
+benefits charges have been used as a policy mechanism to support renewable
+resources).
+
+
+
+
+
+n125.  DOE: Public Benefit Funds, supra note 123, at ii, 1.
+
+
+
+
+
+n126.  Id.; David Nichols, The Role of Regulators: Energy Efficiency, 18 Pace
+Envt'l L. Rev. 295, 306 (2001) ("Although the PBC concept arose in the context
+of restructuring debates, there is no necessary linkage between a PBC and
+deregulation.").
+
+
+
+
+
+n127.  DOE: Public Benefit Funds, supra note 123, at 13, 15 (detailing Minnesota
+and Pennsylvania's approach to, at least partial, PBF funding).
+
+
+
+
+
+n128.  Id. at 11-16 (noting that the RGGI participating states, CT, DE, ME, MD,
+MA, NH, NJ, NY, RI, VT, can allocate some of the revenues generated from cap and
+trade auctions toward their individual state PBFs).
+
+
+
+
+
+n129.  State PBF/USF History, Legislation, Implementation: District of Columbia,
+LIHEAP Clearinghouse, https://liheapch.acf.hhs.gov/dereg/states/dc.htm (last
+updated Dec. 2015) (noting that effective March 2015, the RAD surcharge was
+adjusted from 0.294 mills per kWh to 0.361 mills per kWh, which equates to $
+0.000361 per kWh).
+
+
+
+
+
+n130.  Public Benefit Funds, Ctr. for Climate & Energy,
+www.c2es.org/us-states-regions/policy-maps/public-benefit-funds (last visited
+Sep. 27, 2016) (setting out a map of the four categories of public benefit
+funds: (1) funds for energy efficiency (3 states); (2) funds for renewables (3
+states); (3) funds for renewables and efficiency (16 states plus DC); and (4)
+Quasi-PBF (5 states)); see also Ctr. for Energy & Env't, Public Benefit Funds,
+www.c2es.org/sites/default/modules/usmap/pdf.php?file=5893 (last updated May 20,
+2013) (describing each state's PBF program in more detail).
+
+
+
+
+
+n131.  DOE: Public Benefit Funds, supra note 123, at 11-16 (setting out all of
+the state PBF programs).
+
+
+
+
+
+n132.  Id. at 1.
+
+
+
+
+
+n133.  State PBV/USF History, Legislation, Implementation: Michigan LIHEAP
+Clearinghouse, www.liheapch.acf.hhs.gov/dereg/states/michigan.htm (last updated
+Sept. 2015); John D. Quackenbuch et al., Mich. Pub. Serv. Comm'n, Report on the
+Low-Income and Energy Efficiency Fund Fiscal Year 2011 1 (Oct. 28, 2011),
+www.michigan.gov/documents/mpsc/2011_LIEEF_report_368715_7.pdf. Utility
+securitization bonds are variants of asset-backed securities. Through this
+method, a utility would earmark a portion of future revenue (from rates) and
+sell that as an asset in a financial market. The value of that asset would
+depend on various "credit enhancement" factors, like assurance from the
+legislature or PUC that it would not be retroactively modified. Funds collected
+from the sale would be used to pay off any outstanding debts for capital
+investments no longer in use (i.e. stranded). Any funds left over can be
+repurposed for other expenses or refunded to ratepayers. Reg. Assistance
+Project, Securitization: In search of the Proverbial Free Lunch, Issues Letter
+(1997), http://www.raponline.org/docs/RAP_IssuesLetter-Securitization.pdf. To
+the extent that other states already utilize, or are considering utilizing, a
+securitization method to offset utility stranded costs (especially retiring coal
+plants), a portion of the savings could likewise be repurposed for low-income
+ratepayers.
+
+
+
+
+
+n134.  Reg'l Greenhouse Gas Initiative, Investment of RGGI Proceeds Through 2012
+3, 23 (Apr. 2015),
+https://www.rggi.org/docs/ProceedsReport/Investment-RGGI-Proceeds-Through-2013.p
+df (noting that RGGI proceeds have helped to make electricity improvements to
+20,000 low-income and multi-family households throughout the RGGI states). As of
+this writing, the most current revenue proceed figures provided by RGGI are from
+2013.
+
+
+
+
+
+n135.  Cal. Climate Investments, Using Cap-and-Trade Auction Proceeds 6 (March
+2016),
+arb.ca.gov/cc/capandtrade/auctionproceeds/cci_annual_report_2016_final.pdf.
+
+
+
+
+
+n136.  Id.; California Global Warming Solutions Act of 2006: Greenhouse Gas
+Reduction Fund (2012), S.B. 535, 2012 Gen. Assemb., Reg. Sess. (Cal. 2012).
+
+
+
+
+
+n137.  Edison Elec. Inst., Transportation Electrification: Utility Fleets
+Leading the Charge 1 (June 2014),
+www.eei.org/issuesandpolicy/electrictransportation/fleetvehicles/documents/eei_u
+tilityfleetsleadingthecharge.pdf (calling the electrification of the
+transportation sector "our biggest opportunity").
+
+
+
+
+
+n138.  See, e.g., Michelle Melton, Utility Involvement in Electric Vehicle
+Charging Infrastructure: California at the Vanguard, Ctr. for Strategic & Int'l
+Stud. (Apr. 6, 2016),
+https://www.csis.org/analysis/utility-involvement-electric-vehicle-charging-infr
+astructure-california-vanguard.
+
+
+
+
+
+n139.  Phase I Decision Establishing Policy to Expand the Utilities' Role in
+Development of Electric Vehicle Infrastructure, R. 13-11-007, 1-2 (Cal. Pub.
+Util.'s Comm'n Dec. 22, 2014).
+
+
+
+
+
+n140.  Future Uses of Highway Rights of Way, U.S. Dep't Transp. (Apr. 2012),
+https://www.fhwa.dot.gov/policy/otps/rowstudyproj.cfm.
+
+
+
+
+
+n141.  Carson Poe & Gina Filosa, Alternative Uses of Highway Rights-of-Way:
+Accommodating Renewable Energy Technologies, 2270 Transp. Res. Rec. 23, 24
+(2012), ntl.bts.gov/lib/51000/51800/51866/Alternative_Uses_Rights_Way.pdf.
+
+
+
+
+
+n142.  Poe & Filosa, supra note 141, at 24; Oregon's Solar Highways: All About
+the Oregon Solar Highway, Or. Dep't Transp.,
+www.oregon.gov/odot/hwy/oipp/pages/inn_solarhighway.aspx (last updated Jan.
+2016); Innovative Partnership Program, Or. Dep't Transp.,
+https://www.oregon.gov/ODOT/HWY/OIPP/pages/slr_baldock.aspx (last updated Jan.
+2016).
+
+
+
+
+
+n143.  Poe & Filosa, supra note 141, at 24 Table 1.
+
+
+
+
+
+n144.  Nat'l Renewable Energy Lab., Shared Solar: Current Landscape, Market
+Potential, and the Impact of Federal Securities Regulation v (Apr. 2015),
+www.nrel.gov/docs/fy15osti/63892.pdf.
+
+
+
+
+
+n145.  Id.
+
+
+
+
+
+n146.  Electricity: Green Tariff Shared Renewables Program, S.B. 43, 2013 Gen.
+Assemb., Reg. Sess., § 2833(d)(1)(A)(ii) (Cal. 2013) (requiring 100 MW of the
+program's total 600MW be located in "disadvantaged communities," including those
+areas with "socioeconomic vulnerability."). Pursuant to Colorado's 2010
+Community Solar Gardens Act (House Bill 10-1342), and subsequent PUC
+regulations, require that community solar developers reserve at least 5% of
+subscriber shares to low-income participants if the demand is present.
+Recommended Decision of the Administrative Law Judge G. Harris Adams Adopting
+Rules, No. R 11-0784, 229-32 (Colo. Pub. Util.'s Comm'n Jul. 25, 2011)
+(discussing the Low-income set aside provision of the Community Solar Gardens
+Act); see also Lotus Eng'g & Sustainability, Analysis of the Fulfillment of the
+Low-Income Carve-Out for Community Solar Subscriber Organizations 4-6 (Nov.
+2015),
+https://www.colorado.gov/pacific/sites/default/files/atoms/files/CEO%20Low-Incom
+e%20Community%20Solar%20Report.pdf.
+
+
+
+
+
+n147.  REV Track One Order, supra note 54, at 70.
+
+
+
+
+
+n148.  Staff Report and Proposal, Reforming the Energy Vision, No. 14-M-0101, 17
+(N.Y. Dep't of Pub. Serv. Apr. 24, 2014).
+
+
+
+
+
+n149.  See, e.g., Bruce Tonn et al., Oak Ridge Nat'l Lab., Health and
+Household-Related Benefits Attributable to the Weatherization Assistance Program
+xvi (Sept. 2014),
+weatherization.ornl.gov/Retrospectivepdfs/ORNL_TM-2014_345.pdf; Kate Kuholski et
+al., Healthy Energy-Efficient Housing: Using a One-Touch Approach to Maximize
+Public Health, Energy, and Housing Programs and Policies, 16 J. Pub. Health
+Mgmt. Prac. S73 (2010),
+www.greenandhealthyhomes.org/sites/default/files/3Healthy_Energy_Efficient_Housi
+ng.pdf (advocating for a "one-touch" approach that combines public health and
+energy efficiency home interventions so as to maximize direct and indirect
+benefits to homeowners from these programs).
+
+
+
+
+
+n150.  Monetization proposals already exist in some cases. See, e.g. Bruce Tonn,
+supra note 149, at 104-105 Table 4.49 (summarizing the study's monetization
+estimates, and noting that total value of these benefits amounts to over $ 1.1
+billion); but see Eduardo Porter, For Government that Works, Call in the
+Auditors, N.Y. Times (Oct. 6, 2015),
+www.nytimes.com/2015/10/07/business/for-government-that-works-call-in-the-audito
+rs.html (criticizing the Oak Ridge report for relying on faulty assumptions,
+invalid extrapolations and untested measuring formulae).
+
+
+
+
+
+n151.  See, e.g., NYPSC Low-Income Order, supra note 50, at 10 ("Greater access
+and support for low income and underserved communities to DER is the best way to
+narrow the affordability gap that needs to be filled with direct financial
+assistance for customers with low incomes.").
+
+
+
+
+
+n152.  Groundswell, From Power to Empowerment: Plugging Low Income Communities
+Into the Clean Energy Economy 4 (Apr. 2016),
+groundswell.org/frompower_to_empowerment_wp.pdf.
+
+
+
+
+
+n153.  Id. This is an especially expensive problem in public housing units,
+which consume 38% more energy than comparably-sized private housing. Corey
+Barnes et al., Rocky Mountain Inst., Superefficient Affordable Housing:
+Solutions to Hurdles 4 (2013),
+www.rmi.org/Knowledge-Center/Library/2013-03_SHISolutionsToHurdles.
+
+
+
+
+
+n154.  U.S. Envt'l Prot. Agency, The Clean Power Plan: Clean Energy Incentive
+Program,
+https://www.epa.gov/sites/production/files/2015-08/documents/fs-cpp-ceip.pdf
+(last accessed Oct. 14, 2016) (allowing states to earn Emission Reduction
+Credits toward their Clean Power Plan compliance by making early investments in
+renewable energy projects, and provides yet-more incentives for projects in
+low-income communities); News Release, U.S. Dep't Hous. & Urban Dev., HUD
+Announces New Renewable Energy Partners (May 9, 2014),
+portal.hud.gov/hudportal/HUD?src=/press/press_releases_media_advisories/2014/HUD
+No_14-04 (announcing the commitment of 27 affordable housing and service
+providers to install over 15 MW of on-site renewable energy capacity).
+
+
+
+
+
+n155.  Bringing the Benefits of Energy Efficiency and Renewable Energy to
+Low-Income Communities, U.S. Envt'l Prot. Agency,
+https://www.epa.gov/statelocalclimate/bringing-benefits-energy-efficiency-and-re
+newable-energy-low-income-communities (last updated Sept. 8, 2016). As of this
+writing, the EPA website had case studies on programs in California and
+Colorado.
+
+
+
+
+
+n156.  See, e.g., 2013 Report Card for America's Infrastructure: About America's
+Infrastructure, Am. Soc'y Civil Eng'rs.,
+www.infrastructurereportcard.org/executive-summary/ (last visited Oct. 14, 2016)
+(giving the U.S. an overall grade of D+ for the state of its infrastructure as
+part of its most recent quadrennial report).
+
+
+
+
+
+n157.  Monte De Ramos, supra note 9, at 33 fig. 2-2 (setting out six common
+types of public-private partnerships).
+
+
+
+
+
+n158.  See generally, U.S. Dep't Hous. & Urban Dev., The Evolution of HUD'S
+Public-Private Partnerships (Oct. 2015),
+https://www.huduser.gov/hud50th/HUD2-048-Public-Private_Partnership_508.pdf.
+
+
+
+
+
+n159.  Mike Hower, 5 Public-private Partnerships Pushing the Sustainability
+Envelope, GreenBiz (Mar. 4, 2015),
+https://www.greenbiz.com/article/5-public-private-partnerships-pushing-sustainab
+ility-envelope.
+
+
+
+
+
+n160.  Pew Charitable Trusts, Distributed Generation: Cleaner, Cheaper, Stronger
+5 (Feb. 2016),
+www.pewtrusts.org/<diff>/media/assets/2016/02/energy_storage-backs_up_power_supp
+ly.pdf; Latest ARPA-E News, U.S. Dep't Energy, Advanced Res. Projects Agency -
+Energy, https://arpa-e.energy.gov/?q=media/latest-arpa-e-news (last visited Oct.
+14, 2016) (listing all the most recent recipients for grants to develop
+high-potential energy technologies).
+
+
+
+
+
+n161.  Zacharay Shahan, Solar Power For Low-& Moderate-Income Americans -
+Obama's New Solar Initiative, CleanTechnica (July 11, 2015),
+cleantechnica.com/2015/07/11/solar-power-for-low-moderate-income-americans-obama
+s-new-solar-initiative/.
+
+
+
+
+
+n162.  Id. This is in addition to two other low-income ratepayer-focused
+programs through the California Solar Initiative: Single-family Affordable Solar
+Housing (SASH) and Multi-family Affordable Solar Housing (MASH). Solar for
+Affordable Housing, Go Solar Cal.,
+www.gosolarcalifornia.ca.gov/affordable/index.php (last visited Sept. 10, 2016).
+
+
+
+
+
+n163.  Impact Investing: Newark Housing Authority Energy Efficiency, Newark, NJ,
+Goldman Sachs,
+www.goldmansachs.com/what-we-do/investing-and-lending/impact-investing/case-stud
+ies/newark-housing-authority.html (last visited Oct. 14, 2016).
+
+
+
+
+
+n164.  Advanced Energy Econ. Inst. et al., Toward a 21st Century Electricity
+System in California 10 (Aug. 11, 2015),
+http://info.aee.net/hubfs/PDF/aeei-toward-21ces-ca.pdf?t=1439494418628.
+
+
+
+
+
+n165.  Id.
+
+
+
+
+
+n166.  See Bethany Speer & Ron Koenig, Property-Assessed Clean Energy (PACE)
+Financing of Renewables and Efficiency, Nat. Renewable Energy Lab (July 2010),
+www.nrel.gov/docs/fy10osti/47097.pdf.
+
+
+
+
+
+n167.  U.S. Dep't Energy, Guide to Federal Financing for Energy Efficiency and
+Clean Energy Deployment 21 (Sept. 2014),
+http://energy.gov/sites/prod/files/2014/10/f18/Federal%20Financing%20Guide%2009%
+2026%2014.pdf.
+
+
+
+
+
+n168.  See, e.g., On-Bill Recovery Financing Program, N.Y. Energy Res. & Dev.
+Auth.,
+https://www.nyserda.ny.gov/All-Programs/Programs/On-Bill-Recovery-Financing-Prog
+ram (last visited Sept. 10, 2016).
+
+
+
+
+
+n169.  States that have utilized the Green Bank method of financing energy
+improvements include Connecticut, New York, Pennsylvania, Kentucky, Iowa, and
+Massachusetts. Financing Clean Energy: Cost-Effective Tools for State Compliance
+with the Clean Power Plan (2015), Union Concerned Scientists,
+www.ucsusa.org/clean-energy/increase-renewable-energy/green-banks-financing-clea
+n-energy#.VwZVaTYrL-k (last visited Oct. 14, 2016) (setting out examples).
+
+
+
+
+
+n170.  See, e.g., Environmental Market Opportunities: Green Bonds and Impact
+Investing, Goldman Sachs,
+www.goldmansachs.com/citizenship/environmental-stewardship/market-opportunities/
+green-bonds-impact-investing/ (last visited Oct. 14, 2016); Sarah Kearney et
+al., Impact Investing in the Energy Sector, Prime Coalition 5 (Oct. 2014),
+primecoalition.org/wp-content/uploads/2015/02/Impact_Investing_in_the_Energy-Sec
+tor.pdf (noting that energy-related impact investments within low-income
+communities have largely focused on efficiency improvements, but arguing for
+broader consideration of other energy-related solutions).
+
+
+
+
+
+n171.  See generally Caperton & Hernandez, supra note 115.
+
+
+
+
+
+n172.  Supra Section II.B.2.c.
+
+
+
+
+
+n173.  Shannon Terrell-Ernest, Let There Be Light (and Heat, and
+Telecommunications): A Closer Look at the 1st Rochdale Cooperative, Cooperator
+N.Y. (Oct. 2001),
+http://cooperator.com/article/let-there-be-light-and-heat-and-telecommunica/full
+#cut.
+
+
+
+
+
+n174.  Edward Yaker et al., The Cooperative Alternative Case Study: The First
+Electric Coop., 5 Deregulation of the Util. Indus. & Role Energy Servs. Cos.
+(ESCOs) 381, 381 (2000),
+aceee.org/files/proceedings/2000/data/papers/SS00_Panel5_Paper32.pdf.
+
+
+
+
+
+n175.  Id. at 384.
+
+
+
+
+
+n176.  What's New: Beyond The Grid Completes NY Prize Stage-One Feasibility
+Study, Two Bridges Neighborhood Council,
+twobridges.org/blog/what-s-new/226-beyond-the-grid-feasibility (last visited
+Sept. 10, 2016).
+
+
+
+
+
+n177.  Two Bridges Neighborhood Council, Why a Smartgrid in Manhattan's East
+Village? Presentation to NY Prize, at 7 (May 4, 2016),
+https://www.scribd.com/doc/311441932/NY-Prize-Presented-May-4-2016.
+
+
+
+
+
+n178.  Id.
+
+
+
+
+
+n179.  Aside from funding issues, other questions are raised by the prospect of
+urban electric cooperatives that are beyond the scope of this brief introduction
+here, such as whether they might conflict with a state's particular utility
+franchise laws.
+
+
+
+
+
+n180.  Our Customers, Tenn. Valley Auth.,
+https://www.tva.com/Energy/Our-Customers (last visited Sept. 10, 2016).
+
+
+
+
+
+n181.  Bonneville Power Admin, Path to Success: 2015 Annual Report 62 (Nov.
+2015),
+https://www.bpa.gov/Finance/FinancialInformation/AnnualReports/Documents/AR2015.
+pdf ("BPA is the power marketing administration that purchases, transmits, and
+markets power for the FCRPS [Federal Columbia River Power System]").
+
+
+
+
+
+n182.  Id. (noting that BPA covers its costs by selling its products and
+services); Our History, Tenn. Valley Auth.,
+https://www.tva.com/About-TVA/Our-History (last visited Sept. 10, 2016) (noting
+that legislation in 1959 paved the way for self-financing through selling
+electricity services); but see Joel Yudken, If It Ain't Broke, Don't Fix It!,
+402 Econ. Pol'y Inst. 3 (June 4, 2015),
+www.epi.org/publication/potential-impacts-of-privatizing-the-tennessee-valley-au
+thority/ (noting that TVA stopped having to rely on tax-payer funds as recently
+as 1999).
+
+
+
+
+
+n183.  See, e.g., U.S. Gen. Acct. Off., GAO-01-373, Federal Power: The Evolution
+of Preference in Marketing Federal Power 12-15 (Feb. 2001),
+www.gao.gov/assets/240/231087.pdf (setting out all the federal statutes that
+relate to energy resource development and have power preference provisions). In
+addition, both TVA and BPA advance other important objectives like environmental
+stewardship, energy conservation, and regional jobs-creation.
+
+
+
+
+
+n184.  Niagara Redevelopment Act (1957), 16 U.S.C. § 836 (2012). For other
+examples of federal preference power requirements from energy resource
+development projects see U.S. Gen. Account. Off, supra note 183, at 12-15.
+
+
+
+
+
+n185.  Kevin R. Kosar, Cong. Research Serv., RL30365, Federal Government
+Corporations: An Overview 12 (2011), https://fas.org/sgp/crs/misc/RL30365.pdf;
+see also Brief History of Consolidated Rail Corporation, Conrail,
+www.conrail.com/history/ (last visited Sept. 10, 2016) [hereinafter Conrail
+History].
+
+
+
+
+
+n186.  Staggers Rail Act of 1980, Pub. L. No. 96-448, 94 Stat. 1895 (codified as
+amended at 49 U.S.C. § 10101).
+
+
+
+
+
+n187.  Conrail History, supra note 185.
+
+
+
+
+
+n188.  Id.
+
+
+
+
+
+n189.  Federal Power Act, 16 U.S.C. § 824(b)(1) (2012) (preserving state
+authority over "facilities used for the generation of electric energy,"
+"facilities used in local distribution," facilities for the "transmission of
+electric energy in intrastate commerce," and "facilities for the transmission of
+electric energy consumed wholly by the transmitter").
+
+
+
+
+
+n190.  Public Utility Regulatory Policies Act of 1978, Pub. L. No. 95-617, 92
+Stat. 3117 (codified as amended at 16 U.S.C. § 2601). PURPA's constitutional
+basis is found in 16 U.S.C. § 2601 ("The Congress finds that the protection of
+the public health, safety, and welfare, the preservation of national security,
+and the proper exercise of congressional authority under the Constitution to
+regulate interstate commerce require."). This constitutional basis was upheld by
+the Supreme Court under a rational basis framework. FERC v. Mississippi, 456
+U.S. 742, 755-56 (1982) ("The Court heretofore has indicated that federal
+regulation of intrastate power transmission may be proper because of the
+interstate nature of the generation and supply of electric power. FPC v. Florida
+Power & Light Co., 404 U.S. 453 (1972). Our inquiry, then, is whether the
+congressional findings have a rational basis. [citations omitted] The
+legislative history provides a simple answer: there is ample support for
+Congress' conclusions.").
+
+
+
+
+
+n191.  16 U.S.C. § 824(b)(1).
+
+
+
+
+
+n192.  Such an arrangement would be conceptually similar to how publicly-owned
+entities are "preference power" customers of TVA, Bonneville, and Niagara.
+
+
+
+
+
+n193.  See, e.g., ConEdison, Help for Those In Need (Dec. 2014),
+www.coned.com/customercentral/brochures/Help_For_Those_In_Need(Eng)_SCREEN.pdf;
+Give to HeartShare, HeartShare, https://www.heartshare.org/take-action/donate/
+(last visited Oct. 14, 2016) (noting how National Grid customers can donate to
+help low-income customers in New York state).
+
+
+
+
+
+n194.  See, e.g., Gift of Energy, PEPCO,
+https://www.pepco.com/forms/pepco/other/giftofenergy.aspx (last visited Oct. 14,
+2016); Project SHARE, Ga. Power,
+https://customerservice.southerncompany.com/ProjectShare/ProjectShare.aspx?mnuOp
+co=gpc&mnuType=res (last visited Oct. 14, 2016).
+
+
+
+
+
+n195.  ConEdison, supra note 193.
+
+
+
+
+
+n196.  Energy Assistance Fund - What is it?, S. Cal. Edison,
+https://www.sce.com/wps/portal/home/residential/assistance/energy-assistance-fun
+d (last visited Sept. 10, 2016).
+
+
+
+
+
+n197.  See, e.g., ConEdison, supra note 193; Give to HeartShare, supra note 193.
+
+
+
+
+
+n198.  Daniel Moore, Plugging in to Charity: Energy Utilities See Unique
+Business Case for Philanthropy, Pittsburgh Post-Gazette (July 28, 2015),
+powersource.post-gazette.com/powersource/companies/2015/07/28/Energy-utilities-c
+haritable-giving-unique-business-case/stories/201507280002.
+
+
+
+
+
+n199.  Monte De Ramos, supra note 9, at 349.
+
+
+
+
+
+n200.  Id. at 347-50.
+
+
+
+
+
+n201.  See, e.g., Nora Caley, Drop a SREC Into the Collection Plate, Solar
+Indus. (Dec. 5, 2013),
+solarindustrymag.com/drop-a-srec-into-the-collection-plate (noting a program in
+Massachusetts).
+
+
+
+
+
+n202.  NYPSC Low-Income Order, supra note 50, at 30 ("this Order establishes
+that low income programs will be funded in utility rates on a continuing
+basis.").
+
+
+
+
+
+n203.  RAP Guide, supra note 35, at 5; Id. at 14 fig. ES-1 (illustrating that
+the flat rate design is the typical default across all customer classes).
+
+
+
+
+
+n204.  See, e.g. e21 Initiative, supra note 54, at 8-11; REV Track One Order,
+supra note 54, at 120 (noting that the metrics to evaluate REV will be similar
+to those used for utility PBR - an issue that will be largely addressed in later
+REV proceedings).
+
+
+
+
+
+n205.  See, e.g., Reg. Assistance Project, Performance-Based Regulation for
+Distribution Companies 11 (Dec. 2000),
+http://www.raponline.org/wp-content/uploads/2016/05/rap-performancebasedregulati
+onfordistributionutilities-2000-12.pdf.
+
+
+
+
+
+n206.  Staff White Paper on Ratemaking and Utility Business Models, In re
+Reforming the Energy Vision, No. 14-M-0101, at 51 (N.Y. Pub. Serv. Comm'n Jul.
+28, 2015) [hereinafter REV Staff Paper on Business Models].
+
+
+
+
+
+n207.  Id.
+
+
+
+
+
+n208.  e21Initiative, supra note 54, at 9.
+
+
+
+
+
+n209.  Id. at 8.
+
+
+
+
+
+n210.  Minn. Pub. Util. Comm'n, supra note 99, at 33-34.
+
+
+
+
+
+n211.  REV Track One Order, supra note 54, at 130; REV Staff Paper on Business
+Models, supra note 206, at 51.
+
+
+
+
+
+n212.  REV Staff Paper on Business Models, supra note 206, at 51-63.
+
+
+
+
+
+n213.  Id. at 57-58. Eventually, as retail markets mature and additional service
+and revenue-generating opportunities become available, EIMs will be phased out
+in favor of Market-Based Earnings (MBEs), which utilities and other market
+participants will compete for. Id. at 63.
+
+
+
+
+
+n214.  Id. at 57-58.
+
+
+
+
+
+n215.  Lazar & Gonzalez, supra note 54, at 72 ("The challenge in PBR is to set
+the objectives for the utility to be achievable but challenging, and to set the
+rewards to be ample but not excessive.").
+
+
+
+
+
+n216.  REV Staff Paper on Business Models, supra note 206, at 59; see also AARP
+Comments on Staff Track 2 Whitepaper, In re Reforming the Energy Vision, No.
+14-M-0101, at 6 (N.Y. Pub. Serv. Comm'n Oct. 26, 2015) (voicing strong concerns
+about the Staff's proposed EIM "affordability" metric).
+
+
+
+
+
+n217.  Lazar & Gonzalez, supra note 54, at 44; see generally Ahmad Faruqui et
+al., Reg. Assistance Project, Time-Varying and Dynamic Rate Design (July 2012),
+www.raponline.org/document/download/id/5131; Ahmad Faruqui, et al., Smart by
+Default, Pub. Util. Fortnightly (Aug. 2014),
+mag.fortnightly.com/article/Smart_by_Default/1778777/220143/article.html
+[hereinafter Smart by Default]; Karier, supra note 107, at 18 (advocating for
+better aligning rates and customer costs based on location and time. "Customers
+can't avoid costly power if they don't know when it occurs.").
+
+
+
+
+
+n218.  Smart by Default, supra note 217; Lazar & Gonzalez, supra note 54, at 44.
+
+
+
+
+
+n219.  Smart by Default, supra note 217; Faruqui et al., supra note 217, at 27.
+Those pilot programs mostly used the TOU or CPP structures, which vary prices
+depending on, respectively, the time of day and annual critical peak periods.
+Smart by Default, supra note 217.
+
+
+
+
+
+n220.  AARP et al., The Need for Essential Consumer Protections: Smart Metering
+Proposals and the Move to Time-Based Pricing (2010),
+https://www.nclc.org/images/pdf/energy_utility_telecom/additional_resources/adv_
+meter_protection_report.pdf.
+
+
+
+
+
+n221.  Faruqui et al., supra note 217, at 8.
+
+
+
+
+
+n222.  Id. at 25, 29 ("empirical evaluation has indicated that most low-income
+customers would immediately save money on their electricity bills from
+time-varying rates"); but see CPUC Tier-Flattening order, supra note 107, at 76
+(finding that "low-income and moderate-income ratepayers are not universally low
+or high users of energy.").
+
+
+
+
+
+n223.  Faruqui et al., supra note 217, at 25, 42; see also AARP et al., supra
+note 220, at 15 ("Not all customers must participate in dynamic pricing programs
+to get system wide benefits.").
+
+
+
+
+
+n224.  Lazar & Gonzalez, supra note 54, at 11, 23-24 (discussing core rate
+design principles and setting out three principles through which regulators can
+modernize the rate structure and accommodate the changes taking place in the
+electricity system); see also Bonbright et al., supra note 40, at 48-62 (setting
+out the four primary functions of public utility rates: (1) the
+producer-motivation or capital-attraction function; (2) the efficiency-incentive
+function; (3) the demand-control or consumer-rationing function; and (4) the
+compensatory income-transfer function).
+
+
+
+
+
+n225.  Lazar & Gonzalez, supra note 51, at 9.
+
+
+
+
+
+n226.  Id. at 9, 19.
+
+
+
+
+
+n227.  Id. at 40; Elec. Innovation, Lab, Rocky Mountain Inst., New Business
+Models for the Distribution Edge: The Transition from Value Chain to Value
+Constellation 10 (Apr. 2013), http://www.rmi.org/New_Business_Models.
+
+
+
+
+
+n228.  See, e.g., Stephen Bird & Diana Hernandez, Policy Options for the Split
+Incentive: Increasing Energy Efficiency for Low-Income Renters, 48 Energy Pol'y
+506, 508 (2012).
+
+
+
+
+
+n229.  Lazar & Gonzalez, supra note 54, at 73; Cavanagh & Howat, supra note 3.
+
+
+
+
+
+n230.  Cavanagh & Howat, supra note 3, at 5 (comments of John Howat of the
+National Consumer Law Council).
+
+
+
+
+
+n231.  Lazar & Gonzalez, supra note 54, at 73.
+
+
+
+
+
+n232.  See generally Id.; Regulatory Assistance Project, Revenue Regulation and
+Decoupling: A guide to Theory and Application (June 2011),
+http://www.raponline.org/wp-content/uploads/2016/05/rap-revenueregulationanddeco
+upling-2011-06.pdf.
+
+
+
+
+
+n233.  Cavanagh & Howat, supra note 3, at 5-6. This last policy - of applying a
+decoupling surcharge to higher-usage blocks and distributing it to lower blocks
+- is sometimes referred to as the "Tucson Model" after program implemented by
+Tucson Electric. Id.
+
+
+                                2 of 9 DOCUMENTS
+
+
+
+                                US Official News
+
+                           February 4, 2016 Thursday
+
+Washington: THIS WEEK IN CONGRESS - January 29, 2016
+
+LENGTH: 1812 words
+
+DATELINE: Lahore
+
+
+
+ Washington: Office of the MP Gregorio Kilili Camacho Sablan has issued the
+following news release:
+
+
+
+ The Army & Air Force Exchange Service has announced that local contractor, RNV
+Construction, has been awarded a $2.8 million contract for expansion of the
+troop store at the Army Reserve Center on Saipan. The 1,120 square-foot store
+will be expanded to 5,000 square-feet. Construction is expected to be complete
+by December 2016. I have been working on improving the store since my first term
+in Congress.
+
+A study I included in the 2011 National Defense Authorization Act determined the
+project to be viable, but the expansion was delayed for over two years, while a
+team from the U.S. Navy made sure there was no unexploded ordnance on the site.
+The existing store, which serves nearly 4,000 active and reserve service
+members, retirees, and their families is small, deteriorating, and in need of a
+major overhaul. Our service members, veterans, and their families deserve better
+and can finally look forward to a new and improved AAFES Troop Store on Saipan
+opening soon.The Northern Mariana Islands and other U.S. insular areas will be
+able to achieve savings in their drug expenditures for Medicaid patients as a
+result of a final rule published by the Centers for Medicare and Medicaid
+Services last week. The rule revises the definition of "state" to include Puerto
+Rico, the Virgin Islands, Guam, American Samoa and the Northern Marianas. It
+also addresses changes made to Medicaid Drug Rebate Program by the Affordable
+Care Act, or Obamacare. Changes to rebate percentages in the Affordable Care Act
+will increase Medicaid rebates being paid to federal, state, and non-state
+governments by manufacturers of covered outpatient drugs, including higher cost
+brand name drugs. See CMS for more information.EPA releases new guide for
+healthier school renovations.
+
+
+
+ With Typhoon Soudelor repairs underway, the U.S. Environmental Protection
+Agency's new manual on best practices for protecting children's health and
+minimizing environmental health risks is most timely. The manual includes an
+overview of potential environmental hazards that may emerge during school
+renovations, such as exposure to lead, asbestos, mold, mercury, and radon, and
+offers guidance for avoiding exposure, as well as a review of regulations and
+resources available to schools. The Sensible Guide to Healthier School
+Renovations can be found online at
+http://www.epa.gov/schools/sensible-guide-healthier-school-renovations.High
+school students: Become a Junior Statesman.
+
+
+
+ Now is the time for high school students to apply to attend the Junior
+Statesman summer program at Stanford University, Princeton University, or
+Georgetown University. Students are schooled in civic engagement, leadership,
+and political studies, while getting a feel for the life and work in college.
+Those who apply by February 28, 2016 will be automatically considered for one of
+the four scholarships set aside for the Northern Marianas. The scholarship
+covers tuition, room and board, and transportation costs. For more information,
+and to apply, visit http://summer.jsa.org. Complete applications include an
+online account, two essays, a letter of recommendation from a teacher, and a
+current transcript. Transcripts can be emailed directly to JSA Territory Program
+Director Ed Banayat at ebayanat@jsa.org All other parts of the application may
+be completed online.
+
+ Opportunities - Federal grants, jobs for and in the Marianas:
+
+
+
+ Grants:
+
+
+
+     Single Family Housing Repair Loans & Grants - This program provides loans
+to very-low-income homeowners to repair, improve and or modernize their homes or
+grants to elderly very-low-income homeowners to remove health and safety
+hazards. Because of land alienation issues in the NMI, qualified applicants are
+limited to unsecured loans of up to $7,499. Qualified applicants age 62 and
+older may also apply for grant funding of up to $7,500. Applications will be
+processed in the order they are received. No deadline applies. For more
+information, go to http://www.rd.usda.gov/programs-services/
+single-family-housing-repair-loans-grants/hi and click here.
+
+     SMART FY 16 Support for Adam Walsh Act Implementation Grant Program - The
+Program assists jurisdictions with developing and/or enhancing programs designed
+to implement requirements of the Sex Offender Registration and Notification Act
+(SORNA). The SMART Office is interested in proposals that facilitate, enhance
+and maintain jurisdictional implementation of SORNA. Closing date is April 7,
+2016. For more information, go to http://www.grants.gov/web/grants/
+view-opportunity.html?oppId=281058.
+
+     National Coastal Wetlands Conservation Grant Program - The NCWCG program
+provides states with financial assistance to protect and restore coastal
+environments. Projects can include: 1. acquisition of a real property interest
+(e.g., conservation easement or fee title) in coastal lands or waters (coastal
+wetlands ecosystems) from willing sellers or partners for long-term
+conservation; 2. restoration, enhancement, or management of coastal wetlands
+ecosystems; or 3. a combination of acquisition, restoration, and management.
+Closing date is June 29, 2016. For more information, go to http://www.grants.
+gov/web/grants/view-opportunity.html?oppId=281103.
+
+     Presidential Awards for Excellence in Science, Mathematics and Engineering
+(STEM) Mentoring - The STEM program recognizes individuals for their mentoring
+of persons from historically underrepresented racial and ethnic groups, women,
+persons with disabilities, and persons from disadvantaged socioeconomic
+backgrounds. Any U.S. citizen or permanent resident who has done exemplary,
+measurable mentoring in science, technology, engineering and mathematics (STEM)
+fields over a sustained 5 year period is eligible for nomination. Closing date
+is June 17, 2016. For more information, go to http://www.grants.gov/web/grants/
+view-opportunity.html?oppId=281097.
+
+     OVW FY 2016 Training and Services to End Violence Against Women with
+Disabilities Grant Program - Disability Grant Program funds programs that
+establish and strengthen multidisciplinary collaborative relationships; increase
+organizational capacity to provide accessible, safe, and effective services to
+individuals with disabilities and deaf individuals who are victims of violence
+and abuse; and identify needs within the grantee's organization and/or service
+area, and develop a plan to address those identified needs that builds a strong
+foundation for future work. Closing date is March 10, 2016. For more
+information, go to http://www.grants.gov/web/grants/
+view-opportunity.html?oppId=281165.
+
+     Federal Planning Assistance for Broadband and Sustainable Community
+Development - Cool & Connected - USDA Rural Utilities Service encourages
+communities interested in using broadband service to help revitalize small-town
+main streets and promote economic development to apply for Cool & Connected, a
+pilot program sponsored by USDA Rural Utilities Service and the U.S.
+Environmental Protection Agency Office of Sustainable Communities. Closing date
+for letters of interest is February 24, 2016. For more information, click here.
+
+     Farm Labor Housing Direct Loans & Grants - USDA Rural Development is
+soliciting applications for Farm Labor Housing Loans and Grants. The programs
+provide affordable financing for the development of housing for domestic farm
+laborers. Housing may be constructed in rural and urban areas with a
+demonstrated need. Approved applicants receive a 1 percent fixed rate with up to
+a 33-year payback period. Funding is available on a first-come, first-served
+basis. Pre-applications packages may be obtained at
+http://www.rd.usda.gov/files/FLH_Preapplication_FY2016.pdf. Pre-applications are
+due by 5 p.m. April 12 to the Hawaii State Office. Pre-applications may be
+submitted to USDA Rural Development, Room 311, Federal Building, 154 Waianuenue
+Ave., Hilo, HI 96720. For more information, call (808) 933-8300 or go to
+http://www.rd.usda.gov/programs-services/farm-labor-housing-direct-loans-grants/
+hi.
+
+
+
+ Jobs:
+
+
+
+     Transportation Security Officer - The Transportation Security
+Administration, Department of Homeland Security is accepting applications for a
+Transportation Security Officer in Saipan. Incumbent will operate various
+screening equipment and technology, perform searches and screening, control
+terminal entry and exit points, interact with public, maintain focus and
+awareness in a stressful environment, engage in development of critical thinking
+skills, and retain and implement knowledge of all applicable Standard Operating
+Procedures. Position is open until February 2, 2016. For more information, go to
+https://www.usajobs.gov/GetJob/ViewDetails/427535500.
+
+     Loan Adjuster - The Department of Agriculture is accepting applications for
+TWO Loss Adjusters; one for Saipan and the other for Rota. A Loss Adjuster is an
+independent contractor who will visit farms for the purpose of inspecting,
+measuring and appraising agricultural crops. Positions are open until February
+8, 2016. For inquiries, please call 671-300-8550. Applications can be accessed
+at https://www.fsa.usda.gov/Internet/FSA_File/fm_ct_001_02212014.pdf.
+
+
+
+ Highlights in the Legislative Program:
+
+
+
+ THIS WEEK:
+
+
+
+     Votes were postponed this week due to inclement weather.
+
+
+
+ NEXT WEEK:
+
+
+
+ On the floor
+
+
+
+     Complete Consideration of H.R.3662 - Iran Terror Finance Transparency
+
+
+
+     Consideration of the Veto Message on H.R.3762 - Restoring Americans'
+Healthcare Freedom Act
+
+
+
+     H.R.2187 - Fair Investment Opportunities for Professional Experts Act
+
+
+
+     H.R.3784 - SEC Small Business Advocate Act of 2016
+
+
+
+     H.R.4168 - Small Business Capital Formation Enhancement Act
+
+
+
+     Concur in the Senate Amendment to H.R.515 - International Megan's Law to
+Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification
+of Traveling Sex Offenders
+
+
+
+     H.R.400 - Trafficking Prevention in Foreign Affairs Contracting Act
+
+
+
+     Concur in the Senate Amendment to H.R.4188 - Coast Guard Authorization Act
+of 2015
+
+
+
+     H.R.3700 - Housing Opportunity Through Modernization Act of 2015
+
+
+
+     H.R.1675 - Encouraging Employee Ownership Act of 2015
+
+
+
+ Committee Hearings
+
+
+
+ February 2
+
+
+
+     Subcommittee on Water, Power and Oceans Legislative Hearing
+
+
+
+     Subcommittee on Indian, Insular and Alaska Native Affairs Oversight Hearing
+on "The Need for the Establishment of a Puerto Rico Financial Stability and
+Economic Growth Authority"
+
+
+
+     Committee on Education and Workforce Full Committee Markup
+
+
+
+ February 3
+
+
+
+     Committee on Education and the Workforce Hearing on "Expanding Educational
+Opportunity Through School Choice"
+
+
+
+     Committee on Natural Resources Full Committee Markup
+
+
+
+ In case of any query regarding this article or other content needs please
+contact:
+
+ editorial@plusmediasolutions.com
+
+LOAD-DATE: February 5, 2016
+
+LANGUAGE: ENGLISH
+
+
+              Copyright 2016 Plus Media Solutions Private Limited
+                              All Rights Reserved
+
+
+                                3 of 9 DOCUMENTS
+
+
+                           Ruidoso News (New Mexico)
+
+                            August 25, 2015 Tuesday
+
+USDA loans and grants available for rural residents
+
+BYLINE: By Lisa Maue lmaue@ruidosonews.com on Twitter
+
+SECTION: NEWS
+
+LENGTH: 726 words
+
+
+Grants and loans are available through a USDA Rural Development program and, for
+at least one person in Lincoln County, the opportunity has been life-changing.
+
+The focus of the Single Family Housing Repair Loan and Grants or 504 Home Repair
+Program is on assisting residents who live in rural areas. According to its
+website, USDA provides loans to very-low income homeowners to repair, improve or
+modernize homes and grants to very-low income homeowners to remove health and
+safety hazards.
+
+To be eligible, the person applying must be a homeowner who is occupying the
+house, who has had difficulty finding affordable credit elsewhere, has a family
+income below 50 percent of the area median income and for, grants, be age 62 or
+older and not be able to repay a repair loan.
+
+The maximum loan is $20,000 and the maximum grant is $7,500 which is a life-time
+limit. Loans can be repaid over 20 years at a fixed interest rate of 1 percent.
+For loans over $7,500, full title service is required.
+
+Grants must be repaid if the property is sold in less than three years. If the
+applicant can repay only part of the costs, they may be offered a loan and grant
+combination.
+
+According to Patricia Young, who went through the process, it can be a lengthy
+one, but it is well worth it.
+
+"The paperwork has to go through many departments and offices," Young said. "But
+everyone was good about responding to questions. The fact that this money is
+available is such a good thing. People like to trash the government, but I have
+no complaints. USDA Rural Development has been good to me."
+
+After living in several areas in New Mexico from 1997 through 2007, Young moved
+to Kansas to be with her son and grandchildren. When her son died, she was
+devastated. She stayed another year but felt that she needed come back to the
+mountains.
+
+Young found out about the program from a real estate agent in Wichita, Kansas.
+
+"I realized that I had to have a dream, and that I needed to realize that dream
+to keep going," Young said." New Mexico was home, and I needed to come home. The
+agent told me about the program and that it was national. I applied for it when
+I was still in Wichita. They sent me a certificate of eligibility, and, as soon
+as I got that, I started planning my move back."
+
+She found a house in Nogal built in 1983 by a handyman. The house had sticking
+windows and doors that were uneven, but a closer examination yielded problems
+that escaped both Young and the home inspector.
+
+The previous owner had put new wood on the deck and repainted it, but the
+representative from USDA noticed that the foundation under the deck was rotten.
+In the basement workshop, Styrofoam block had been used for insulation and the
+pipes for the water and electrical lines in the ceiling had been encased in
+fiberglass and plastic sheeting and then duct-taped. The tape was coming off and
+caustic fiberglass was falling down. On the stairwell, Styrofoam was also used,
+but it was coming lose, allowing rodents to come in.
+
+These three projects became priorities.
+
+Young contacted RC Long Construction of Ruidoso. A new deck was constructed and
+drywall was put up.
+
+What may seem as small projects to some meant a great deal to Young.
+
+"Losing a child changes your life completely. Nothing is the same anymore,"
+Young said. "If death and grief for someone that close to you does anything it
+makes you humble and grateful for the smallest things that you never thought
+would matter."
+
+The experience also revealed to Young the importance of place.
+
+"This house wasn't just a house; it was a sanctuary for me," Young said.
+
+She is now ready to start a new phase in her life, and she credits the USDA
+program with helping her to realize the dream that was born in Kansas.
+
+"This house gave me a safe place, first of all, but also a place to heal," Young
+said. "These mountains are to me a spiritual journey. I couldn't have been
+happier with the outcome."
+
+So happy, in fact, that she delights in telling others about the program and her
+experience with it.
+
+"I have recommended the program to others, especially women on a fixed incomes,
+who need the money but don't have it readily available," Young said. "This
+process gave me a focal point. How can you give up when there is an opportunity
+out there? It is all about focus and whether you feel as if you deserve it. We
+all deserve to have a good life. What else is there?"
+
+LOAD-DATE: August 25, 2015
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: Lisa Maue   Ruidoso News Patricia Young on her deck.
+
+PUBLICATION-TYPE: Newspaper
+
+
+            Copyright 2015 Ruidoso News, a MediaNews Group Newspaper
+                              All Rights Reserved
+
+
+                                4 of 9 DOCUMENTS
+
+
+                        Wyoming Tribune-Eagle (Cheyenne)
+
+                              April 5, 2015 Sunday
+
+4-5 Local briefs
+
+BYLINE: Staff
+
+SECTION: LOCAL NEWS; Briefs; Pg. 4-5 NEWS Local Briefs::2
+
+LENGTH: 1076 words
+
+
+bkm
+
+CHEYENNE
+
+Science standards review committee seeking members
+
+A call is going out to all Wyoming residents who are interested in serving on
+the 2015 Wyoming Science Standards Review Committee.
+
+The work of this committee will begin this summer with two to four days of
+meetings in June and possibly July. The science standards will outline what
+students should know and be able to do at the end of each grade level. Standards
+are concise, written descriptions that describe educational objectives. They do
+not describe any particular teaching practice, curriculum or assessment method.
+
+If you are interested in serving on this committee, complete the survey at
+http://goo.gl/forms/evtnR44brK. The survey will close at 11:45 p.m. Wednesday,
+April 22.
+
+Note that completing this survey does not commit you to anything at this time,
+nor does it sign you up to serve. You are simply expressing an interest in
+participating. Standards committee members will be chosen from the list of those
+interested and will be contacted directly through the email address they provide
+in the survey.
+
+For questions regarding the committee work or the survey, contact Laurie
+Hernandez at laurie.hernandez@wyo.gov or 777-3469.
+
+USDA offers housing repair and rehabilitation loans and grants
+
+The U.S. Department of Agriculture's Home Repair Housing program provides access
+to financing for very low-income homeowners who are unable to obtain credit
+elsewhere in need of repairs and home improvements to ensure health and safety
+or help maintain basic quality standards.
+
+A rural owner-occupied homeowner whose house needs repairs may be eligible for a
+loan or grant. Grants are only available to homeowners who are 62 or older to
+remove health and safety hazards, and cannot repay a home repair loan.
+
+Income and property eligibility guidelines have been established for each county
+in the state. To ensure your area and income is eligible, you can access the
+following website:
+http://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do.
+
+Very low-income families can receive up to $20,000 in loan funds, with repayment
+terms up to 20 years, depending on their income available to repay the loan. The
+interest rate is 1 percent. Grants of up to $7,500 (lifetime assistance) and
+loan/grant combinations are available to applicants who are 62 or older.
+
+Loans and grants cannot be used to assist in the construction of a dwelling or
+make repairs to a dwelling that is in such poor condition that, with completed
+repairs, the dwelling continues to be a major hazard to the safety and health of
+its occupants.
+
+For more information, visit http://www.rd.usda.gov/programs-services/
+single-family-housing-repair-loans-grants.
+
+DWS encourages unemployment information to file online
+
+The Wyoming Department of Workforce Services' Unemployment Insurance Division is
+encouraging individuals to file for unemployment insurance benefits online.
+
+Filing online is an option for those who want to avoid extended wait times
+associated with filing claims over the telephone.
+
+Claimants can file for benefits and print a copy of their claim summary for
+their records at the following site:
+https://doe.state.wy.us/InetClaims/.Unemployment insurance is a program to help
+workers who have lost their job through no fault of their own.
+
+For additional information about unemployment insurance benefits, review the
+Wyoming claimant guidebook online at wyomingworkforce.org or call 473-3789.
+
+Wyoming scores high for timeliness of election information
+
+Wyoming ranks among the top states in the nation for the quality and timeliness
+of election information given to candidates for public office, according to a
+recently released study of state election offices.
+
+The Election Division of the Wyoming Secretary of State's Office scored high
+marks for answering candidates' questions in a timely manner and providing them
+with accurate and complete information, according to
+
+Ballotpedia
+
+, a nonpartisan organization that provides information to the public on politics
+and elections.
+
+"We are pleased that this study affirms one of our core values which is to
+provide quality customer service," said Secretary of State Ed Murray in a
+statement. "The conduct of elections is one of the most important functions of
+the Secretary of State's Office and ensuring that candidates have timely and
+accurate information is one of the keys to a successful election."
+
+According to the
+
+Ballotpedia
+
+study, "Candidates with highly accessible election agencies can find a number of
+resources to help them through this process, while candidates whose states are
+on the other end of the spectrum may need to stumble through the process on
+their own."
+
+To conduct the study,
+
+Ballotpedia
+
+sent emails to state election offices posing as candidates.
+
+Wyoming received the top score for providing a detailed response within 24
+hours.
+
+Ballotpedia
+
+also examined the websites of state election offices, evaluating the content and
+ease of access of information to candidates.
+
+Local veterans encouraged to attend "Town Hall" meeting
+
+Veterans, their families and survivors are invited to participate in a U.S.
+Department of Veterans Affairs town hall discussion to hear the latest on VA
+benefit programs and provide their own feedback on benefits and services
+provided by VA.
+
+The Cheyenne Veterans Service Center is inviting public participation in the
+town hall that will be held from 5 to 7 p.m. Thursday the Ambulatory Care
+Waiting Room of the Cheyenne Veteran Affairs Medical Center, which is located at
+2360 E. Pershing Blvd.
+
+The meeting is open to all members of the public, including Congressional
+stakeholders, veterans service organizations, state and local governmental and
+non-governmental organizations and community partners.
+
+The town hall is one of many being held around the country.
+
+New VA Secretary Robert McDonald announced the town hall meetings to improve
+communications with veterans, improve the delivery of VA benefits and services
+and rebuilding trust among all those that the VA serves.
+
+Claims representatives will be available to provide one-on-one counseling on
+benefits.
+
+VA representatives will also be available to assist Veterans in enrolling in
+
+eBenefits
+
+, which is a VA and Department of Defense website with over 55 self-service
+options.
+
+VA welcomes frank and open discussion of veterans' concerns in all VA program
+areas. Following the town hall, regional office officials will brief VA's
+leaders on the input received and suggestions for improvements.
+
+LOAD-DATE: April 5, 2015
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Newspaper
+
+
+                    Copyright 2015 Cheyenne Newspapers, Inc.
+                              All Rights Reserved
+
+
+                                5 of 9 DOCUMENTS
+
+
+                The Citizens' Voice (Wilkes-Barre, Pennsylvania)
+
+                     Distributed by Tribune Content Agency
+
+                             March 13, 2016 Sunday
+
+Business Buzz, March 13, 2016
+
+BYLINE: Autumn Granza, The Citizens' Voice, Wilkes-Barre, Pa.
+
+SECTION: BUSINESS AND FINANCIAL NEWS
+
+LENGTH: 1079 words
+
+
+March 13--Utility makes donation
+
+Pennsylvania American Water presented a Firefighting Support Grant to the
+Kingston Fire Department. The $850 donation is to purchase new portable radios.
+Firefighting support grants are intended to provide financial assistance to fire
+and emergency organizations service communities in the company's service area.
+
+Salon opens: Alexlar Salon, located at 126 Laurel St., Suite No. 3, Pittston,
+held its grand opening. The salon offers a wide range of services including
+cuts, color, permanents, smoothing and recovery treatments, as well as facial
+waxing. Owner, Lisa Borthwick, has more than 16 years of professional
+experience. Appointments may be made by calling 570-569-2793; walk-ins are
+welcome.
+
+New chamber members: The Greater Wilkes-Barre Chamber of Commerce welcomes new
+members, including Casey Dental, Pittston Twp.; the Game Chateau Board Game
+Cafe, 315 Strip, Plains Twp.; JLA & Associates, Mountain Top; the Passion
+Lounge, Wilkes-Barre; Reliable Telecom Supply Inc., Dallas; Coordinated Health,
+regional; Edwardsville Borough, Edwardsville; First Home Care, Regional; Jordan
+Essentials, Exeter; Member Business Financial Services Inc., regional; TimedWin
+Marketing & Media, Tunkhannock; Value Place Wilkes-Barre, Wilkes-Barre; Weber
+Gallagher Law, Scranton; and Woodforest National Bank, Pittston Twp.
+
+Bank makes donation: Community Bank NA made a $12,500 donation to Wyoming
+Seminary in support of its scholarship funds through the Educational Improvement
+Tax Credit Program. Also, the bank made a $10,000 gift to the school in support
+of the Pennsylvania Opportunity Scholarship Tax Credit Program. Funds received
+through the Opportunity Scholarship Program will be used to provide tuition
+assistance in the form of scholarships to eligible students residing within the
+boundaries of a low-achieving school.
+
+Law firm recognized: The American Institute of Personal Injury Attorneys
+recognized the performance of McDonald & McGregor LLC as 2015 10 Best Personal
+Injury Law Firm for Client Satisfaction. The American Institute of Personal
+Injury Attorneys is a third-party attorney rating organization that publishes an
+annual list of the top 10 personal injury attorneys in each state. Attorneys who
+are selected to the "10 Best" list must pass the selection process, which is
+based on client and/or peer nominations, thorough research and AIOPIA's
+independent evaluation.
+
+Commercial franchise opens: RE/MAX Commercial Partners, Stroudsburg, is the only
+100 percent Commercial RE/MAX Real Estate firm in Northeast Pennsylvania. It
+will serve Carbon, Monroe, Pike, Northampton, Lehigh, Luzerne, Lackawanna and
+Wayne counties.
+
+Restaurant helps local charities: Three local charities have joined forces with
+three Jersey Mike's Subs locations for the 6th annual March "Month of Giving"
+fundraising campaign. During the month of March, customers can make donations to
+St. Vincent de Paul Soup Kitchen, Jersey Mike's in Wilkes-Barre; Shepherd's
+Maternity House, Jersey Mike's in Bartonsville; and St. Francis of Assisi
+Kitchen, Jersey Mike's in Dickson City. The campaign will culminate in Jersey
+Mike's "Day of Giving" on Wednesday, March 30, when local Jersey Mike's
+restaurants will donate 100 percent of the day's sales.
+
+Chamber seeking businesses: The Greater Hazleton Chamber of Commerce women's
+networking committee is seeking businesses to display their wares in its 10th
+annual Ladies Night Out. The event, sponsored by Le-high Valley Hospital
+Hazleton, will take place on Wednesday, April 6, from 5:30 to 8 p.m. at
+Theodora's Restaurant in Drums. For more information or to secure a space for
+the event, call 570-455-1509 or lfallabel@hazletonchamber.org RSVP at the event
+link on the chamber calendar, www.hazletonchamber.org.
+
+Hospitals recognized: Highmark announced select hospitals in Pennsylvania have
+earned the Blue Distinction Center or Blue Distinction Center designation in the
+categories of cardiac care and maternity care. Blue Distinction Centers are
+nationally designated health care facilities, which are shown to deliver
+improved patient safety and better health outcomes. Hospitals currently
+designated include: Berwick Hospital Center (Blue Distinction Center, maternity
+care); Geisinger Community Medical Center (Blue Distinction Center, cardiac
+care); Geisinger Wyoming Valley Medical Center (Blue Distinction Center,
+maternity care; Blue Distinction Center, cardiac care); Moses Taylor Hospital
+(Blue Distinction Center, maternity care); Wilkes-Barre General Hospital (Blue
+Distinction Center, maternity care).
+
+Bar Association receives award: The Pennsylvania Bar Association presented a
+County Bar Recognition award to the Lackawanna Bar Association during the 50th
+annual seminar of the Conference of County Bar Leaders. Recognized for its 125th
+anniversary celebration, the Lackawanna Bar Association is one of 24 local bar
+associations in Pennsylvania honored this year for sponsoring projects that
+improve the legal profession, justice system or community.
+
+Bank donates to cancer institute: Peoples Security Bank and Trust Co. donated
+$5,000 to the Northeast Regional Cancer Institute in support of its 25th
+anniversary celebration. The donation will assist the cancer institute with
+providing services and support to those afflicted with cancer, and also with
+hosting awareness events throughout the year.
+
+University hosts conference: The Misericordia University chapter of the American
+Association of University Professors and Misericordia University hosted the
+inaugural Pennsylvania AAUP Alliance Conference, "Best Practices in Higher
+Education: Grounding Priorities in the Common Good," in February. The conference
+was sponsored by the Northeast Pennsylvania AAUP Alliance.
+
+Bank donates to school: The Wyoming Valley Montessori School in Kingston
+received an earned income tax credit contribution in the amount of $10,000 from
+Fidelity Deposit and Discount Bank.
+
+Funding for home repairs: Homeowners in rural areas who need repairs to their
+homes but can't afford regular loans may be eligible for participation in USDA
+Rural Development's Single Family Housing Repair Loans & Grants Program. For
+more information, call 717-237-2266.
+
+SUBMIT BUSINESS BUZZ items to business@times-shamrock.com or The Times- Tribune,
+149 Penn Ave., Scranton, PA 18503
+
+___ (c)2016 The Citizens' Voice (Wilkes-Barre, Pa.) Visit The Citizens' Voice
+(Wilkes-Barre, Pa.) at citizensvoice.com Distributed by Tribune Content Agency,
+LLC.
+
+LOAD-DATE: April 13, 2016
+
+LANGUAGE: ENGLISH
+
+ACC-NO: 20160313-YC-Business-Buzz-March-13-2016-0313-20160313
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: YC
+
+
+                       Copyright 2016 The Citizens' Voice
+
+
+                                6 of 9 DOCUMENTS
+
+
+                    The Laurinburg Exchange (North Carolina)
+
+                     Distributed by Tribune Content Agency
+
+                           February 21, 2017 Tuesday
+
+Housing money available to Scotland residents
+
+BYLINE: The Laurinburg Exchange, N.C.
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 274 words
+
+
+Feb. 21--LUMBERTON -- The U.S. Department of Agriculture Rural Development
+announced this morning that federal funding is still available through its
+Single Family Housing Direct Loan program for eligible low-income residents in
+Scotland County who wish to purchase or build a home.
+
+No down payment is required.
+
+"The Single Family Housing Direct Loan program helps improve quality of life in
+rural North Carolina serving low-income families, the elderly, and persons with
+disabilities," said Mel Ellis, acting state director.
+
+The Single Family Housing Direct program is open to people in Scotland, Robeson,
+Bladen, Cumberland, Hoke, and Sampson counties. It offers 100 percent, fixed
+rate financing with a 33-year term.
+
+Many loans also qualify for payment assistance (subsidy), which can drop the
+effective loan rate to as low, as one percent, often resulting in a monthly
+payment lower than the average rent expense for a borrower. Applicants must have
+a stable source of income, an acceptable credit history and be able to
+demonstrate repayment ability.
+
+USDA also offers a Single Family Housing Repair Loan and Grant program to
+eligible, very-low income owners who need to repair their existing home. This is
+a one-percent fixed rate loan with a maximum term of 20 years. The grant program
+can help elderly (62 or older), very-low income homeowners offset the cost of
+removing health and safety hazards.
+
+For information contact the Lumberton office at 910-739-3349 Ext. 4.
+
+___ (c)2017 The Laurinburg Exchange (Laurinburg, N.C.) Visit The Laurinburg
+Exchange (Laurinburg, N.C.) at www.laurinburgexchange.com Distributed by Tribune
+Content Agency, LLC.
+
+LOAD-DATE: February 22, 2017
+
+LANGUAGE: ENGLISH
+
+ACC-NO: 20170221-1LX-Housing-money-available-to-Scotland-residents-0221-20170221
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: 1LX
+
+
+                     Copyright 2017 The Laurinburg Exchange
+
+
+                                7 of 9 DOCUMENTS
+
+
+                    The Evening Sun (Hanover, Pennsylvania)
+
+                            March 24, 2016 Thursday
+                                   1 Edition
+
+York and Adams
+
+SECTION: FEATURES; Pg. A15
+
+LENGTH: 777 words
+
+
+No bus service on Easter
+
+Rabbittransit will not operate any service on Sunday, March 27, in observance of
+Easter. For more information, call customer service at 1-800-632-9063 or visit
+www.rabbittransit.org.
+
+Hanover
+
+Register now for Trinity preschool
+
+Trinity Nursery School, 116 York St., Hanover, is accepting registrations for
+the 2016-2017 school year.
+
+Classes are filled on a first come-first served basis. Space is available in
+these classes:
+
+2-year-olds: 8:30-10 a.m. or 10:30 a.m.-12 p.m. Monday and Wednesday.
+
+3-year-olds: 12:30-2:30 p.m. Tuesday and Thursday.
+
+4-year-olds: 12:15-2:45 p.m. Tuesday and Thursday; and 12:45-3:15 p.m. Monday,
+Wednesday and Friday.
+
+5-year-olds (pre-K): 12:15-2:45 p.m. Monday, Wednesday and Friday.
+
+The nursery school is staffed by qualified teachers and a parent helper is
+assigned each day.
+
+Registration packets can be picked up at the church office. For information,
+call 637-2126 or email trinitynurseryhanover@gmail.com
+
+New Oxford
+
+Vendors wanted for antique show
+
+The New Oxford Area Chamber of Commerce is seeking vendors of quality antiques
+and handmade crafts for the 60th Annual Antique Market and Craft Show, 8 a.m.-4
+p.m. June 18. Visit www.newoxford.org for information.
+
+Adams County
+
+Young Conservatives sponsor essay contest
+
+The Adams County Young Conservatives group is sponsoring an essay contest in two
+age groups, ages 14-18 and ages 19-21.
+
+Choose one of two topics: Is the nomination process of selecting delegates who
+vote at a nominating convention still relevant today? Why or why not?; or What
+is one thing you would change about either major political party, and why.
+
+Essays should be 400 to 700 words, typed and double spaced. Prizes of $50 gift
+cards will be awarded for the top entry in each age group. Submit essays by
+April 25 to eah7274@embarqmail.com, or by mail to Zach Brillhart/Essay Contest,
+P.O. Box 3415, Gettysburg, PA 17325. For details, call 717-451-3309.
+
+Thurmont, Md.
+
+Apply now for Youth Conservation Corp job
+
+The National Park Service is accepting applications for the 2016 Youth
+Conservation Corps (YCC) program at Catoctin Mountain Park, 6602 Foxville Road,
+Thurmont, Md.
+
+The program runs June 27 to Aug. 19 for ages 15 to 18. Duties will include
+monitoring of rare plant populations, gypsy moth monitoring, exotic plant
+control and removal, trail maintenance and construction, and painting projects.
+Pay is $8.75 per hour.
+
+Applications may be obtained from local high school guidance counselors or by
+contacting Becky Loncosky at 301-416-0536, Becky_loncosky@nps.gov or in person
+at the park. Application deadline is April 15.
+
+Fairfield
+
+Register kindergarten students
+
+Registration and screening at Fairfield Area Elementary School, 4840 Fairfield
+Road, will be 8:30-11:30 a.m. and 1:30-3:30 p.m. March 31 in the school library.
+
+Call 717-642-2016 for an appointment. Parents must accompany their student and
+should bring their child's birth certificate, immunization records, proof of
+residency and legal custody order if applicable. Child must be age 5 before
+Sept. 1.
+
+Pick up a registration packet prior to March 31 in the elementary office or a
+print the packet from www.fairfieldpaschools.org.
+
+York County
+
+Volunteers needed to sew
+
+Aseracare Hospice is seeking volunteers with sewing skills to make Memory
+Pillows for families that have lost a loved one.
+
+Volunteers will create a pillow from an article of clothing chosen by the
+family. The Aseracare Hospice provides holistic care and end-of-life support for
+patients with a terminal illness and their families. For information or to
+volunteer, contact Carol Shull at 717-845-8599.
+
+Statewide
+
+Loans available to rural homeowners
+
+Homeowners in rural areas who need repairs to their homes but can't afford
+regular loans may be eligible for participation in USDA Rural Development's
+Single Family Housing Repair Loans & Grants Program.
+
+The program, also known as the Section 504 Home Repair Program, aims to provide
+loans for very low-income homeowners to repair, improve or modernize their
+homes. A 504 loan can reach a maximum of $20,000 at a fixed interest rate of 1
+percent. The 504 Program also provides grants, which can be worth a maximum of
+$7,500 and may only be issued to eligible seniors aged 62 and older, and may
+only be used for the removal of health and safety hazards.
+
+Applications are taken year-round. For information call 717-237-2266 or visit
+http://www.rd.usda.gov/pa.
+
+Submit your news
+
+Share your news with The Evening Sun by emailing it to news@eveningsun.com Be
+sure to include the event name, venue, address, time and date, admission cost
+and a phone number or website for more information. Submit news at least two
+weeks before your upcoming event.
+
+LOAD-DATE: March 24, 2016
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: hes
+
+
+                         Copyright 2016 The Evening Sun
+                              All Rights Reserved
+
+
+                                8 of 9 DOCUMENTS
+
+
+                       The Anson Record, Wadesboro, N.C.
+
+                     Distributed by Tribune Content Agency
+
+                            June 17, 2015 Wednesday
+
+Manufactured home business offers resources to low-income families
+
+BYLINE: Abby Cavenaugh, The Anson Record, Wadesboro, N.C.
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 460 words
+
+
+June 17--Davis Family Homes, a manufactured and modular home dealer located in
+Peachland, has begun to offer valuable resources to low-income families looking
+to purchase their first home.
+
+Salesperson Robin Davis said that since the business opened about a year ago,
+the number of people coming in who qualify for low-income assistance has been
+staggering. "I have learned that there's a big need for low-income families to
+get some help," she said.
+
+So she contacted the USDA to set up some programs to help low-income families be
+able to purchase homes. "I believe we've spoken to 400 people about it in the
+past year," she said. "We were probably three to four months into the business
+in Anson County when we realized we had a lot of people coming in who needed
+assistance."
+
+Davis said that many families who visit the modular and manufactured home center
+have no idea how to get started in the home buying process. "We've seen so many
+people that have walked away, and have gone to banks, we think, and never came
+back because they didn't hear good news."
+
+Through the USDA's Rural Development and Rural Housing Service, Davis Family
+Homes offers three specific programs to help low-income families realize their
+dream of owning a home: Single Family Housing Repair Loans & Grants, Rural Home
+Loans (Direct Program) and Single Family Home Loan Guarantees.
+
+Applicants must meet income guidelines in order to qualify for the programs, and
+must live in an eligible rural area. The paperwork and application process can
+be confusing and daunting, Davis said, so she and the rest of the staff at Davis
+Family Homes, often offer to help families in need.
+
+"I would encourage everyone to go to the USDA website and look at some of the
+information," she said. "But then a lot of people in these rural areas don't
+have access to the Internet."
+
+She encourages those who might be interested to call Davis Family Homes at
+704-272-7327. Business hours are Monday through Friday, 9 a.m. to 7 p.m., and
+Saturday, 9 a.m. to 5 p.m. but other hours are available by appointment.
+
+"They walk in a bit intimidated, but always leave with smiles and hugs," Davis
+said.
+
+She added that she's also looking into other programs, such as partnering with
+local organizations to provide classes for potential homeowners.
+
+Arthur Davis, the 96-year-old patriarch of Davis Family Homes, is very
+passionate about the housing business. "He's been doing this for a long time,"
+Davis said. "He -- and I -- feel that everyone deserves to live in a decent
+home."
+
+Editor Abby Cavenaugh may be reached at 704-694-2161, ext. 2301 or on Twitter
+@TheAnsonRecord.
+
+___ (c)2015 The Anson Record (Wadesboro, N.C.) Visit The Anson Record
+(Wadesboro, N.C.) at www.ansonrecord.com Distributed by Tribune Content Agency,
+LLC.
+
+LOAD-DATE: June 18, 2015
+
+LANGUAGE: ENGLISH
+
+ACC-NO:
+20150617-1AN-Manufactured-home-business-offers-resources-to-low-income-families-
+0617-20150617
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: 1AN
+
+
+                Copyright 2015 The Anson Record, Wadesboro, N.C.
+
+
+                                9 of 9 DOCUMENTS
+
+
+                       Gainesville Daily Register (Texas)
+
+                     Distributed by Tribune Content Agency
+
+                              July 7, 2015 Tuesday
+
+Area residents come together for community cleanup
+
+BYLINE: Cathy Mounce, Gainesville Daily Register, Texas
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 656 words
+
+
+July 07--Registration deadlines for aid are fast approaching for Cooke County
+residents impacted by the recent flooding conditions.
+
+According to Angie Hare, executive Cooke County United Way director, two phone
+calls must be made to qualify for assistance.
+
+"First call FEMA at 1-800-621-3362," Hare said. "Beginning in July FEMA will
+have an office open in the Cooke County Annex Building, on site July 11 and July
+13-18 from 10 a.m. to 7 p.m. Deadline to apply is July 28."
+
+Hare also said recovery victims must call the Cooke County Voluntary
+Organizations Active in Disaster (VOAD)-Long Term Disaster Recovery Committee
+(VOAD) at 940-665-1793.
+
+"By calling both numbers, you will be placed in touch with resources to assist
+you in flood recovery or debris removal," Hare said. "In fact, we have youth
+groups on hand this week assisting with flood cleanup for many of our citizens
+who have signed up. It is part of the 'Day of Caring' event that was postponed
+due to the May weather."
+
+"To have debris removed, you must have a voucher," Hare said. "Contact the VOAD
+number by July 31 receive a voucher for cleanup assistance and debris removal."
+
+On Tuesday, Reverend Scott Sundbye of Faith Lutheran Church organized a cleanup
+at the home of Eugenio Romero off FM371.
+
+"We had a great group of kids from four area churches," Sundbye said.
+"Gainesville's Faith Lutheran, Whitesboro First Baptist, St. Peters Catholic
+Church from Lindsay and Central Baptist of Whitesboro."
+
+"The kids worked hard to clean up a pile of debris," he said. "Following lunch,
+the kids will visit Pecan Tree Health Care Center to visit with residents there
+then off to swimming at Lake Kiowa this afternoon."
+
+Participants in today's "Day of Caring" cleanup include Dane Sundbye, Mollie
+Lucas, Tyler Maddox, Brooke La Rue, Payton Duke, Kaitlyn Brock, Tristan Brock,
+Sarah Turner, Trinity Holman, Jocelyn Grewing and Mia Burrows.
+
+Other groups coming in for the 'Day of Caring' week include the United Methodist
+Army of North Texas consisting of over 100 kids, and the First United Methodist
+Church out of Allen.  Whaley Methodist is providing room and board for the
+groups while in the area.
+
+"These kids will be doing community projects, building ramps for wheel chair
+bound individuals, working at the Valley View Clothes Closet, and helping with
+yard cleanup." Hare said.
+
+Hare said the United Way office is a great source for information regarding
+assistance and deadlines for registration.
+
+Small Business Administration (SBA) loans and renters disaster assistance
+deadlines are July 28.
+
+Hare said many farmers and ranchers are able to access programs with varying
+deadlines.
+
+These include the Texas State STAR fund for farmers and ranchers with a deadline
+July 28.
+
+Also available is assistance through the United States Department of Agriculture
+including: Emergency loan assistance; non-insured crop disaster assistance;
+livestock indemnity program; tree assistance program; emergency assistance for
+livestock, honeybees and farm-raised fish programs; emergency loan programs;
+emergency conservation program; hay assistance; single family housing repair
+loans; and grants (section 504 Home Repair program); and rural home loans
+(section 502 loan program)
+
+Those incurring loss of job or business due to the weather-related event must
+contact the Texas Workforce Commission DUA by a July 17 deadline.
+
+Veterans are urged to contact Sharon Flinn with the Texoma Council of
+Governments at 903 813 3596.
+
+Individuals and business 90 day tax return extensions can be available. Also aid
+is available through the National Disaster Legal Aid, Lone Star legal aid and
+individuals can file complaints for insurance coverage.
+
+For more information, contact the Cooke County VOAD office at 940-665-1793.
+
+___ (c)2015 the Gainesville Daily Register (Gainesville, Texas) Visit the
+Gainesville Daily Register (Gainesville, Texas) at www.gainesvilleregister.com
+Distributed by Tribune Content Agency, LLC.
+
+LOAD-DATE: July 14, 2015
+
+LANGUAGE: ENGLISH
+
+ACC-NO:
+20150707-XG-Area-residents-come-together-for-community-cleanup-0707-20150707
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: XG
+
+
+                   Copyright 2015 Gainesville Daily Register

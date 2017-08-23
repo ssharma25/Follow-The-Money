@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Make R/S-Plus identifiers into quoted PostgreSQL identifiers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for make.db.names-methods {RPostgreSQL}"><tr><td>make.db.names-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Make R/S-Plus identifiers into quoted PostgreSQL identifiers
+</h2>
+
+<h3>Description</h3>
+
+<p>Calls postgresqlquoteId to make valid quoted identifiers.
+This has calling convention same as the make.db.names for compatibility.
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>dbObj</dt><dd>
+<p>any PostgreSQL object (e.g., <code>PostgreSQLDriver</code>). Just ignored.
+</p>
+</dd>
+<dt>snames</dt><dd>
+<p>a character vector of R/S-Plus identifiers (symbols) from which
+we need to make SQL identifiers.
+</p>
+</dd>
+<dt>name</dt><dd>
+<p>a character vector of SQL identifiers we want to check against
+keywords from the DBMS. Ignored.
+</p>
+</dd>
+<dt>unique</dt><dd>
+<p>logical describing whether the resulting set of SQL names should
+be unique.  Its default is <code>TRUE</code>.  Following the SQL 92
+standard, uniqueness of SQL identifiers is determined regardless
+of whether letters are upper or lower case. Ignored.
+</p>
+</dd>
+<dt>allow.keywords </dt><dd>
+<p>logical describing whether SQL keywords should be allowed in the
+resulting set of SQL names.  Its default is <code>TRUE</code>. Ignored.
+</p>
+</dd>
+<dt>keywords</dt><dd>
+<p>a character vector with SQL keywords, by default it is
+<code>.PostgreSQLKeywords</code> define in <code>RPostgreSQL</code>. This may
+be overriden by users. Ignored.
+</p>
+</dd>
+<dt>case</dt><dd>
+<p>a character string specifying whether to make the comparison
+as lower case, upper case, or any of the two.
+it defaults to <code>any</code>. Ignored.
+</p>
+</dd>
+<dt>...</dt><dd><p>currently not used.</p>
+</dd>
+</dl>
+
+
+
+<h3>References</h3>
+
+<p>The set of SQL keywords is stored in the character vector
+<code>.SQL92Keywords</code> and reflects the SQL ANSI/ISO standard as
+documented in &quot;X/Open SQL and RDA&quot;, 1994, ISBN 1-872630-68-8.
+Users can easily override or update this vector.
+</p>
+<p>PostgreSQL does add some keywords to the SQL 92 standard, they are
+listed in the <code>.PostgreSQLKeywords</code> object.
+</p>
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>,
+<code><a href="../../DBI/html/dbReadTable.html">dbReadTable</a></code>,
+<code><a href="../../DBI/html/dbWriteTable.html">dbWriteTable</a></code>,
+<code><a href="../../DBI/html/dbExistsTable.html">dbExistsTable</a></code>,
+<code><a href="../../DBI/html/dbRemoveTable.html">dbRemoveTable</a></code>,
+<code><a href="../../DBI/html/dbListTables.html">dbListTables</a></code>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+# This example shows how we could export a bunch of data.frames
+# into tables on a remote database.
+
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

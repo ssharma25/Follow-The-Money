@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: DBMS Transaction Management</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for dbCommit-methods {RPostgreSQL}"><tr><td>dbCommit-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+DBMS Transaction Management
+</h2>
+
+<h3>Description</h3>
+
+<p>Commits or roll backs the current transaction 
+in an PostgreSQL connection.
+<code>dbCommit</code> and <code>dbRollback</code> commit and rollback the
+transaction, respectively.
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>conn</dt><dd><p>a <code>PostgreSQLConnection</code> object, as produced by the function
+<code>dbConnect</code>.</p>
+</dd>
+<dt>... </dt><dd><p>currently unused.</p>
+</dd>
+</dl>
+
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or
+<a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>,
+<code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>,
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>,
+<code><a href="../../DBI/html/dbGetQuery.html">dbGetQuery</a></code>,
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>,
+<code><a href="../../DBI/html/dbCommit.html">dbCommit</a></code>,
+<code><a href="../../DBI/html/dbGetInfo.html">dbGetInfo</a></code>,
+<code><a href="../../DBI/html/dbReadTable.html">dbReadTable</a></code>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+drv &lt;- dbDriver("PostgreSQL")
+con &lt;- dbConnect(drv, dbname="postgres")
+dbGetQuery(con, "select count(*) from sales")
+
+dbGetQuery(con, "BEGIN TRANSACTION")
+rs &lt;- dbSendQuery(con, 
+      "Delete * from sales as p where p.cost&gt;10")
+if(dbGetInfo(rs, what = "rowsAffected") &gt; 250){
+  warning("Rolling back transaction")
+  dbRollback(con)
+}else{
+  dbCommit(con)
+}
+
+dbGetQuery(con, "select count(*) from sales")
+dbDisconnect(con)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

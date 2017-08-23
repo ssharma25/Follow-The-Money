@@ -1,0 +1,54 @@
+{% extends "home.html" %}
+
+{% block head %}
+{% endblock %}
+
+{% block content %}
+<!-- <img src="Duke_Energy_logo.svg.png" alt="Duke_Energy_Logo" 
+    style="width:128px;height:128px;"> -->
+ 
+ <style>
+     
+     body {
+         
+         background-image: url({{ url_for('static', filename='image/FT.jpg') }});
+         background-repeat: no-repeat;
+         background-size: 100vw 100vh;
+         
+     }
+  </style> 
+
+
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<h1><center>Welcome to FollowTheMoney UI</center></h1>
+ 
+<br>
+
+<style type="text/css">
+.roundrect {
+border-radius: 200px;
+}
+
+</style>
+
+<center>
+<a href="{{ url_for('main') }}">
+<img class="roundrect" src="{{url_for('static', filename='image/images.jpg')}}" />
+</a>
+</center>
+
+{% endblock %}

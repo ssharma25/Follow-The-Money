@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Create a connection object to an PostgreSQL DBMS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for dbConnect-methods {RPostgreSQL}"><tr><td>dbConnect-methods {RPostgreSQL}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>
+Create a connection object to an PostgreSQL DBMS
+</h2>
+
+<h3>Description</h3>
+
+<p>These methods are straight-forward implementations of the corresponding
+generic functions.
+</p>
+
+
+<h3>Methods</h3>
+
+
+<dl>
+<dt>drv</dt><dd>
+<p>an object of class <code>PostgreSQLDriver</code>, or
+the character string &quot;PostgreSQL&quot; or an <code>PostgreSQLConnection</code>.
+</p>
+</dd>
+<dt>conn</dt><dd>
+<p>an <code>PostgreSQLConnection</code> object as produced by <code>dbConnect</code>.
+</p>
+</dd>
+<dt>host</dt><dd><p>Name or the numeric IPaddress of the host to connect to. If address is specified, it should be in the standard IPv4 address format, e.g., 172.28.40.9 or if your machine supports IPv6, you can also use those addresses. The default is to connect to localhost.
+</p>
+</dd>
+<dt>dbname</dt><dd><p>The database name. Defaults to 'template1' i.e if this argument is not specified, it is taken as dbname=&quot;template1&quot;.
+</p>
+</dd>
+<dt>user</dt><dd><p>PostgreSQL user name to connect as. Defaults to be the same as the operating system name of the user running the application.
+</p>
+</dd>
+<dt>password</dt><dd><p>Password to be used if the server demands password authentication.
+</p>
+</dd>
+<dt>port</dt><dd><p>Port number to connect to at the server host, or socket file name extension for Unix-domain connections.
+</p>
+</dd>
+<dt>tty</dt><dd><p>Ignored (formerly, this specified where to send server debug output).
+</p>
+</dd>
+<dt>options</dt><dd><p>Command-line options to be sent to the server
+</p>
+</dd>
+<dt>forceISOdate</dt><dd><p>logical if the communication of date (time stamp) from PostgreSQL is forced to ISO style at conection.
+</p>
+</dd>
+</dl>
+
+
+
+<h3>Side Effects</h3>
+
+<p>A connection between R/S-Plus and an PostgreSQL  server is
+established.   The current implementation supports up to
+100 simultaneous connections.
+</p>
+
+
+<h3>References</h3>
+
+<p>See the Database Interface definition document
+<code>DBI.pdf</code> in the base directory of this package
+or <a href="http://stat.bell-labs.com/RS-DBI">http://stat.bell-labs.com/RS-DBI</a>.
+</p>
+
+
+<h3>See Also</h3>
+
+<p><code><a href="PostgreSQL.html">PostgreSQL</a></code>,
+<code><a href="../../DBI/html/dbConnect.html">dbConnect</a></code>,
+<code><a href="../../DBI/html/dbSendQuery.html">dbSendQuery</a></code>,
+<code><a href="../../DBI/html/dbGetQuery.html">dbGetQuery</a></code>,
+<code><a href="../../DBI/html/fetch.html">fetch</a></code>,
+<code><a href="../../DBI/html/dbCommit.html">dbCommit</a></code>,
+<code><a href="../../DBI/html/dbGetInfo.html">dbGetInfo</a></code>,
+<code><a href="../../DBI/html/dbReadTable.html">dbReadTable</a></code>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>## Not run: 
+# create an PostgreSQL instance and create one connection.
+drv &lt;- dbDriver("PostgreSQL")
+
+# open the connection using user, passsword, etc., as
+con &lt;- dbConnect(drv, dbname = "postgres")
+
+df &lt;- dbGetQuery(con, statement = paste(
+                      "SELECT itemCode, itemCost, itemProfit",
+                      "FROM sales",
+                      "SORT BY itemName"));
+# Run an SQL statement by creating first a resultSet object
+rs &lt;- dbSendQuery(con, statement = paste(
+                      "SELECT itemCode, itemCost, itemProfit",
+                      "FROM sales",
+                      "SORT BY itemName"));
+
+# we now fetch records from the resultSet into a data.frame
+df &lt;- fetch(rs, n = -1)   # extract all rows
+dim(df)
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>RPostgreSQL</em> version 0.4-1 <a href="00Index.html">Index</a>]</div>
+</body></html>

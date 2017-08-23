@@ -1,0 +1,657 @@
+State/Territory,Primary County,St/Co FIPS Code
+Alabama,Autauga,1001
+Alabama,Baldwin,1003
+Alabama,Barbour,1005
+Alabama,Bibb,1007
+Alabama,Blount,1009
+Alabama,Bullock,1011
+Alabama,Butler,1013
+Alabama,Calhoun,1015
+Alabama,Chambers,1017
+Alabama,Cherokee,1019
+Alabama,Chilton,1021
+Alabama,Choctaw,1023
+Alabama,Clarke,1025
+Alabama,Clay,1027
+Alabama,Cleburne,1029
+Alabama,Coffee,1031
+Alabama,Colbert,1033
+Alabama,Conecuh,1035
+Alabama,Coosa,1037
+Alabama,Covington,1039
+Alabama,Crenshaw,1041
+Alabama,Cullman,1043
+Alabama,Dale,1045
+Alabama,Dallas,1047
+Alabama,DeKalb,1049
+Alabama,Elmore,1051
+Alabama,Escambia,1053
+Alabama,Etowah,1055
+Alabama,Fayette,1057
+Alabama,Franklin,1059
+Alabama,Geneva,1061
+Alabama,Greene,1063
+Alabama,Hale,1065
+Alabama,Henry,1067
+Alabama,Houston,1069
+Alabama,Jackson,1071
+Alabama,Jefferson,1073
+Alabama,Lamar,1075
+Alabama,Lauderdale,1077
+Alabama,Lawrence,1079
+Alabama,Lee,1081
+Alabama,Limestone,1083
+Alabama,Lowndes,1085
+Alabama,Macon,1087
+Alabama,Madison,1089
+Alabama,Marengo,1091
+Alabama,Marion,1093
+Alabama,Marshall,1095
+Alabama,Mobile,1097
+Alabama,Monroe,1099
+Alabama,Montgomery,1101
+Alabama,Morgan,1103
+Alabama,Perry,1105
+Alabama,Pickens,1107
+Alabama,Pike,1109
+Alabama,Randolph,1111
+Alabama,Russell,1113
+Alabama,Shelby,1117
+Alabama,St. Clair,1115
+Alabama,Sumter,1119
+Alabama,Talladega,1121
+Alabama,Tallapoosa,1123
+Alabama,Tuscaloosa,1125
+Alabama,Walker,1127
+Alabama,Washington,1129
+Alabama,Wilcox,1131
+Alabama,Winston,1133
+Arkansas,Ashley,5003
+Arkansas,Chicot,5017
+Arkansas,Crawford,5033
+Arkansas,Franklin,5047
+Arkansas,Johnson,5071
+Arkansas,Little River,5081
+Arkansas,Logan,5083
+Arkansas,Madison,5087
+Arkansas,Miller,5091
+Arkansas,Newton,5101
+Arkansas,Scott,5127
+Arkansas,Sebastian,5131
+Arkansas,Washington,5143
+California,Calaveras,6009
+California,Fresno,6019
+California,Inyo,6027
+California,Kern,6029
+California,Kings,6031
+California,Los Angeles,6037
+California,Madera,6039
+California,Mariposa,6043
+California,Merced,6047
+California,Mono,6051
+California,Monterey,6053
+California,Orange,6059
+California,Riverside,6065
+California,San Benito,6069
+California,San Bernardino,6071
+California,San Diego,6073
+California,San Joaquin,6077
+California,San Luis Obispo,6079
+California,Santa Barbara,6083
+California,Santa Clara,6085
+California,Stanislaus,6099
+California,Tulare,6107
+California,Tuolumne,6109
+California,Ventura,6111
+Colorado,Baca,8009
+Colorado,Elbert,8039
+Colorado,Lincoln,8073
+Colorado,Weld,8123
+Florida,Bay,12005
+Florida,Escambia,12033
+Florida,Holmes,12059
+Florida,Jackson,12063
+Florida,Okaloosa,12091
+Florida,Santa Rosa,12113
+Florida,Walton,12131
+Florida,Washington,12133
+Georgia,Baldwin,13009
+Georgia,Banks,13011
+Georgia,Barrow,13013
+Georgia,Bartow,13015
+Georgia,Bibb,13021
+Georgia,Bleckley,13023
+Georgia,Butts,13035
+Georgia,Carroll,13045
+Georgia,Catoosa,13047
+Georgia,Chattahoochee,13053
+Georgia,Chattooga,13055
+Georgia,Cherokee,13057
+Georgia,Clarke,13059
+Georgia,Clay,13061
+Georgia,Clayton,13063
+Georgia,Cobb,13067
+Georgia,Columbia,13073
+Georgia,Coweta,13077
+Georgia,Crawford,13079
+Georgia,Dade,13083
+Georgia,Dawson,13085
+Georgia,DeKalb,13089
+Georgia,Dodge,13091
+Georgia,Dooly,13093
+Georgia,Douglas,13097
+Georgia,Elbert,13105
+Georgia,Fannin,13111
+Georgia,Fayette,13113
+Georgia,Floyd,13115
+Georgia,Forsyth,13117
+Georgia,Franklin,13119
+Georgia,Fulton,13121
+Georgia,Gilmer,13123
+Georgia,Glascock,13125
+Georgia,Gordon,13129
+Georgia,Greene,13133
+Georgia,Gwinnett,13135
+Georgia,Habersham,13137
+Georgia,Hall,13139
+Georgia,Hancock,13141
+Georgia,Haralson,13143
+Georgia,Harris,13145
+Georgia,Hart,13147
+Georgia,Heard,13149
+Georgia,Henry,13151
+Georgia,Houston,13153
+Georgia,Jackson,13157
+Georgia,Jasper,13159
+Georgia,Jefferson,13163
+Georgia,Johnson,13167
+Georgia,Jones,13169
+Georgia,Lamar,13171
+Georgia,Laurens,13175
+Georgia,Lincoln,13181
+Georgia,Lumpkin,13187
+Georgia,Macon,13193
+Georgia,Madison,13195
+Georgia,Marion,13197
+Georgia,McDuffie,13189
+Georgia,Meriwether,13199
+Georgia,Monroe,13207
+Georgia,Morgan,13211
+Georgia,Murray,13213
+Georgia,Muscogee,13215
+Georgia,Newton,13217
+Georgia,Oconee,13219
+Georgia,Oglethorpe,13221
+Georgia,Paulding,13223
+Georgia,Peach,13225
+Georgia,Pickens,13227
+Georgia,Pike,13231
+Georgia,Polk,13233
+Georgia,Pulaski,13235
+Georgia,Putnam,13237
+Georgia,Quitman,13239
+Georgia,Rabun,13241
+Georgia,Randolph,13243
+Georgia,Rockdale,13247
+Georgia,Schley,13249
+Georgia,Spalding,13255
+Georgia,Stephens,13257
+Georgia,Stewart,13259
+Georgia,Sumter,13261
+Georgia,Talbot,13263
+Georgia,Taliaferro,13265
+Georgia,Taylor,13269
+Georgia,Terrell,13273
+Georgia,Towns,13281
+Georgia,Troup,13285
+Georgia,Twiggs,13289
+Georgia,Union,13291
+Georgia,Upson,13293
+Georgia,Walker,13295
+Georgia,Walton,13297
+Georgia,Warren,13301
+Georgia,Washington,13303
+Georgia,Webster,13307
+Georgia,White,13311
+Georgia,Whitfield,13313
+Georgia,Wilcox,13315
+Georgia,Wilkes,13317
+Georgia,Wilkinson,13319
+Kansas,Finney,20055
+Kansas,Grant,20067
+Kansas,Hamilton,20075
+Kansas,Haskell,20081
+Kansas,Hodgeman,20083
+Kansas,Kearny,20093
+Kansas,Lane,20101
+Kansas,Morton,20129
+Kansas,Ness,20135
+Kansas,Scott,20171
+Kansas,Stanton,20187
+Kansas,Stevens,20189
+Kansas,Wichita,20203
+Mississippi,Adams,28001
+Mississippi,Alcorn,28003
+Mississippi,Attala,28007
+Mississippi,Benton,28009
+Mississippi,Bolivar,28011
+Mississippi,Calhoun,28013
+Mississippi,Carroll,28015
+Mississippi,Chickasaw,28017
+Mississippi,Choctaw,28019
+Mississippi,Claiborne,28021
+Mississippi,Clarke,28023
+Mississippi,Clay,28025
+Mississippi,Coahoma,28027
+Mississippi,Copiah,28029
+Mississippi,Covington,28031
+Mississippi,Forrest,28035
+Mississippi,George,28039
+Mississippi,Greene,28041
+Mississippi,Grenada,28043
+Mississippi,Harrison,28047
+Mississippi,Hinds,28049
+Mississippi,Holmes,28051
+Mississippi,Humphreys,28053
+Mississippi,Issaquena,28055
+Mississippi,Itawamba,28057
+Mississippi,Jackson,28059
+Mississippi,Jasper,28061
+Mississippi,Jefferson,28063
+Mississippi,Jones,28067
+Mississippi,Kemper,28069
+Mississippi,Lafayette,28071
+Mississippi,Lamar,28073
+Mississippi,Lauderdale,28075
+Mississippi,Leake,28079
+Mississippi,Lee,28081
+Mississippi,Leflore,28083
+Mississippi,Lowndes,28087
+Mississippi,Madison,28089
+Mississippi,Marshall,28093
+Mississippi,Monroe,28095
+Mississippi,Montgomery,28097
+Mississippi,Neshoba,28099
+Mississippi,Newton,28101
+Mississippi,Noxubee,28103
+Mississippi,Oktibbeha,28105
+Mississippi,Panola,28107
+Mississippi,Perry,28111
+Mississippi,Pontotoc,28115
+Mississippi,Prentiss,28117
+Mississippi,Quitman,28119
+Mississippi,Rankin,28121
+Mississippi,Scott,28123
+Mississippi,Sharkey,28125
+Mississippi,Simpson,28127
+Mississippi,Smith,28129
+Mississippi,Stone,28131
+Mississippi,Sunflower,28133
+Mississippi,Tallahatchie,28135
+Mississippi,Tate,28137
+Mississippi,Tippah,28139
+Mississippi,Tishomingo,28141
+Mississippi,Union,28145
+Mississippi,Warren,28149
+Mississippi,Washington,28151
+Mississippi,Wayne,28153
+Mississippi,Webster,28155
+Mississippi,Winston,28159
+Mississippi,Yalobusha,28161
+Mississippi,Yazoo,28163
+Nevada,Esmeralda,32009
+Nevada,Mineral,32021
+North Carolina,Cherokee,37039
+North Carolina,Clay,37043
+North Carolina,Cleveland,37045
+North Carolina,Gaston,37071
+North Carolina,Haywood,37087
+North Carolina,Lincoln,37109
+North Carolina,Macon,37113
+North Carolina,Madison,37115
+North Carolina,Swain,37173
+Oklahoma,Adair,40001
+Oklahoma,Atoka,40005
+Oklahoma,Bryan,40013
+Oklahoma,Canadian,40017
+Oklahoma,Cherokee,40021
+Oklahoma,Choctaw,40023
+Oklahoma,Cimarron,40025
+Oklahoma,Cleveland,40027
+Oklahoma,Coal,40029
+Oklahoma,Creek,40037
+Oklahoma,Dewey,40043
+Oklahoma,Ellis,40045
+Oklahoma,Garfield,40047
+Oklahoma,Garvin,40049
+Oklahoma,Grady,40051
+Oklahoma,Haskell,40061
+Oklahoma,Hughes,40063
+Oklahoma,Johnston,40069
+Oklahoma,Kingfisher,40073
+Oklahoma,Latimer,40077
+Oklahoma,Le Flore,40079
+Oklahoma,Lincoln,40081
+Oklahoma,Logan,40083
+Oklahoma,McClain,40087
+Oklahoma,McCurtain,40089
+Oklahoma,McIntosh,40091
+Oklahoma,Murray,40099
+Oklahoma,Muskogee,40101
+Oklahoma,Noble,40103
+Oklahoma,Okfuskee,40107
+Oklahoma,Oklahoma,40109
+Oklahoma,Okmulgee,40111
+Oklahoma,Osage,40113
+Oklahoma,Pawnee,40117
+Oklahoma,Payne,40119
+Oklahoma,Pittsburg,40121
+Oklahoma,Pontotoc,40123
+Oklahoma,Pottawatomie,40125
+Oklahoma,Pushmataha,40127
+Oklahoma,Roger Mills,40129
+Oklahoma,Rogers,40131
+Oklahoma,Seminole,40133
+Oklahoma,Sequoyah,40135
+Oklahoma,Texas,40139
+Oklahoma,Tulsa,40143
+Oklahoma,Wagoner,40145
+Oklahoma,Woods,40151
+Oklahoma,Woodward,40153
+South Carolina,Abbeville,45001
+South Carolina,Anderson,45007
+South Carolina,Cherokee,45021
+South Carolina,Chester,45023
+South Carolina,Edgefield,45037
+South Carolina,Fairfield,45039
+South Carolina,Greenville,45045
+South Carolina,Greenwood,45047
+South Carolina,Laurens,45059
+South Carolina,McCormick,45065
+South Carolina,Newberry,45071
+South Carolina,Oconee,45073
+South Carolina,Pickens,45077
+South Carolina,Spartanburg,45083
+South Carolina,Union,45087
+South Carolina,York,45091
+Tennessee,Anderson,47001
+Tennessee,Bedford,47003
+Tennessee,Bledsoe,47007
+Tennessee,Blount,47009
+Tennessee,Bradley,47011
+Tennessee,Campbell,47013
+Tennessee,Cannon,47015
+Tennessee,Cheatham,47021
+Tennessee,Claiborne,47025
+Tennessee,Clay,47027
+Tennessee,Cocke,47029
+Tennessee,Coffee,47031
+Tennessee,Cumberland,47035
+Tennessee,Davidson,47037
+Tennessee,DeKalb,47041
+Tennessee,Dickson,47043
+Tennessee,Fentress,47049
+Tennessee,Franklin,47051
+Tennessee,Giles,47055
+Tennessee,Grainger,47057
+Tennessee,Greene,47059
+Tennessee,Grundy,47061
+Tennessee,Hamblen,47063
+Tennessee,Hamilton,47065
+Tennessee,Hancock,47067
+Tennessee,Hardin,47071
+Tennessee,Hawkins,47073
+Tennessee,Hickman,47081
+Tennessee,Jackson,47087
+Tennessee,Jefferson,47089
+Tennessee,Knox,47093
+Tennessee,Lawrence,47099
+Tennessee,Lewis,47101
+Tennessee,Lincoln,47103
+Tennessee,Loudon,47105
+Tennessee,Macon,47111
+Tennessee,Marion,47115
+Tennessee,Marshall,47117
+Tennessee,Maury,47119
+Tennessee,McMinn,47107
+Tennessee,Meigs,47121
+Tennessee,Monroe,47123
+Tennessee,Montgomery,47125
+Tennessee,Moore,47127
+Tennessee,Morgan,47129
+Tennessee,Overton,47133
+Tennessee,Pickett,47137
+Tennessee,Polk,47139
+Tennessee,Putnam,47141
+Tennessee,Rhea,47143
+Tennessee,Roane,47145
+Tennessee,Robertson,47147
+Tennessee,Rutherford,47149
+Tennessee,Scott,47151
+Tennessee,Sequatchie,47153
+Tennessee,Sevier,47155
+Tennessee,Smith,47159
+Tennessee,Sumner,47165
+Tennessee,Trousdale,47169
+Tennessee,Union,47173
+Tennessee,Van Buren,47175
+Tennessee,Warren,47177
+Tennessee,Wayne,47181
+Tennessee,White,47185
+Tennessee,Williamson,47187
+Tennessee,Wilson,47189
+Texas,Bowie,48037
+Texas,Camp,48063
+Texas,Cass,48067
+Texas,Delta,48119
+Texas,Fannin,48147
+Texas,Harrison,48203
+Texas,Hopkins,48223
+Texas,Hunt,48231
+Texas,Lamar,48277
+Texas,Marion,48315
+Texas,Morris,48343
+Texas,Red River,48387
+Texas,Titus,48449
+Texas,Upshur,48459
+Utah,Juab,49023
+Utah,Utah,49049
+Arizona,La Paz,4012
+Arizona,Mohave,4015
+Arkansas,Benton,5007
+Arkansas,Boone,5009
+Arkansas,Bradley,5011
+Arkansas,Carroll,5015
+Arkansas,Desha,5041
+Arkansas,Drew,5043
+Arkansas,Hempstead,5057
+Arkansas,Howard,5061
+Arkansas,Lafayette,5073
+Arkansas,Montgomery,5097
+Arkansas,Phillips,5107
+Arkansas,Polk,5113
+Arkansas,Pope,5115
+Arkansas,Searcy,5129
+Arkansas,Sevier,5133
+Arkansas,Union,5139
+Arkansas,Yell,5149
+California,Alameda,6001
+California,Alpine,6003
+California,Amador,6005
+California,Contra Costa,6013
+California,Imperial,6025
+California,Sacramento,6067
+California,San Mateo,6081
+California,Santa Cruz,6087
+Colorado,Adams,8001
+Colorado,Arapahoe,8005
+Colorado,Bent,8011
+Colorado,Boulder,8013
+Colorado,Broomfield,8014
+Colorado,Cheyenne,8017
+Colorado,Crowley,8025
+Colorado,Douglas,8035
+Colorado,El Paso,8041
+Colorado,Kiowa,8061
+Colorado,Kit Carson,8063
+Colorado,Larimer,8069
+Colorado,Las Animas,8071
+Colorado,Logan,8075
+Colorado,Morgan,8087
+Colorado,Prowers,8099
+Colorado,Pueblo,8101
+Colorado,Washington,8121
+Florida,Calhoun,12013
+Florida,Gadsden,12039
+Florida,Gulf,12045
+Florida,Liberty,12077
+Georgia,Ben Hill,13017
+Georgia,Burke,13033
+Georgia,Calhoun,13037
+Georgia,Crisp,13081
+Georgia,Dougherty,13095
+Georgia,Early,13099
+Georgia,Emanuel,13107
+Georgia,Lee,13177
+Georgia,Richmond,13245
+Georgia,Seminole,13253
+Georgia,Telfair,13271
+Georgia,Treutlen,13283
+Georgia,Turner,13287
+Georgia,Wheeler,13309
+Kansas,Barber,20007
+Kansas,Chautauqua,20019
+Kansas,Comanche,20033
+Kansas,Cowley,20035
+Kansas,Edwards,20047
+Kansas,Ellis,20051
+Kansas,Ford,20057
+Kansas,Gove,20063
+Kansas,Gray,20069
+Kansas,Greeley,20071
+Kansas,Logan,20109
+Kansas,Meade,20119
+Kansas,Pawnee,20145
+Kansas,Rush,20165
+Kansas,Seward,20175
+Kansas,Trego,20195
+Kansas,Wallace,20199
+Kentucky,Allen,21003
+Kentucky,Bell,21013
+Kentucky,Christian,21047
+Kentucky,Clinton,21053
+Kentucky,Cumberland,21057
+Kentucky,Logan,21141
+Kentucky,McCreary,21147
+Kentucky,Monroe,21171
+Kentucky,Simpson,21213
+Kentucky,Todd,21219
+Kentucky,Wayne,21231
+Kentucky,Whitley,21235
+Louisiana,Bossier,22015
+Louisiana,Caddo,22017
+Louisiana,Concordia,22029
+Louisiana,East Carroll,22035
+Louisiana,Madison,22065
+Louisiana,Morehouse,22067
+Louisiana,Tensas,22107
+Louisiana,Union,22111
+Louisiana,West Carroll,22123
+Mississippi,DeSoto,28033
+Mississippi,Franklin,28037
+Mississippi,Hancock,28045
+Mississippi,Jefferson Davis,28065
+Mississippi,Lawrence,28077
+Mississippi,Lincoln,28085
+Mississippi,Marion,28091
+Mississippi,Pearl River,28109
+Mississippi,Tunica,28143
+Mississippi,Wilkinson,28157
+Nebraska,Kimball,31105
+Nevada,Churchill,32001
+Nevada,Clark,32003
+Nevada,Douglas,32005
+Nevada,Lyon,32019
+Nevada,Nye,32023
+Nevada,White Pine,32033
+New Mexico,Union,35059
+North Carolina,Buncombe,37021
+North Carolina,Burke,37023
+North Carolina,Catawba,37035
+North Carolina,Graham,37075
+North Carolina,Henderson,37089
+North Carolina,Iredell,37097
+North Carolina,Jackson,37099
+North Carolina,Mecklenburg,37119
+North Carolina,Polk,37149
+North Carolina,Rutherford,37161
+North Carolina,Transylvania,37175
+North Carolina,Yancey,37199
+Oklahoma,Alfalfa,40003
+Oklahoma,Beaver,40007
+Oklahoma,Beckham,40009
+Oklahoma,Blaine,40011
+Oklahoma,Caddo,40015
+Oklahoma,Carter,40019
+Oklahoma,Comanche,40031
+Oklahoma,Craig,40035
+Oklahoma,Custer,40039
+Oklahoma,Delaware,40041
+Oklahoma,Grant,40053
+Oklahoma,Harper,40059
+Oklahoma,Kay,40071
+Oklahoma,Major,40093
+Oklahoma,Marshall,40095
+Oklahoma,Mayes,40097
+Oklahoma,Nowata,40105
+Oklahoma,Stephens,40137
+Oklahoma,Washington,40147
+South Carolina,Aiken,45003
+South Carolina,Kershaw,45055
+South Carolina,Lancaster,45057
+South Carolina,Lexington,45063
+South Carolina,Richland,45079
+South Carolina,Saluda,45081
+Tennessee,Chester,47023
+Tennessee,Decatur,47039
+Tennessee,Fayette,47047
+Tennessee,Hardeman,47069
+Tennessee,Henderson,47077
+Tennessee,Houston,47083
+Tennessee,Humphreys,47085
+Tennessee,McNairy,47109
+Tennessee,Perry,47135
+Tennessee,Shelby,47157
+Tennessee,Stewart,47161
+Tennessee,Sullivan,47163
+Tennessee,Unicoi,47171
+Tennessee,Washington,47179
+Texas,Collin,48085
+Texas,Dallam,48111
+Texas,Franklin,48159
+Texas,Grayson,48181
+Texas,Gregg,48183
+Texas,Hansford,48195
+Texas,Hemphill,48211
+Texas,Kaufman,48257
+Texas,Lipscomb,48295
+Texas,Ochiltree,48357
+Texas,Panola,48365
+Texas,Rains,48379
+Texas,Rockwall,48397
+Texas,Rusk,48401
+Texas,Sherman,48421
+Texas,Smith,48423
+Texas,Van Zandt,48467
+Texas,Wheeler,48483
+Texas,Wood,48499
+Utah,Carbon,49007
+Utah,Duchesne,49013
+Utah,Millard,49027
+Utah,Salt Lake,49035
+Utah,Sanpete,49039
+Utah,Tooele,49045
+Utah,Wasatch,49051
+Virginia,Lee,51105
+Virginia,Scott,51169
+Wyoming,Laramie,56021
